@@ -1,0 +1,47 @@
+.App {
+  text-align: left;
+  margin-top: 10px;
+  background-color: #fff; /* complementing color */
+  color: #000000; /* black */
+  font-family: 'Open Sans', sans-serif;
+}
+
+button {
+  background-color: #1862a8; /* main color */
+  color: #ffcc33; /* main color */
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #145186; /* complementing color: Mellanblå */
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #7c797e; /* complementing color: Grå 2 */
+  margin-right: 10px;
+  background-color: #fff;
+  color: #000; /* Svart */
+}
+
+input[type=range] {
+  cursor: pointer;
+}
+
+p {
+  color: #7c797e; /* complementing color: Grå 2 */
+}
+
+h2 {
+  color: #1862a8; /* main color */
+}
