@@ -1,5 +1,6 @@
 [
   {
+    "id": "crdAf8VbFXb7bvHE9CUL6Q",
     "kategori": "SAMTLIGA BROTT",
     "underkategori": "SAMTLIGA BROTT",
     "handlagda": 1457533,
@@ -23,6 +24,7 @@
     }
   },
   {
+    "id": "uGHRFxDGGY824CfaBQswF1",
     "kategori": "Brott mot brottsbalken",
     "underkategori": "Brott mot brottsbalken, totalt",
     "handlagda": 1175373,
@@ -46,6 +48,7 @@
     }
   },
   {
+    "id": "o23nk3wVKew4qXNhUXAh74",
     "kategori": "BrB 3-7 kap. Brott mot person",
     "underkategori": "Brott mot person, totalt",
     "handlagda": 290563,
@@ -69,6 +72,7 @@
     }
   },
   {
+    "id": "mqe8MWTiXRQEz82EzkQhaY",
     "kategori": "3 kap. Brott mot liv och hälsa",
     "underkategori": "Brott mot liv och hälsa, totalt",
     "handlagda": 90498,
@@ -92,6 +96,7 @@
     }
   },
   {
+    "id": "9kWHHZXWkvtudiM7RDn2X4",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Fullbordat mord och dråp samt misshandel med dödlig utgång, totalt",
     "handlagda": 424,
@@ -115,6 +120,7 @@
     }
   },
   {
+    "id": "gKGqgzz8WcrpwaUPkivbR2",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Mot kvinna/flicka",
     "handlagda": 151,
@@ -138,6 +144,7 @@
     }
   },
   {
+    "id": "ooubrKSyKqjyXUTYHDzE8s",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Mot kvinna/flicka, med användning av skjutvapen",
     "handlagda": 24,
@@ -161,6 +168,7 @@
     }
   },
   {
+    "id": "h8JbwV1GhYkWGbXt7SEGK5",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Mot kvinna/flicka, utan användning av skjutvapen",
     "handlagda": 127,
@@ -184,6 +192,7 @@
     }
   },
   {
+    "id": "fVxZgX4Ci3jS2FwruTSLyN",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Mot man/pojke",
     "handlagda": 262,
@@ -207,6 +216,7 @@
     }
   },
   {
+    "id": "raAYZGaRMLr9qsN5pkR5xb",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Mot man/pojke, med användning av skjutvapen",
     "handlagda": 91,
@@ -230,6 +240,7 @@
     }
   },
   {
+    "id": "dcB9dXxLetgkEz2N6sMjou",
     "kategori": "3 kap. 1-2, 5-6 § BrB Fullbordat mord och dråp samt misshandel med dödlig utgång",
     "underkategori": "Mot man/pojke, utan användning av skjutvapen",
     "handlagda": 171,
@@ -253,6 +264,7 @@
     }
   },
   {
+    "id": "kqFuUFJRpsR8tZMMSHpMuD",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Försök till mord eller dråp, totalt",
     "handlagda": 1026,
@@ -276,6 +288,7 @@
     }
   },
   {
+    "id": "8pJRLJ1oKNoDu5VVqDoj6e",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 92,
@@ -299,6 +312,7 @@
     }
   },
   {
+    "id": "m6yB712Cfpfbm8pXdu9SJ6",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 28,
@@ -322,6 +336,7 @@
     }
   },
   {
+    "id": "8AxFJhHMBSWUEqpWMqwKQi",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 64,
@@ -345,6 +360,7 @@
     }
   },
   {
+    "id": "uZ7xnedX31vN9gVVkFa7ML",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 160,
@@ -368,6 +384,7 @@
     }
   },
   {
+    "id": "m5K9irzuqXuT5Ym2NS1xYa",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 49,
@@ -391,6 +408,7 @@
     }
   },
   {
+    "id": "vihHeiXokSCTSCRqYf1Wu4",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 16,
@@ -414,6 +432,7 @@
     }
   },
   {
+    "id": "mA4iwsMR1mbPjMWRgxbCjp",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 33,
@@ -437,6 +456,7 @@
     }
   },
   {
+    "id": "2RiGiFgxkkepf3HJEEr92f",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 62,
@@ -460,6 +480,7 @@
     }
   },
   {
+    "id": "pEvPKfUiMLcgdBwXY5Jeni",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 767,
@@ -483,6 +504,7 @@
     }
   },
   {
+    "id": "rwdhPL3QAjJd9Awy2g8JAo",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 26,
@@ -506,6 +528,7 @@
     }
   },
   {
+    "id": "jKykpZPTiUud2XRvSLngVB",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 31,
@@ -529,6 +552,7 @@
     }
   },
   {
+    "id": "2cTi1GtsnCga6HWqcfmgms",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 217,
@@ -552,6 +576,7 @@
     }
   },
   {
+    "id": "789p8yumnsWi6h32fztudp",
     "kategori": "3 kap. 1, 2 § BrB Försök till mord eller dråp",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 493,
@@ -575,6 +600,7 @@
     }
   },
   {
+    "id": "tLHPStbQDcnTzv3iQZ3gC2",
     "kategori": "3 kap. 3 § BrB Barnadråp 3 §",
     "underkategori": "Barnadråp, totalt",
     "handlagda": 1,
@@ -598,6 +624,7 @@
     }
   },
   {
+    "id": "iasaPSPSRKo3mkKHEDtDEU",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Misshandel, ej med dödlig utgång, totalt",
     "handlagda": 83655,
@@ -621,6 +648,7 @@
     }
   },
   {
+    "id": "7LJNfYhT6oD3jdtLA3MMDH",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot barn 0-6 år",
     "handlagda": 3972,
@@ -644,6 +672,7 @@
     }
   },
   {
+    "id": "rV4g9pSYJzrNa3rzwtnmhE",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år",
     "handlagda": 1638,
@@ -667,6 +696,7 @@
     }
   },
   {
+    "id": "dPjNcHq9dr1sPhiYzPoHV4",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år, bekant med offret",
     "handlagda": 1583,
@@ -690,6 +720,7 @@
     }
   },
   {
+    "id": "jgBovzJBoQcmZMh3WjJYhr",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år, bekant med offret, utomhus",
     "handlagda": 97,
@@ -713,6 +744,7 @@
     }
   },
   {
+    "id": "efam5AxwcX5j5qvbyUzjwb",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år, bekant med offret inomhus",
     "handlagda": 1486,
@@ -736,6 +768,7 @@
     }
   },
   {
+    "id": "wyaryvzXpf3q6SfCrZg5dX",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år, obekant med offret",
     "handlagda": 55,
@@ -759,6 +792,7 @@
     }
   },
   {
+    "id": "9A8goVfAQuQZMxg1USx4pz",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år, obekant med offret, utomhus",
     "handlagda": 33,
@@ -782,6 +816,7 @@
     }
   },
   {
+    "id": "5BogwAe5ezNweHZdBMdgSJ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 0-6 år, obekant med offret, inomhus",
     "handlagda": 22,
@@ -805,6 +840,7 @@
     }
   },
   {
+    "id": "6XJnCADiUsGjW5SRUfHkkD",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år",
     "handlagda": 2334,
@@ -828,6 +864,7 @@
     }
   },
   {
+    "id": "27FafbesNLQdC6jWoEY2W8",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år, bekant med offret",
     "handlagda": 2245,
@@ -851,6 +888,7 @@
     }
   },
   {
+    "id": "qsPbWpzy8xZV3qSX3PMn4s",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år, bekant med offret, utomhus",
     "handlagda": 145,
@@ -874,6 +912,7 @@
     }
   },
   {
+    "id": "x7Yt3j8BQQsjzVmhvmfm7x",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år, bekant med offret, inomhus",
     "handlagda": 2100,
@@ -897,6 +936,7 @@
     }
   },
   {
+    "id": "ccc8WrsZuQ42F3sMe42vMg",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år, obekant med offret",
     "handlagda": 89,
@@ -920,6 +960,7 @@
     }
   },
   {
+    "id": "idtgM1Ei3cfGaKB6uKNdgN",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år, obekant med offret, utomhus",
     "handlagda": 55,
@@ -943,6 +984,7 @@
     }
   },
   {
+    "id": "twnh9wpE4tqVTJdiAPJt7r",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 0-6 år, obekant med offret, inomhus",
     "handlagda": 34,
@@ -966,6 +1008,7 @@
     }
   },
   {
+    "id": "6a9rZZD62iBYWaFm8iLmic",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot barn 7-14 år",
     "handlagda": 13508,
@@ -989,6 +1032,7 @@
     }
   },
   {
+    "id": "tYiDmz9M83B6FGpY7qfz3j",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år",
     "handlagda": 5430,
@@ -1012,6 +1056,7 @@
     }
   },
   {
+    "id": "wJqsvfA6fqxRTcmSGnTozB",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år, bekant med offret",
     "handlagda": 4920,
@@ -1035,6 +1080,7 @@
     }
   },
   {
+    "id": "bEiCVmKKzPmjm4ZeB83EC4",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år, bekant med offret, utomhus",
     "handlagda": 975,
@@ -1058,6 +1104,7 @@
     }
   },
   {
+    "id": "3wB9YzNPuqefEteJQEuLUd",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år, bekant med offret, inomhus",
     "handlagda": 3945,
@@ -1081,6 +1128,7 @@
     }
   },
   {
+    "id": "mEJvzjjJDk5fWWkA5atyvZ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år, obekant med offret",
     "handlagda": 510,
@@ -1104,6 +1152,7 @@
     }
   },
   {
+    "id": "ja8LDbyu5zF7wDi374tyRV",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år, obekant med offret, utomhus",
     "handlagda": 328,
@@ -1127,6 +1176,7 @@
     }
   },
   {
+    "id": "vanhqu1oo1bQW58nxU34BF",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 7-14 år, obekant med offret, inomhus",
     "handlagda": 182,
@@ -1150,6 +1200,7 @@
     }
   },
   {
+    "id": "rA4yPAokszTpdmsDnkCLfC",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år",
     "handlagda": 8078,
@@ -1173,6 +1224,7 @@
     }
   },
   {
+    "id": "9bG5WRpBkVwXAHQuxibHRV",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år, bekant med offret",
     "handlagda": 6541,
@@ -1196,6 +1248,7 @@
     }
   },
   {
+    "id": "oiFTYTJVH361H3GLrfsPVp",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år, bekant med offret, utomhus",
     "handlagda": 1764,
@@ -1219,6 +1272,7 @@
     }
   },
   {
+    "id": "vWMnpkMZyz697APVAW2rre",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år, bekant med offret, inomhus",
     "handlagda": 4777,
@@ -1242,6 +1296,7 @@
     }
   },
   {
+    "id": "nzWigBEmwqqo5XjHhexipf",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år, obekant med offret",
     "handlagda": 1537,
@@ -1265,6 +1320,7 @@
     }
   },
   {
+    "id": "qUqsTSqvqg3BeFdgKy4pnZ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år, obekant med offret, utomhus",
     "handlagda": 1165,
@@ -1288,6 +1344,7 @@
     }
   },
   {
+    "id": "nUhYxSq9jL4kTH4QpPn6qy",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 7-14 år, obekant med offret, inomhus",
     "handlagda": 372,
@@ -1311,6 +1368,7 @@
     }
   },
   {
+    "id": "23ag9FgQEwNshHw1A2LRE5",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot barn 15-17 år",
     "handlagda": 6839,
@@ -1334,6 +1392,7 @@
     }
   },
   {
+    "id": "iXP36HNRoMuqmmEytDT65h",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år",
     "handlagda": 2645,
@@ -1357,6 +1416,7 @@
     }
   },
   {
+    "id": "6oXcQ7DmCxd4Gaarzc4g99",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år, bekant med offret",
     "handlagda": 2114,
@@ -1380,6 +1440,7 @@
     }
   },
   {
+    "id": "1cjukbcPqyTTSeqEmqYTFp",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år, bekant med offret, utomhus",
     "handlagda": 596,
@@ -1403,6 +1464,7 @@
     }
   },
   {
+    "id": "ufwwY33P4SW9tb1BBLv2EZ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år, bekant med offret, inomhus",
     "handlagda": 1518,
@@ -1426,6 +1488,7 @@
     }
   },
   {
+    "id": "pVS3oJHRtVMoWUR3cY5bEa",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år, obekant med offret",
     "handlagda": 531,
@@ -1449,6 +1512,7 @@
     }
   },
   {
+    "id": "n4H2gqMxKx8fcFADqm72LH",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år, obekant med offret, utomhus",
     "handlagda": 344,
@@ -1472,6 +1536,7 @@
     }
   },
   {
+    "id": "9F9UY37XbzYzh9idBmawUQ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot flicka 15-17 år, obekant med offret, inomhus",
     "handlagda": 187,
@@ -1495,6 +1560,7 @@
     }
   },
   {
+    "id": "7XJ7cxPxgbEg4r8kxBWM7h",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år",
     "handlagda": 4194,
@@ -1518,6 +1584,7 @@
     }
   },
   {
+    "id": "pnw7xfvq5MJckuXV4SzftZ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år, bekant med offret",
     "handlagda": 2461,
@@ -1541,6 +1608,7 @@
     }
   },
   {
+    "id": "n5671C4VapjeKwr61HgxLu",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år, bekant med offret, utomhus",
     "handlagda": 1075,
@@ -1564,6 +1632,7 @@
     }
   },
   {
+    "id": "oW1sFJzY2XQaxPKsBAxZcE",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år, bekant med offret, inomhus",
     "handlagda": 1386,
@@ -1587,6 +1656,7 @@
     }
   },
   {
+    "id": "cSx4DD65TBhgr5Seuu9gap",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år, obekant med offret",
     "handlagda": 1733,
@@ -1610,6 +1680,7 @@
     }
   },
   {
+    "id": "w5hryQaWHTWsqjQQCfff78",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år, obekant med offret, utomhus",
     "handlagda": 1330,
@@ -1633,6 +1704,7 @@
     }
   },
   {
+    "id": "3kAf5HJv7aMJhcHhMkeyAJ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot pojke 15-17 år, obekant med offret, inomhus",
     "handlagda": 403,
@@ -1656,6 +1728,7 @@
     }
   },
   {
+    "id": "vKZR6v9JZqZhYg2wZ7Ck66",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 29298,
@@ -1679,6 +1752,7 @@
     }
   },
   {
+    "id": "7xkUA5K7zwwbKLQMwQZQrX",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 13248,
@@ -1702,6 +1776,7 @@
     }
   },
   {
+    "id": "6mhybJVmmuhBReN4vhUdFN",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 3161,
@@ -1725,6 +1800,7 @@
     }
   },
   {
+    "id": "p728dyFQRNdoAurjULqPw9",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 6856,
@@ -1748,6 +1824,7 @@
     }
   },
   {
+    "id": "dB94xeZvG8xU9m1uqP3R5p",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 1841,
@@ -1771,6 +1848,7 @@
     }
   },
   {
+    "id": "5Mpm6YjsKwc2DERH14uNwZ",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 5015,
@@ -1794,6 +1872,7 @@
     }
   },
   {
+    "id": "vHKLecMA6aWgBLLzGKpGi8",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekant med offret",
     "handlagda": 6020,
@@ -1817,6 +1896,7 @@
     }
   },
   {
+    "id": "9qVBxde1j1iX7jPd6hZgph",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekant med offret, utomhus",
     "handlagda": 3106,
@@ -1840,6 +1920,7 @@
     }
   },
   {
+    "id": "dTXBMwoaspc9Ajjh42LFye",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekant med offret, inomhus",
     "handlagda": 2914,
@@ -1863,6 +1944,7 @@
     }
   },
   {
+    "id": "nmXKtGbN1PjbdKFbfngjSC",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 30038,
@@ -1886,6 +1968,7 @@
     }
   },
   {
+    "id": "irQ9Vyih5HQ2BwiMi2b1xa",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 2875,
@@ -1909,6 +1992,7 @@
     }
   },
   {
+    "id": "hyBHTY4gL1Gd38ncJaLiuE",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 1721,
@@ -1932,6 +2016,7 @@
     }
   },
   {
+    "id": "4oV6e2XxiPutY8hPd8XNmv",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 8063,
@@ -1955,6 +2040,7 @@
     }
   },
   {
+    "id": "mGxjRsSgmNU98xy3NHJHKt",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 3516,
@@ -1978,6 +2064,7 @@
     }
   },
   {
+    "id": "rBmf7EyZFsh2RsuD178Nbv",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 4547,
@@ -2001,6 +2088,7 @@
     }
   },
   {
+    "id": "2Xk21YrHSjqpYufd8Wto7A",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekant med offret",
     "handlagda": 17374,
@@ -2024,6 +2112,7 @@
     }
   },
   {
+    "id": "j9nKHA2zafxA8wHpGwnWwt",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekant med offret, utomhus",
     "handlagda": 11929,
@@ -2047,6 +2136,7 @@
     }
   },
   {
+    "id": "mvJ3nCUXjw9ehvRg9Bk256",
     "kategori": "3 kap. 5, 6 § BrB Misshandel inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekant med offret, inomhus",
     "handlagda": 5445,
@@ -2070,6 +2160,7 @@
     }
   },
   {
+    "id": "vS1uqTZZrUjvJcudNkLSkk",
     "kategori": "3 kap. 7, 10 § BrB Vållande till annans död",
     "underkategori": "Vållande till annans död, totalt",
     "handlagda": 309,
@@ -2093,6 +2184,7 @@
     }
   },
   {
+    "id": "5vNrVecjpdqfx2MjC3smsB",
     "kategori": "3 kap. 7, 10 § BrB Vållande till annans död",
     "underkategori": "I samband med trafikolycka",
     "handlagda": 114,
@@ -2116,6 +2208,7 @@
     }
   },
   {
+    "id": "o7RZExipJbPve3YMCq4iut",
     "kategori": "3 kap. 7, 10 § BrB Vållande till annans död",
     "underkategori": "I samband med arbetsolycka",
     "handlagda": 44,
@@ -2139,6 +2232,7 @@
     }
   },
   {
+    "id": "2aoh5RcWh4hqGL2ds1zLEd",
     "kategori": "3 kap. 7, 10 § BrB Vållande till annans död",
     "underkategori": "Övriga fall",
     "handlagda": 151,
@@ -2162,6 +2256,7 @@
     }
   },
   {
+    "id": "5xmcuhowKsVH9Dfo3TNTFF",
     "kategori": "3 kap. 8, 10 § BrB Vållande till kroppskada eller sjukdom (inte i samband med trafikolycka)",
     "underkategori": "Vållande till kroppskada eller sjukdom, inte i samband med trafikolycka, totalt",
     "handlagda": 3851,
@@ -2185,6 +2280,7 @@
     }
   },
   {
+    "id": "7dwXpP2zRsQmzjTYWrCV7t",
     "kategori": "3 kap. 8, 10 § BrB Vållande till kroppskada eller sjukdom (inte i samband med trafikolycka)",
     "underkategori": "I samband med arbetsolycka",
     "handlagda": 2102,
@@ -2208,6 +2304,7 @@
     }
   },
   {
+    "id": "ss5pqXhP4YVdh9mofcjhK9",
     "kategori": "3 kap. 8, 10 § BrB Vållande till kroppskada eller sjukdom (inte i samband med trafikolycka)",
     "underkategori": "Övriga fall",
     "handlagda": 1749,
@@ -2231,6 +2328,7 @@
     }
   },
   {
+    "id": "dD9Vjr8x9KvFvNwKQCmEHC",
     "kategori": "3 kap. 9, 10 § BrB Framkallande av fara för annan",
     "underkategori": "Framkallande av fara för annan, totalt",
     "handlagda": 1232,
@@ -2254,6 +2352,7 @@
     }
   },
   {
+    "id": "28CNER7tfKMaKkTNdsWGBU",
     "kategori": "3 kap. 9, 10 § BrB Framkallande av fara för annan",
     "underkategori": "Som framkallats för arbetstagare",
     "handlagda": 136,
@@ -2277,6 +2376,7 @@
     }
   },
   {
+    "id": "vGWZek4YHKG7sA9MEmdBqf",
     "kategori": "3 kap. 9, 10 § BrB Framkallande av fara för annan",
     "underkategori": "Övriga fall",
     "handlagda": 1096,
@@ -2300,6 +2400,7 @@
     }
   },
   {
+    "id": "jo23MSAyknQz7JV9d53Wkd",
     "kategori": "4 kap. Brott mot frihet och frid",
     "underkategori": "Brott mot frihet och frid, totalt",
     "handlagda": 162363,
@@ -2323,6 +2424,7 @@
     }
   },
   {
+    "id": "khSir8hvBXJ1365Qz5CVQk",
     "kategori": "4 kap. 1 § BrB Människorov ",
     "underkategori": "Människorov, totalt",
     "handlagda": 492,
@@ -2346,6 +2448,7 @@
     }
   },
   {
+    "id": "qidE2ZbhsJixFiUo1W6yZG",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "Människohandel, totalt",
     "handlagda": 175,
@@ -2369,6 +2472,7 @@
     }
   },
   {
+    "id": "kxkWFXtPZxQq4no9reBnd7",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För sexuella ändamål ",
     "handlagda": 77,
@@ -2392,6 +2496,7 @@
     }
   },
   {
+    "id": "jbEwG9MowVsDLXtNvYJQvw",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För sexuella ändamål, med barn under 18 år",
     "handlagda": 11,
@@ -2415,6 +2520,7 @@
     }
   },
   {
+    "id": "rzwhnC1MNDqxdWEHkEMfnr",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För sexuella ändamål , med person 18 år eller äldre",
     "handlagda": 66,
@@ -2438,6 +2544,7 @@
     }
   },
   {
+    "id": "jFrZVGQcJf19LmZ7ptcUbm",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För tvångsarbete",
     "handlagda": 24,
@@ -2461,6 +2568,7 @@
     }
   },
   {
+    "id": "35K5aoCrwvpbAja6m9qYFb",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För tvångsarbete, med barn under 18 år",
     "handlagda": 3,
@@ -2484,6 +2592,7 @@
     }
   },
   {
+    "id": "8wrkybvtF4NJxByE22iAyY",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För tvångsarbete, med person 18 år eller äldre",
     "handlagda": 21,
@@ -2507,6 +2616,7 @@
     }
   },
   {
+    "id": "vCUgVroG3aPk7HaSwK2sJr",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För tiggeri",
     "handlagda": 7,
@@ -2530,6 +2640,7 @@
     }
   },
   {
+    "id": "2GmQDqsz5uNKmEyHwn1DUL",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För tiggeri, med barn under 18 år",
     "handlagda": 1,
@@ -2553,6 +2664,7 @@
     }
   },
   {
+    "id": "7ntg4ys35ujokmS9RZgd7r",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För tiggeri, med person 18 år eller äldre",
     "handlagda": 6,
@@ -2576,6 +2688,7 @@
     }
   },
   {
+    "id": "mfJ1PAV6wkEaXyZZY6pPka",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För organhandel",
     "handlagda": null,
@@ -2599,6 +2712,7 @@
     }
   },
   {
+    "id": "o3Xn1TDuHLRa8SmNJmfst3",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För organhandel, med barn under 18 år",
     "handlagda": null,
@@ -2622,6 +2736,7 @@
     }
   },
   {
+    "id": "81GMqCBMum3rHoP4okmELb",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För organhandel, med person 18 år eller äldre",
     "handlagda": null,
@@ -2645,6 +2760,7 @@
     }
   },
   {
+    "id": "dH5ufiRKhEPy7BzTmbnNXU",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För krigstjänst",
     "handlagda": 2,
@@ -2668,6 +2784,7 @@
     }
   },
   {
+    "id": "k92EtXnBekCPYHqV7UE7Uh",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För krigstjänst, med barn under 18 år",
     "handlagda": 1,
@@ -2691,6 +2808,7 @@
     }
   },
   {
+    "id": "qdFpb25FFn1E474Men3ocY",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För krigstjänst, med person 18 år eller äldre",
     "handlagda": 1,
@@ -2714,6 +2832,7 @@
     }
   },
   {
+    "id": "uySVH98h6yBTLRb7P5UBvJ",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För övriga ändamål",
     "handlagda": 65,
@@ -2737,6 +2856,7 @@
     }
   },
   {
+    "id": "tBU9uDwL5147CZXvSVzWLD",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För övriga ändamål, med barn under 18 år",
     "handlagda": 23,
@@ -2760,6 +2880,7 @@
     }
   },
   {
+    "id": "oyAxvg19m9ArPApEyfB7Ak",
     "kategori": "4 kap. 1 a § BrB Människohandel",
     "underkategori": "För övriga ändamål, med person 18 år eller äldre",
     "handlagda": 42,
@@ -2783,6 +2904,7 @@
     }
   },
   {
+    "id": "6bXQaszcAEpF2YwzszkN13",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "Människoexploatering, totalt",
     "handlagda": 54,
@@ -2806,6 +2928,7 @@
     }
   },
   {
+    "id": "t7ZKQrFFG9jSH7Es9VrG8U",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "För tvångsarbete",
     "handlagda": 51,
@@ -2829,6 +2952,7 @@
     }
   },
   {
+    "id": "1GGT7xv29RNnF7G9nNN8Yn",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "För tvångsarbete, med barn under 18 år",
     "handlagda": 1,
@@ -2852,6 +2976,7 @@
     }
   },
   {
+    "id": "oQH11b4Bk668TCNB3VSoeK",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "För tvångsarbete, med person 18 år eller äldre",
     "handlagda": 50,
@@ -2875,6 +3000,7 @@
     }
   },
   {
+    "id": "fPQgcgL73b4W2ixDtinrri",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "För tiggeri",
     "handlagda": 3,
@@ -2898,6 +3024,7 @@
     }
   },
   {
+    "id": "2mjE6wUcTUkvzhQQ53L6DJ",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "För tiggeri, med barn under 18 år",
     "handlagda": 1,
@@ -2921,6 +3048,7 @@
     }
   },
   {
+    "id": "78Fe7BhZv4a3qoGFgYRTFn",
     "kategori": "4 kap. 1 b § BrB Människoexploatering, inkl. grovt",
     "underkategori": "För tiggeri, med person 18 år eller äldre",
     "handlagda": 2,
@@ -2944,6 +3072,7 @@
     }
   },
   {
+    "id": "a58BZUFZNU6pWwR2XnJsY8",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Olaga frihetsberövande, totalt",
     "handlagda": 1609,
@@ -2967,6 +3096,7 @@
     }
   },
   {
+    "id": "3vCd3aqjaRBuYKFUKTfz5N",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 390,
@@ -2990,6 +3120,7 @@
     }
   },
   {
+    "id": "mvrzcR7BAR2v7FZXD71onM",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 182,
@@ -3013,6 +3144,7 @@
     }
   },
   {
+    "id": "iVE2ASBM1ksurwEk92fFT3",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 208,
@@ -3036,6 +3168,7 @@
     }
   },
   {
+    "id": "aBqUo6edjb5aRhLwEKaX5x",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 839,
@@ -3059,6 +3192,7 @@
     }
   },
   {
+    "id": "fczFrPq4o7MwnKyqf1Y9Ak",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 365,
@@ -3082,6 +3216,7 @@
     }
   },
   {
+    "id": "mzACgZUxkiZxV76UnaNAvg",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 66,
@@ -3105,6 +3240,7 @@
     }
   },
   {
+    "id": "mnMFaPhRLWoB9dm3Nt4vSr",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 180,
@@ -3128,6 +3264,7 @@
     }
   },
   {
+    "id": "iLQgmke4Ugc69memQ9XPLE",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 228,
@@ -3151,6 +3288,7 @@
     }
   },
   {
+    "id": "jNkhLVyvAUDvZESiMwAchV",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 380,
@@ -3174,6 +3312,7 @@
     }
   },
   {
+    "id": "oJdVY15YawGCVed75G3w7P",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 16,
@@ -3197,6 +3336,7 @@
     }
   },
   {
+    "id": "n6AHnkjKTeB2WXds8q6jcG",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 16,
@@ -3220,6 +3360,7 @@
     }
   },
   {
+    "id": "7AuDo7WzgZvdeCcqn5Q9Ft",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 112,
@@ -3243,6 +3384,7 @@
     }
   },
   {
+    "id": "7knEnFV2QcsYcTbhPWnFvx",
     "kategori": "4 kap. 2 § BrB Olaga frihetsberövande",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 236,
@@ -3266,6 +3408,7 @@
     }
   },
   {
+    "id": "tDdH9dbweFA7wDujfz3Sfo",
     "kategori": "4 kap. 3 § BrB Barnfridsbrott",
     "underkategori": "Barnfridsbrott, totalt",
     "handlagda": 9003,
@@ -3289,6 +3432,7 @@
     }
   },
   {
+    "id": "fMiVYaiimVFAFNrr4AvepE",
     "kategori": "4 kap. 3 § BrB Barnfridsbrott",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 4564,
@@ -3312,6 +3456,7 @@
     }
   },
   {
+    "id": "9EeNUkFTpdf4pda4dorP9K",
     "kategori": "4 kap. 3 § BrB Barnfridsbrott",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 4439,
@@ -3335,6 +3480,7 @@
     }
   },
   {
+    "id": "4pCBv5ujN1xxR3jKH473ym",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Olaga tvång, totalt",
     "handlagda": 1142,
@@ -3358,6 +3504,7 @@
     }
   },
   {
+    "id": "j6W1t8uSUs8q1x5iMGPTbn",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 424,
@@ -3381,6 +3528,7 @@
     }
   },
   {
+    "id": "g4X4UDVsFghoJdHKsHYA2n",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 166,
@@ -3404,6 +3552,7 @@
     }
   },
   {
+    "id": "4Mp3ZDtxTqzTsaCbNVrtut",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 258,
@@ -3427,6 +3576,7 @@
     }
   },
   {
+    "id": "iGPtJeTrDk8tAZv4NfKabB",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 347,
@@ -3450,6 +3600,7 @@
     }
   },
   {
+    "id": "1CELL5GsU9dKQfqVLAynwz",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 139,
@@ -3473,6 +3624,7 @@
     }
   },
   {
+    "id": "8fpaw3DHBMXJAhdqzxe2Jq",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 29,
@@ -3496,6 +3648,7 @@
     }
   },
   {
+    "id": "qGw2pKxCamhywPxa3ToBCX",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 82,
@@ -3519,6 +3672,7 @@
     }
   },
   {
+    "id": "1kkwSKKCe1zbWgKsPGpVkV",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 96,
@@ -3542,6 +3696,7 @@
     }
   },
   {
+    "id": "2jnhinxqFhjsRiayCKpQBM",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 371,
@@ -3565,6 +3720,7 @@
     }
   },
   {
+    "id": "pgGszMMmk67oiaEPa1v7Su",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 19,
@@ -3588,6 +3744,7 @@
     }
   },
   {
+    "id": "n5Uw453XvuCeofmzMgm9vN",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 17,
@@ -3611,6 +3768,7 @@
     }
   },
   {
+    "id": "pbJ5p2yvjguu95m2p6at3M",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 118,
@@ -3634,6 +3792,7 @@
     }
   },
   {
+    "id": "6GtTDSYYgxYx7s35g1kkDz",
     "kategori": "4 kap 4 § BrB Olaga tvång",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 214,
@@ -3657,6 +3816,7 @@
     }
   },
   {
+    "id": "v8V6piJNAdhpWHvWBxAmBp",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Grov fridskränkning, totalt",
     "handlagda": 1098,
@@ -3680,6 +3840,7 @@
     }
   },
   {
+    "id": "dFTSYJLQAPX1TzrPqY4cUq",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 840,
@@ -3703,6 +3864,7 @@
     }
   },
   {
+    "id": "5owc4nDwXvk2BEdHP5J1fK",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 470,
@@ -3726,6 +3888,7 @@
     }
   },
   {
+    "id": "8hxryds22BvkQmpaGbAyy5",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 370,
@@ -3749,6 +3912,7 @@
     }
   },
   {
+    "id": "88rHnA5RKeftcFcSCtPXgm",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 163,
@@ -3772,6 +3936,7 @@
     }
   },
   {
+    "id": "8GrYpxg25Ti7xXFcveKpbT",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 118,
@@ -3795,6 +3960,7 @@
     }
   },
   {
+    "id": "5iLBizZcdC3UKtb3GK19na",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 45,
@@ -3818,6 +3984,7 @@
     }
   },
   {
+    "id": "kLiqmtSzQWBc8tXMhhrNEk",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 95,
@@ -3841,6 +4008,7 @@
     }
   },
   {
+    "id": "1g9WdSnyybNC59VVRDyjE4",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 72,
@@ -3864,6 +4032,7 @@
     }
   },
   {
+    "id": "veVXjG6A3xgfMKSkVoCdDG",
     "kategori": "4 kap 4 a § 1 st. BrB Grov fridskränkning ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 23,
@@ -3887,6 +4056,7 @@
     }
   },
   {
+    "id": "duKCvKFatjCcqYmUk4SNUj",
     "kategori": "4 kap 4 a § 2 st. BrB Grov kvinnofridskränkning ",
     "underkategori": "Grov kvinnofridskränkning, totalt",
     "handlagda": 1262,
@@ -3910,6 +4080,7 @@
     }
   },
   {
+    "id": "1exFxnQeybXMZw3CCNcMKf",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Olaga förföljelse, totalt",
     "handlagda": 499,
@@ -3933,6 +4104,7 @@
     }
   },
   {
+    "id": "oia5GfJcnRgyqhrhKQTn2d",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 18,
@@ -3956,6 +4128,7 @@
     }
   },
   {
+    "id": "bVSSpTd9ronqe3bcvyJuSE",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 14,
@@ -3979,6 +4152,7 @@
     }
   },
   {
+    "id": "5boafukMVd5YywjvQR4n7R",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 4,
@@ -4002,6 +4176,7 @@
     }
   },
   {
+    "id": "jx9rYgZaVKk1Ci95jgoi5C",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 378,
@@ -4025,6 +4200,7 @@
     }
   },
   {
+    "id": "utWoZsrcbicKNQs4ekRPQf",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 147,
@@ -4048,6 +4224,7 @@
     }
   },
   {
+    "id": "85fCMNEDDxWokDMBAtsX73",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 19,
@@ -4071,6 +4248,7 @@
     }
   },
   {
+    "id": "wuuKdbrydTwrYuqi5h8xhS",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 124,
@@ -4094,6 +4272,7 @@
     }
   },
   {
+    "id": "isCdcjFZVP9eZRcWcX2wG2",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 88,
@@ -4117,6 +4296,7 @@
     }
   },
   {
+    "id": "hTxTYVhnXpsRWf7pdLHaQd",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 103,
@@ -4140,6 +4320,7 @@
     }
   },
   {
+    "id": "eiztXHx69CgStC3Rt5MD8e",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 13,
@@ -4163,6 +4344,7 @@
     }
   },
   {
+    "id": "3Rpe3eJzh261V9svFbr47s",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 11,
@@ -4186,6 +4368,7 @@
     }
   },
   {
+    "id": "x1UgWg2fzXCWc6SrYpv646",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 33,
@@ -4209,6 +4392,7 @@
     }
   },
   {
+    "id": "f5XsrUNw5iQzSPYQiGQ6aN",
     "kategori": "4 kap 4 b § BrB Olaga förföljelse",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 46,
@@ -4232,6 +4416,7 @@
     }
   },
   {
+    "id": "dTBobvAHsnvUbqu9fYgAUZ",
     "kategori": "4 kap 4 c § 1-2 st. BrB Äktenskapstvång",
     "underkategori": "Äktenskapstvång, vilseledande till äktenskapsresa, totalt",
     "handlagda": 46,
@@ -4255,6 +4440,7 @@
     }
   },
   {
+    "id": "aW2PmxhWXpBpqAsnS9CYS6",
     "kategori": "4 kap 4 c § 3 st. BrB Barnäktenskapsbrott",
     "underkategori": "Barnäktenskapsbrott ",
     "handlagda": 70,
@@ -4278,6 +4464,7 @@
     }
   },
   {
+    "id": "hvcu83meHsJv7WUWSLTkWB",
     "kategori": "4 kap 4 d § BrB Vilseledande till äktenskapsresa",
     "underkategori": "Vilseledande till äktenskapsresa ",
     "handlagda": 16,
@@ -4301,6 +4488,7 @@
     }
   },
   {
+    "id": "qk83seTJNF5Yk5vdQeKGsE",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Olaga hot, totalt",
     "handlagda": 49329,
@@ -4324,6 +4512,7 @@
     }
   },
   {
+    "id": "1G38rB5Kcs5aEr67Be3XGH",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 7277,
@@ -4347,6 +4536,7 @@
     }
   },
   {
+    "id": "gJJ4PmFQewSXWzHBwBTVP4",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 3026,
@@ -4370,6 +4560,7 @@
     }
   },
   {
+    "id": "dbMga6637Ka9VTKvRmbVSr",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot flicka under 18 år, internetrelaterat",
     "handlagda": 855,
@@ -4393,6 +4584,7 @@
     }
   },
   {
+    "id": "264wgc3CJxXn8PPUpdhZLe",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot flicka under 18 år, ej internetrelaterat",
     "handlagda": 2170,
@@ -4416,6 +4608,7 @@
     }
   },
   {
+    "id": "2mFaeADmeQWVSeS2HWEdTW",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 4251,
@@ -4439,6 +4632,7 @@
     }
   },
   {
+    "id": "486DmrThFjuvVU1fxKjbVE",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot pojke under 18 år, internetrelaterat",
     "handlagda": 623,
@@ -4462,6 +4656,7 @@
     }
   },
   {
+    "id": "dn9CBrP6BsUqB1QtckERud",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot pojke under 18 år, ej internetrelaterat",
     "handlagda": 3628,
@@ -4485,6 +4680,7 @@
     }
   },
   {
+    "id": "axdQQFMYykTq2mxEDf2U21",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 19744,
@@ -4508,6 +4704,7 @@
     }
   },
   {
+    "id": "jmdCX8H4K1YsPxfnj877MN",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre närstående genom parrelation",
     "handlagda": 7637,
@@ -4531,6 +4728,7 @@
     }
   },
   {
+    "id": "eqwsZjE18LuVN1cwEyR8fk",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre närstående genom parrelation, internetrelaterat",
     "handlagda": 867,
@@ -4554,6 +4752,7 @@
     }
   },
   {
+    "id": "w4DHtp8siasrY7Pz2QbjxN",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre närstående genom parrelation, ej internetrelaterat",
     "handlagda": 6770,
@@ -4577,6 +4776,7 @@
     }
   },
   {
+    "id": "n7DvB2oDhZ6nNsdsv4xJxo",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre närstående genom släktskap/familj",
     "handlagda": 2164,
@@ -4600,6 +4800,7 @@
     }
   },
   {
+    "id": "cQRgqELquYQ2ofXsHL1Jfz",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre närstående genom släktskap/familj, internetrelatera",
     "handlagda": 218,
@@ -4623,6 +4824,7 @@
     }
   },
   {
+    "id": "4jhN8SdLGNVyPWKtmtEJ6F",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre närstående genom släktskap/familj, ej internetrelat",
     "handlagda": 1946,
@@ -4646,6 +4848,7 @@
     }
   },
   {
+    "id": "hw9S1hKHRXQggGreRVP6nM",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 4817,
@@ -4669,6 +4872,7 @@
     }
   },
   {
+    "id": "4DZMds72kiSijcZd2Z1D1h",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, internetrel",
     "handlagda": 873,
@@ -4692,6 +4896,7 @@
     }
   },
   {
+    "id": "mUoJqtDz1uCXQvVGdCTt7j",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, ej internet",
     "handlagda": 3944,
@@ -4715,6 +4920,7 @@
     }
   },
   {
+    "id": "jVStiakdYB7C5qTGWuUU9f",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 5106,
@@ -4738,6 +4944,7 @@
     }
   },
   {
+    "id": "1ivfPVYTeHZJrAR2ubyAEh",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, internetrelaterat",
     "handlagda": 999,
@@ -4761,6 +4968,7 @@
     }
   },
   {
+    "id": "1ng37fbM8WU8YzJMEvDm95",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, ej internetrelaterat",
     "handlagda": 4107,
@@ -4784,6 +4992,7 @@
     }
   },
   {
+    "id": "82J1inUNYbtydVpsrZQA9f",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 19553,
@@ -4807,6 +5016,7 @@
     }
   },
   {
+    "id": "bD6b48V4u54MANM8EpsCCM",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 1111,
@@ -4830,6 +5040,7 @@
     }
   },
   {
+    "id": "pz4QpSUyNYBP2RfRiqZcMD",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation, internetrelaterat",
     "handlagda": 152,
@@ -4853,6 +5064,7 @@
     }
   },
   {
+    "id": "25oR5oRko4S1uD5MtG6csh",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation, ej internetrelaterat",
     "handlagda": 959,
@@ -4876,6 +5088,7 @@
     }
   },
   {
+    "id": "uCT73w1wHoFDBKeAqt2Yq7",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 1486,
@@ -4899,6 +5112,7 @@
     }
   },
   {
+    "id": "1VoGfNZy9ZxrSEY2wMsUjV",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj, internetrelaterat",
     "handlagda": 167,
@@ -4922,6 +5136,7 @@
     }
   },
   {
+    "id": "pM4HT5e5SmKNeBB3dmWd8z",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj, ej internetrelater",
     "handlagda": 1319,
@@ -4945,6 +5160,7 @@
     }
   },
   {
+    "id": "wPYp7Ej3cyacnFNqvAYzzL",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 6940,
@@ -4968,6 +5184,7 @@
     }
   },
   {
+    "id": "bLq2W1jAidkPc6vCDi168R",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, internetrelate",
     "handlagda": 867,
@@ -4991,6 +5208,7 @@
     }
   },
   {
+    "id": "hS6H1o7EoxMWwuLuwyfY9J",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, ej internetrel",
     "handlagda": 6073,
@@ -5014,6 +5232,7 @@
     }
   },
   {
+    "id": "x2SK9CTEnearaRXa1LxiTD",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 10005,
@@ -5037,6 +5256,7 @@
     }
   },
   {
+    "id": "tFv5fG2Hv4C18LLvdChiwj",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, obekanta, internetrelaterat",
     "handlagda": 1517,
@@ -5060,6 +5280,7 @@
     }
   },
   {
+    "id": "2jgoWoZhHsPoxb7DSjAXrK",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot man 18 år eller äldre, obekanta, ej internetrelaterat",
     "handlagda": 8488,
@@ -5083,6 +5304,7 @@
     }
   },
   {
+    "id": "1Mszf2Nbxbn2eKT42JzpHK",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot grupp",
     "handlagda": 2753,
@@ -5106,6 +5328,7 @@
     }
   },
   {
+    "id": "cwNTcPs7THbZtRW9Ptqbt8",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot grupp, internetrelaterat",
     "handlagda": 576,
@@ -5129,6 +5352,7 @@
     }
   },
   {
+    "id": "q4LjcdUDR1Lzcru1wuVZiy",
     "kategori": "4 kap. 5 § BrB Olaga hot",
     "underkategori": "Mot grupp, ej internetrelaterat",
     "handlagda": 2177,
@@ -5152,6 +5376,7 @@
     }
   },
   {
+    "id": "845vKqYMdX4vjqy5fvghoq",
     "kategori": "4 kap. 6 § BrB Hemfridsbrott, olaga intrång ",
     "underkategori": "Hemfridsbrott, olaga intrång , totalt",
     "handlagda": 10224,
@@ -5175,6 +5400,7 @@
     }
   },
   {
+    "id": "jzC3Fn24hndC5pTLSJ32wg",
     "kategori": "4 kap. 6 a § BrB Kränkande fotografering",
     "underkategori": "Kränkande fotografering, totalt",
     "handlagda": 999,
@@ -5198,6 +5424,7 @@
     }
   },
   {
+    "id": "xwYfoDcFxhJRbuRiMh4GxQ",
     "kategori": "4 kap. 6 b § BrB Olovlig identitetsanvändning",
     "underkategori": "Olovlig identitetsanvändning, totalt",
     "handlagda": 20392,
@@ -5221,6 +5448,7 @@
     }
   },
   {
+    "id": "facdY8H5A2MVgs8HMCXQtV",
     "kategori": "4 kap. 6 b § BrB Olovlig identitetsanvändning",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 432,
@@ -5244,6 +5472,7 @@
     }
   },
   {
+    "id": "w4zvMMijDJXAqsq1TH9tAw",
     "kategori": "4 kap. 6 b § BrB Olovlig identitetsanvändning",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 276,
@@ -5267,6 +5496,7 @@
     }
   },
   {
+    "id": "aRaG2TrqHiiuFJpWm5jEQM",
     "kategori": "4 kap. 6 b § BrB Olovlig identitetsanvändning",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 156,
@@ -5290,6 +5520,7 @@
     }
   },
   {
+    "id": "3aW2aXMje5BGekSQUbuVee",
     "kategori": "4 kap. 6 b § BrB Olovlig identitetsanvändning",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 9332,
@@ -5313,6 +5544,7 @@
     }
   },
   {
+    "id": "jUMPgcPmFqADTYe8Lh8yAx",
     "kategori": "4 kap. 6 b § BrB Olovlig identitetsanvändning",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 10628,
@@ -5336,6 +5568,7 @@
     }
   },
   {
+    "id": "bVZt4AFtTcpjqM5cdvG3Vb",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Olaga integritetsintrång, totalt",
     "handlagda": 1782,
@@ -5359,6 +5592,7 @@
     }
   },
   {
+    "id": "4S1SJwgvkgnTRvU5DZmkL3",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 836,
@@ -5382,6 +5616,7 @@
     }
   },
   {
+    "id": "hNHFPwHuH2kYYSMjh9sSe9",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 629,
@@ -5405,6 +5640,7 @@
     }
   },
   {
+    "id": "cYE6qLhWkdn89snvLCHmez",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 207,
@@ -5428,6 +5664,7 @@
     }
   },
   {
+    "id": "7P9WNaYhbAxrU2MzvNLh93",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 689,
@@ -5451,6 +5688,7 @@
     }
   },
   {
+    "id": "vxm89Ne8vN22hr4GsqTWFG",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 300,
@@ -5474,6 +5712,7 @@
     }
   },
   {
+    "id": "1uM29zvrKJPmrm88nTTVy3",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 17,
@@ -5497,6 +5736,7 @@
     }
   },
   {
+    "id": "1LixKQyApXnK993gbv8kdU",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 178,
@@ -5520,6 +5760,7 @@
     }
   },
   {
+    "id": "5BMGTh9mjsaM2Y3t1vfCE1",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 194,
@@ -5543,6 +5784,7 @@
     }
   },
   {
+    "id": "8AZfZoKCMzJ1WBDyHyaAvH",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 257,
@@ -5566,6 +5808,7 @@
     }
   },
   {
+    "id": "wcK88tYkHVF13vdMPBtC8v",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 40,
@@ -5589,6 +5832,7 @@
     }
   },
   {
+    "id": "ot7Ux6oqQURh5Z9NVyryu4",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 4,
@@ -5612,6 +5856,7 @@
     }
   },
   {
+    "id": "v5iDCZ5thRS2piFmy9c2fr",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 44,
@@ -5635,6 +5880,7 @@
     }
   },
   {
+    "id": "haxniQdJPAfrQghSqFmsoP",
     "kategori": "4 kap. 6 c-d § BrB Olaga integritetsintrång ",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 169,
@@ -5658,6 +5904,7 @@
     }
   },
   {
+    "id": "qM57E7Ur8Efp9LYc4oGrwT",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Ofredande, totalt",
     "handlagda": 52694,
@@ -5681,6 +5928,7 @@
     }
   },
   {
+    "id": "7NvrEg3XERRHRFQTF4tm92",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 5985,
@@ -5704,6 +5952,7 @@
     }
   },
   {
+    "id": "gnQA42fap9WbR5H5yyxeit",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 3448,
@@ -5727,6 +5976,7 @@
     }
   },
   {
+    "id": "tCTnbVhYhUgArAQdWyYbfu",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 2537,
@@ -5750,6 +6000,7 @@
     }
   },
   {
+    "id": "uvn7ty3NULjDpkf3GGQs6M",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 27978,
@@ -5773,6 +6024,7 @@
     }
   },
   {
+    "id": "hkvKUT4MKqHs9GSkYWqyaq",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 6820,
@@ -5796,6 +6048,7 @@
     }
   },
   {
+    "id": "r1EGTavoFdD3ZQaY14XgsC",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 1494,
@@ -5819,6 +6072,7 @@
     }
   },
   {
+    "id": "xfKdVzj1XSU9faTcxAdrK1",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 7045,
@@ -5842,6 +6096,7 @@
     }
   },
   {
+    "id": "k9FPv1R7hGDMXExwUTbxtU",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 12610,
@@ -5865,6 +6120,7 @@
     }
   },
   {
+    "id": "pc6FFJe2y1nWXphkZ7w56g",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 15691,
@@ -5888,6 +6144,7 @@
     }
   },
   {
+    "id": "fHtqFcQoKyLC5nAxt8Ffbr",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 1237,
@@ -5911,6 +6168,7 @@
     }
   },
   {
+    "id": "jjrAdBNojartLdnjuKkbhs",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 708,
@@ -5934,6 +6192,7 @@
     }
   },
   {
+    "id": "cJ5Ca6DxWmU7N5ciqs3sMM",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 4025,
@@ -5957,6 +6216,7 @@
     }
   },
   {
+    "id": "rnymZdU4QYobE48wraLhAC",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 9718,
@@ -5980,6 +6240,7 @@
     }
   },
   {
+    "id": "aebjffxi5o92UB8j8yk6mm",
     "kategori": "4 kap. 7 § BrB Ofredande ",
     "underkategori": "Mot grupp",
     "handlagda": 3040,
@@ -6003,6 +6264,7 @@
     }
   },
   {
+    "id": "3E3owJbPaEHYkw9KwijM2p",
     "kategori": "4 kap. 7 a § 1 st. BrB Uppmaning till självmord",
     "underkategori": "Uppmaning till självmord",
     "handlagda": 144,
@@ -6026,6 +6288,7 @@
     }
   },
   {
+    "id": "cS6xbC2DYusyGoCbbdpJ69",
     "kategori": "4 kap. 7 a § 1 st. BrB Uppmaning till självmord",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 50,
@@ -6049,6 +6312,7 @@
     }
   },
   {
+    "id": "nUsWYGdb5mXnuo2aU5aErZ",
     "kategori": "4 kap. 7 a § 1 st. BrB Uppmaning till självmord",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 42,
@@ -6072,6 +6336,7 @@
     }
   },
   {
+    "id": "oEFRFwkBd9jwFnHuRoR6ZB",
     "kategori": "4 kap. 7 a § 1 st. BrB Uppmaning till självmord",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 8,
@@ -6095,6 +6360,7 @@
     }
   },
   {
+    "id": "5m6CzpzPm1vcx9q5aFBx4X",
     "kategori": "4 kap. 7 a § 1 st. BrB Uppmaning till självmord",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 74,
@@ -6118,6 +6384,7 @@
     }
   },
   {
+    "id": "6GAPeBkfcw13VcoioxSb52",
     "kategori": "4 kap. 7 a § 1 st. BrB Uppmaning till självmord",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 20,
@@ -6141,6 +6408,7 @@
     }
   },
   {
+    "id": "kxP2HWCaXx6FZgNYyhQuhT",
     "kategori": "4 kap. 7 a § 1 st. BrB Oaktsam uppmaning till självmord",
     "underkategori": "Oaktsam uppmaning till självmord ",
     "handlagda": 16,
@@ -6164,6 +6432,7 @@
     }
   },
   {
+    "id": "5QoyHt7MLDRbohwTNV7FX2",
     "kategori": "4 kap. 7 a § 1 st. BrB Oaktsam uppmaning till självmord",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 6,
@@ -6187,6 +6456,7 @@
     }
   },
   {
+    "id": "8eJ8NFUwq7JFvtK7D4W5vy",
     "kategori": "4 kap. 7 a § 1 st. BrB Oaktsam uppmaning till självmord",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 4,
@@ -6210,6 +6480,7 @@
     }
   },
   {
+    "id": "vH16TuB9jn6wNuppNbGeyE",
     "kategori": "4 kap. 7 a § 1 st. BrB Oaktsam uppmaning till självmord",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 2,
@@ -6233,6 +6504,7 @@
     }
   },
   {
+    "id": "iAafXPCm2ouDpcynzgQq1y",
     "kategori": "4 kap. 7 a § 1 st. BrB Oaktsam uppmaning till självmord",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 8,
@@ -6256,6 +6528,7 @@
     }
   },
   {
+    "id": "boenKKGTgahaSW1nSP48Q3",
     "kategori": "4 kap. 7 a § 1 st. BrB Oaktsam uppmaning till självmord",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 2,
@@ -6279,6 +6552,7 @@
     }
   },
   {
+    "id": "n51R9SGtewGr1Kz5rYYutT",
     "kategori": "4 kap. 8-9 a § BrB Olovlig avlyssning m.m. ",
     "underkategori": "Olovlig avlyssning m.m. totalt",
     "handlagda": 1230,
@@ -6302,6 +6576,7 @@
     }
   },
   {
+    "id": "w8yJANHAwVXeoweZxXeogS",
     "kategori": "4 kap. 9 c § BrB Dataintrång ",
     "underkategori": "Dataintrång, totalt",
     "handlagda": 10052,
@@ -6325,6 +6600,7 @@
     }
   },
   {
+    "id": "aG5nzQdVeDvzV8q6hfFMw2",
     "kategori": "4 kap. 9 c § BrB Dataintrång ",
     "underkategori": " Genom överbelastningsattack",
     "handlagda": 95,
@@ -6348,6 +6624,7 @@
     }
   },
   {
+    "id": "aGwhw4zp8TLV1oxfZJQMjx",
     "kategori": "4 kap. 9 c § BrB Dataintrång ",
     "underkategori": " Med hjälp av skadlig kod i utpressningssyfte",
     "handlagda": 245,
@@ -6371,6 +6648,7 @@
     }
   },
   {
+    "id": "tdpHNgGXaHGs319BUZA938",
     "kategori": "4 kap. 9 c § BrB Dataintrång ",
     "underkategori": " Genom olovlig registerslagning",
     "handlagda": 1843,
@@ -6394,6 +6672,7 @@
     }
   },
   {
+    "id": "9WFQCPHG9rC3f6SAFa6CcB",
     "kategori": "4 kap. 9 c § BrB Dataintrång ",
     "underkategori": " I sociala medier eller e-tjänster",
     "handlagda": 4606,
@@ -6417,6 +6696,7 @@
     }
   },
   {
+    "id": "qRKVG2ZkHoFCbJ5NMWJhLh",
     "kategori": "4 kap. 9 c § BrB Dataintrång ",
     "underkategori": "Övrigt dataintrång",
     "handlagda": 3111,
@@ -6440,6 +6720,7 @@
     }
   },
   {
+    "id": "n2NWXDCfcuuhDkNQZSH8rn",
     "kategori": "5 kap. BrB Ärekränkning",
     "underkategori": "Ärekränkning, totalt",
     "handlagda": 10008,
@@ -6463,6 +6744,7 @@
     }
   },
   {
+    "id": "nNLyUFtY8Qo4JsFxp5xUXC",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Ärekränkning, totalt",
     "handlagda": 10008,
@@ -6486,6 +6768,7 @@
     }
   },
   {
+    "id": "ar3APoXNuhNPj84piui4A8",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot barn under 18 år",
     "handlagda": 1111,
@@ -6509,6 +6792,7 @@
     }
   },
   {
+    "id": "2CweegEv9xywSukyFDwiwU",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 598,
@@ -6532,6 +6816,7 @@
     }
   },
   {
+    "id": "kWPoP69uMD3G1qxjA2Morj",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot flicka under 18 år, internetrelaterat",
     "handlagda": 341,
@@ -6555,6 +6840,7 @@
     }
   },
   {
+    "id": "kDJMXUgY1vcUuXdF1pgKk4",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot flicka under 18 år, ej internetrelaterat",
     "handlagda": 257,
@@ -6578,6 +6864,7 @@
     }
   },
   {
+    "id": "evVJQ89SM3v3raeSu2B4ED",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 513,
@@ -6601,6 +6888,7 @@
     }
   },
   {
+    "id": "v4U7KGyNwhsJd6FeAa6vD2",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot pojke under 18 år, internetrelaterat",
     "handlagda": 239,
@@ -6624,6 +6912,7 @@
     }
   },
   {
+    "id": "sktvtNcDSfqq11E5ybqx3x",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot pojke under 18 år, ej internetrelaterat",
     "handlagda": 274,
@@ -6647,6 +6936,7 @@
     }
   },
   {
+    "id": "sJ8LMeQUQFcR2UmhnfiqtH",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 4272,
@@ -6670,6 +6960,7 @@
     }
   },
   {
+    "id": "u5Y2Zmtp27nLyyqryJSynC",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot kvinna 18 år eller äldre, internetrelaterat",
     "handlagda": 1757,
@@ -6693,6 +6984,7 @@
     }
   },
   {
+    "id": "2D33NdJoCrsVYosBGQNK22",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot kvinna 18 år eller äldre, ej internetrelaterat",
     "handlagda": 2515,
@@ -6716,6 +7008,7 @@
     }
   },
   {
+    "id": "rrr92mDfwr5uUDYJmLze41",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 4625,
@@ -6739,6 +7032,7 @@
     }
   },
   {
+    "id": "mmxcvRjigYdUM6S3v1a44x",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot man 18 år eller äldre, internetrelaterat",
     "handlagda": 1998,
@@ -6762,6 +7056,7 @@
     }
   },
   {
+    "id": "1erNLEFUssGdpfVehJjpnL",
     "kategori": "5 kap. 1-4 § BrB Ärekränkning",
     "underkategori": "Mot man 18 år eller äldre, ej internetrelaterat",
     "handlagda": 2627,
@@ -6785,6 +7080,7 @@
     }
   },
   {
+    "id": "sRFvxpUTG9yhZZ1Wp8HFtQ",
     "kategori": "6 kap. BrB Sexualbrott",
     "underkategori": "Sexualbrott, totalt",
     "handlagda": 26216,
@@ -6808,6 +7104,7 @@
     }
   },
   {
+    "id": "hbnA6seWRz8YdwPxA6KEvm",
     "kategori": "6 kap. 1, 1 a, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov, oaktsam våldtäkt ",
     "underkategori": "Våldtäkt, våldtäkt mot barn, oaktsam våldtäkt, totalt",
     "handlagda": 9702,
@@ -6831,6 +7128,7 @@
     }
   },
   {
+    "id": "949sQ59LBGLNyMENNmKByP",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Våldtäkt, totalt",
     "handlagda": 9436,
@@ -6854,6 +7152,7 @@
     }
   },
   {
+    "id": "tiwL35LSf9pRscb2UKiSjo",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot barn under 15 år, totalt",
     "handlagda": 2891,
@@ -6877,6 +7176,7 @@
     }
   },
   {
+    "id": "vhmDRzxJ3qX4HrgqdzTwXb",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, totalt",
     "handlagda": 2596,
@@ -6900,6 +7200,7 @@
     }
   },
   {
+    "id": "fd28j8pvNFwxmx67zKPXxh",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, totalt",
     "handlagda": 2452,
@@ -6923,6 +7224,7 @@
     }
   },
   {
+    "id": "btbC42WVKiM8kkAuytV6MG",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, utomhus",
     "handlagda": 181,
@@ -6946,6 +7248,7 @@
     }
   },
   {
+    "id": "95TGJNKtVHxXr5hEgrfgHk",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, inomhus",
     "handlagda": 2271,
@@ -6969,6 +7272,7 @@
     }
   },
   {
+    "id": "osDJYH6VAGpGdijSDhsNT5",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt  inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, totalt",
     "handlagda": 144,
@@ -6992,6 +7296,7 @@
     }
   },
   {
+    "id": "q6UtU93tm1HinaKGzTSRm7",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt  inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, utomhus",
     "handlagda": 29,
@@ -7015,6 +7320,7 @@
     }
   },
   {
+    "id": "kYdMohpyXgj1car8TD2UwA",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt  inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka under 15 år, inomhus",
     "handlagda": 115,
@@ -7038,6 +7344,7 @@
     }
   },
   {
+    "id": "fv5B5nqvkbS1696UMyzyA5",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, totalt",
     "handlagda": 295,
@@ -7061,6 +7368,7 @@
     }
   },
   {
+    "id": "nAZgvq3LnjHB9AgdVZJgpf",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, totalt",
     "handlagda": 275,
@@ -7084,6 +7392,7 @@
     }
   },
   {
+    "id": "ffDmfNUEBqSy2PsikxL7n3",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, utomhus",
     "handlagda": 29,
@@ -7107,6 +7416,7 @@
     }
   },
   {
+    "id": "cDwnnc8Gu8sihEf8EB3d4y",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, inomhus",
     "handlagda": 246,
@@ -7130,6 +7440,7 @@
     }
   },
   {
+    "id": "o9jvnCEufpNhwwJC8ZSTSS",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt  inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, totalt",
     "handlagda": 20,
@@ -7153,6 +7464,7 @@
     }
   },
   {
+    "id": "6YqZfunLHF753ndx55aYbN",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt  inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, utomhus",
     "handlagda": 5,
@@ -7176,6 +7488,7 @@
     }
   },
   {
+    "id": "vrpA854LmiC6jyu9kX4xwY",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt  inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke under 15 år, inomhus",
     "handlagda": 15,
@@ -7199,6 +7512,7 @@
     }
   },
   {
+    "id": "uYKWFbULa2HUTPiGZmdgGW",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot barn 15–17 år, totalt",
     "handlagda": 1207,
@@ -7222,6 +7536,7 @@
     }
   },
   {
+    "id": "a42fywujTDf29CxVrKP31u",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, totalt",
     "handlagda": 1152,
@@ -7245,6 +7560,7 @@
     }
   },
   {
+    "id": "j9vSacdqcVLUV4CShTbZif",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, totalt",
     "handlagda": 1095,
@@ -7268,6 +7584,7 @@
     }
   },
   {
+    "id": "7smvjydcXmMSndRx3JFNic",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, utomhus",
     "handlagda": 150,
@@ -7291,6 +7608,7 @@
     }
   },
   {
+    "id": "78zLK6mkbY393Zk4F3Cwgc",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, inomhus",
     "handlagda": 945,
@@ -7314,6 +7632,7 @@
     }
   },
   {
+    "id": "gKVegvU1sYyi6rgZZ48heK",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, totalt",
     "handlagda": 57,
@@ -7337,6 +7656,7 @@
     }
   },
   {
+    "id": "e4itGLQnAjtdiXy76niBnD",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, utomhus",
     "handlagda": 13,
@@ -7360,6 +7680,7 @@
     }
   },
   {
+    "id": "w4yBgTeZGXCbA8AGT5Y6fj",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot flicka 15–17 år, inomhus",
     "handlagda": 44,
@@ -7383,6 +7704,7 @@
     }
   },
   {
+    "id": "iSbyuSr8gxJPps2kBjYcEK",
     "kategori": "6 kap. 1, 4 § BrB Våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, totalt",
     "handlagda": 55,
@@ -7406,6 +7728,7 @@
     }
   },
   {
+    "id": "oStq9dqzUQ9M8iNk71YdHK",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, totalt",
     "handlagda": 47,
@@ -7429,6 +7752,7 @@
     }
   },
   {
+    "id": "7fjN3qN5i8v9rQT3j9WK6j",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, utomhus",
     "handlagda": 6,
@@ -7452,6 +7776,7 @@
     }
   },
   {
+    "id": "dTMgTePARAHnwTxBnipTov",
     "kategori": "6 kap. 1, 4 § BrB Fullbordad våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, inomhus",
     "handlagda": 41,
@@ -7475,6 +7800,7 @@
     }
   },
   {
+    "id": "cJ3E7V1qPAKGYBJD9edcxR",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, totalt",
     "handlagda": 8,
@@ -7498,6 +7824,7 @@
     }
   },
   {
+    "id": "6c15H1mMdCXnNx4deCFbfz",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, utomhus",
     "handlagda": null,
@@ -7521,6 +7848,7 @@
     }
   },
   {
+    "id": "ikPieaLyRz2EbsarDwsx2h",
     "kategori": "6 kap. 1, 4 § BrB Försök till våldtäkt inkl. grov, våldtäkt mot barn inkl. grov",
     "underkategori": "Mot pojke 15–17 år, inomhus",
     "handlagda": 8,
@@ -7544,6 +7872,7 @@
     }
   },
   {
+    "id": "jgts8o1WLNcftbpts5FaxS",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, totalt",
     "handlagda": 5030,
@@ -7567,6 +7896,7 @@
     }
   },
   {
+    "id": "bbuMFVhY9mqi1FxumAGocu",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 1802,
@@ -7590,6 +7920,7 @@
     }
   },
   {
+    "id": "jmmLdJNtFq34V8Q3hummHL",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 1725,
@@ -7613,6 +7944,7 @@
     }
   },
   {
+    "id": "bXjqASx4mSvFteChThHPKY",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 77,
@@ -7636,6 +7968,7 @@
     }
   },
   {
+    "id": "pmfNiDCwQTsYMQqGQKGMXp",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 107,
@@ -7659,6 +7992,7 @@
     }
   },
   {
+    "id": "jy7BnuTytxjzcgrC6tZQny",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 98,
@@ -7682,6 +8016,7 @@
     }
   },
   {
+    "id": "mgo4Dqxzpm2GdT4yfdKw6U",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 9,
@@ -7705,6 +8040,7 @@
     }
   },
   {
+    "id": "4URN7ZBmxs8qHwHDHMXxUg",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 1848,
@@ -7728,6 +8064,7 @@
     }
   },
   {
+    "id": "5E4hD3SkmWCdVPmAEWqP8v",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 1731,
@@ -7751,6 +8088,7 @@
     }
   },
   {
+    "id": "5LWpfJ5HuwzcruFQka8dTH",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 103,
@@ -7774,6 +8112,7 @@
     }
   },
   {
+    "id": "9FiCJbTBMHafknFsnLCGve",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 1628,
@@ -7797,6 +8136,7 @@
     }
   },
   {
+    "id": "25UsPjCTVKsoCSWgBvaMBH",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 117,
@@ -7820,6 +8160,7 @@
     }
   },
   {
+    "id": "eKKKh1KqJbvdPcK9RSF9XR",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 24,
@@ -7843,6 +8184,7 @@
     }
   },
   {
+    "id": "oyEfNYjA3ECgRqRsLm5ai9",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 93,
@@ -7866,6 +8208,7 @@
     }
   },
   {
+    "id": "oUy3mSdaN5U8oL1bUfG263",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, totalt",
     "handlagda": 1254,
@@ -7889,6 +8232,7 @@
     }
   },
   {
+    "id": "cbuECRMyBYAHFBnZskqszP",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 1087,
@@ -7912,6 +8256,7 @@
     }
   },
   {
+    "id": "9Ga31r3LjLG2MnkX9nLgBa",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, utomhus",
     "handlagda": 288,
@@ -7935,6 +8280,7 @@
     }
   },
   {
+    "id": "9ghsNADSRcbFhRegh2CLR7",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, inomhus",
     "handlagda": 799,
@@ -7958,6 +8304,7 @@
     }
   },
   {
+    "id": "wAa4j1rM2xjajicsPXvcmV",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, totalt",
     "handlagda": 167,
@@ -7981,6 +8328,7 @@
     }
   },
   {
+    "id": "quipCeJs1QMB6WWybDmX7A",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, utomhus",
     "handlagda": 85,
@@ -8004,6 +8352,7 @@
     }
   },
   {
+    "id": "tf96HXvHmx2WGBMFzXWH1u",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, inomhus",
     "handlagda": 82,
@@ -8027,6 +8376,7 @@
     }
   },
   {
+    "id": "hfseC7izvT4Uo7GHMP3q1X",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, totalt",
     "handlagda": 307,
@@ -8050,6 +8400,7 @@
     }
   },
   {
+    "id": "u6sW9DDVEmbGFnhD99LcXa",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 52,
@@ -8073,6 +8424,7 @@
     }
   },
   {
+    "id": "rCdqYSZda4tEXtXmpeDVJ4",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 51,
@@ -8096,6 +8448,7 @@
     }
   },
   {
+    "id": "2egaFTGKfoCkDTzmCXTW1o",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 1,
@@ -8119,6 +8472,7 @@
     }
   },
   {
+    "id": "tToyCrL8hxPaVVDvAsoonP",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 11,
@@ -8142,6 +8496,7 @@
     }
   },
   {
+    "id": "orqLK8VJCKBA8DnPRQ3Kqb",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 11,
@@ -8165,6 +8520,7 @@
     }
   },
   {
+    "id": "uH6JhqdxPpZZbcKKPzxTTA",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": null,
@@ -8188,6 +8544,7 @@
     }
   },
   {
+    "id": "fh45UYKgKBDgcVNkXkKow5",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 126,
@@ -8211,6 +8568,7 @@
     }
   },
   {
+    "id": "x6PXKBC4eWCHxBM2WngLsm",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 116,
@@ -8234,6 +8592,7 @@
     }
   },
   {
+    "id": "veCg32LQRFjKG21Lc8e4ii",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 7,
@@ -8257,6 +8616,7 @@
     }
   },
   {
+    "id": "akNkAqv8HtkkFjEMaMbTKD",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 109,
@@ -8280,6 +8640,7 @@
     }
   },
   {
+    "id": "oqwurWY2KVbWSN5hWabXnh",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 10,
@@ -8303,6 +8664,7 @@
     }
   },
   {
+    "id": "hkENxfvEgxei9gj8MTqFUX",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": null,
@@ -8326,6 +8688,7 @@
     }
   },
   {
+    "id": "sqQjJiM5Ses4AFXjyPc5o8",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 10,
@@ -8349,6 +8712,7 @@
     }
   },
   {
+    "id": "8L1UwmC2b7shLyEqXsXgVG",
     "kategori": "6 kap. 1 § BrB Våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta, totalt",
     "handlagda": 117,
@@ -8372,6 +8736,7 @@
     }
   },
   {
+    "id": "iA3EzFbnkm3DDNz29kSbZa",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 103,
@@ -8395,6 +8760,7 @@
     }
   },
   {
+    "id": "6Gnv7b599PFjYC1tWwQZtc",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta, utomhus",
     "handlagda": 19,
@@ -8418,6 +8784,7 @@
     }
   },
   {
+    "id": "6xSi3dfywwxKsTqWCR2RCF",
     "kategori": "6 kap. 1 § BrB Fullbordad våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta, inomhus",
     "handlagda": 84,
@@ -8441,6 +8808,7 @@
     }
   },
   {
+    "id": "uBQyocv2cgEj9aR3Yrkdiz",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 14,
@@ -8464,6 +8832,7 @@
     }
   },
   {
+    "id": "wo5GLFdipk1DB4qUjwDsJy",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta, utomhus",
     "handlagda": 3,
@@ -8487,6 +8856,7 @@
     }
   },
   {
+    "id": "aECJPvZMFrqMQ3s1Vyj7bd",
     "kategori": "6 kap. 1 § BrB Försök till våldtäkt inkl. grov",
     "underkategori": "Mot man 18 år eller äldre, obekanta, inomhus",
     "handlagda": 11,
@@ -8510,6 +8880,7 @@
     }
   },
   {
+    "id": "c7nG8ijgX7Tz8jna1Sv8yn",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Oaktsam våldtäkt, totalt",
     "handlagda": 266,
@@ -8533,6 +8904,7 @@
     }
   },
   {
+    "id": "3ksLhDZb3qcu2LXpaBoRUN",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot flicka 15-17 år",
     "handlagda": 66,
@@ -8556,6 +8928,7 @@
     }
   },
   {
+    "id": "1z2HqpaTokDQQRuPGoJg9e",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot flicka 15-17 år, utomhus",
     "handlagda": 3,
@@ -8579,6 +8952,7 @@
     }
   },
   {
+    "id": "pAymEgcipYHSBVyXxVnx7y",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot flicka 15-17 år, inomhus",
     "handlagda": 63,
@@ -8602,6 +8976,7 @@
     }
   },
   {
+    "id": "d9b8xRZzfXFMAvYbS5sAfA",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot pojke 15-17 år",
     "handlagda": 6,
@@ -8625,6 +9000,7 @@
     }
   },
   {
+    "id": "5m3kA15qKAB8xwVP6UkfBz",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot pojke 15-17 år, utomhus",
     "handlagda": 1,
@@ -8648,6 +9024,7 @@
     }
   },
   {
+    "id": "ag6aL4FAdJVmyJWYhtM8ST",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot pojke 15-17 år, inomhus",
     "handlagda": 5,
@@ -8671,6 +9048,7 @@
     }
   },
   {
+    "id": "u7VkTir3irK9KPjAnyaNhc",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 184,
@@ -8694,6 +9072,7 @@
     }
   },
   {
+    "id": "fb9Qktp66MS6hgyeGzFCYZ",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 77,
@@ -8717,6 +9096,7 @@
     }
   },
   {
+    "id": "b6RenP3h2FYbhfjUUD5mkG",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": null,
@@ -8740,6 +9120,7 @@
     }
   },
   {
+    "id": "mRHxoaH7srgKnySKuGaa5T",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 64,
@@ -8763,6 +9144,7 @@
     }
   },
   {
+    "id": "p13gx7GCpfhXcemGfKyyU6",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 5,
@@ -8786,6 +9168,7 @@
     }
   },
   {
+    "id": "7F47TbPZzrRbcVsxDwaqJ5",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 59,
@@ -8809,6 +9192,7 @@
     }
   },
   {
+    "id": "gRGBAU1bEbJy7u6FnQsKju",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 43,
@@ -8832,6 +9216,7 @@
     }
   },
   {
+    "id": "qTxJwtuvwex1D8LxutmpCw",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, utomhus",
     "handlagda": 2,
@@ -8855,6 +9240,7 @@
     }
   },
   {
+    "id": "vBgXp33rYKSRtE7ANa4BYe",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta, inomhus",
     "handlagda": 41,
@@ -8878,6 +9264,7 @@
     }
   },
   {
+    "id": "mvRciJDghAHRtoEMyrFXdw",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 10,
@@ -8901,6 +9288,7 @@
     }
   },
   {
+    "id": "cRwzpvTG5LSr16ZCx4tLar",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 1,
@@ -8924,6 +9312,7 @@
     }
   },
   {
+    "id": "pkaDGwbVNrzP17HKSEcML5",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre ,närstående genom släktskap/familj",
     "handlagda": 1,
@@ -8947,6 +9336,7 @@
     }
   },
   {
+    "id": "nCW4y6VqgovupHHwNSyuRB",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 6,
@@ -8970,6 +9360,7 @@
     }
   },
   {
+    "id": "oVaLvKsTMpGwR4HcZUA4To",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, utomhus",
     "handlagda": 1,
@@ -8993,6 +9384,7 @@
     }
   },
   {
+    "id": "p9538BzkATBCu4aSdYCtTi",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap, inomhus",
     "handlagda": 5,
@@ -9016,6 +9408,7 @@
     }
   },
   {
+    "id": "s5WkZULnHYP9kXaFc53SCT",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 2,
@@ -9039,6 +9432,7 @@
     }
   },
   {
+    "id": "4hqej1dKGNmp9Jqzuedbji",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, obekanta, utomhus",
     "handlagda": 1,
@@ -9062,6 +9456,7 @@
     }
   },
   {
+    "id": "mLfFuwQd9tC921NUVWSxN5",
     "kategori": "6 kap. 1 a § BrB Oaktsam våldtäkt ",
     "underkategori": "Mot man 18 år eller äldre, obekanta, inomhus",
     "handlagda": 1,
@@ -9085,6 +9480,7 @@
     }
   },
   {
+    "id": "wjs55Jsm5GeoPXDazMQHA4",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Sexuellt övergrepp, totalt",
     "handlagda": 365,
@@ -9108,6 +9504,7 @@
     }
   },
   {
+    "id": "5spH2YivNDPVVTyo4fqJrB",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot flicka 15-17 år",
     "handlagda": 90,
@@ -9131,6 +9528,7 @@
     }
   },
   {
+    "id": "vdScUDLCQPeD1fJXb6UZPy",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot pojke 15-17 år",
     "handlagda": 15,
@@ -9154,6 +9552,7 @@
     }
   },
   {
+    "id": "dqdJTLVjKHqtBzALgfmsHZ",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 235,
@@ -9177,6 +9576,7 @@
     }
   },
   {
+    "id": "mK2ssNgWHQ3UrufLdkTSxt",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom parrelation",
     "handlagda": 56,
@@ -9200,6 +9600,7 @@
     }
   },
   {
+    "id": "9Le7jb4By74QDxqdBrLhYJ",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": 13,
@@ -9223,6 +9624,7 @@
     }
   },
   {
+    "id": "cYSVhXJvEcAKYKMqhAAfV6",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 84,
@@ -9246,6 +9648,7 @@
     }
   },
   {
+    "id": "ffjDNHVXtV8w4drgsKmNg2",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 82,
@@ -9269,6 +9672,7 @@
     }
   },
   {
+    "id": "9igHHhNGsJSFFmC4eBT2x2",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": 25,
@@ -9292,6 +9696,7 @@
     }
   },
   {
+    "id": "aE6iBarTEdCMsdgxay6jsS",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": 6,
@@ -9315,6 +9720,7 @@
     }
   },
   {
+    "id": "6CjK1v1gpUJYM8HdQnX1rH",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": null,
@@ -9338,6 +9744,7 @@
     }
   },
   {
+    "id": "qfWHhBhCymnbKUPg9QnxiE",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 11,
@@ -9361,6 +9768,7 @@
     }
   },
   {
+    "id": "2dFGDYQpEN8bM5uX6Le7a8",
     "kategori": "6 kap. 2 § BrB Sexuellt övergrepp inkl. grovt ",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": 8,
@@ -9384,6 +9792,7 @@
     }
   },
   {
+    "id": "74jKvvAmHyVN3sptvGgeap",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Oaktsamt sexuellt övergrepp, totalt",
     "handlagda": 11,
@@ -9407,6 +9816,7 @@
     }
   },
   {
+    "id": "2RFvHo9Ctezgg5Q8HrMkbu",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot flicka 15-17 år",
     "handlagda": null,
@@ -9430,6 +9840,7 @@
     }
   },
   {
+    "id": "9xbZ13UERfEo6N8Ks1CqSM",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot pojke 15-17 år",
     "handlagda": 1,
@@ -9453,6 +9864,7 @@
     }
   },
   {
+    "id": "i6zkwv2DcMwtvCTEUpRf8v",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot kvinna 18 år eller äldre",
     "handlagda": 10,
@@ -9476,6 +9888,7 @@
     }
   },
   {
+    "id": "7sjvDxW8QFWyJBnFaCGMYo",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot kvinna 18 år eller äldr, närstående genom parrelation",
     "handlagda": null,
@@ -9499,6 +9912,7 @@
     }
   },
   {
+    "id": "9iNWCQChPrVLjd9m9EsvTY",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot kvinna 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": null,
@@ -9522,6 +9936,7 @@
     }
   },
   {
+    "id": "dJff3spmy6Em4kFvczahYh",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot kvinna 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": 5,
@@ -9545,6 +9960,7 @@
     }
   },
   {
+    "id": "3E6ucuh1wx5jA6RTFgaHTh",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 5,
@@ -9568,6 +9984,7 @@
     }
   },
   {
+    "id": "2g2uRgQsMcZAbvjhC3HzWX",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot man 18 år eller äldre",
     "handlagda": null,
@@ -9591,6 +10008,7 @@
     }
   },
   {
+    "id": "eKqCbjoCEirxUswRzC6x4Z",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom parrelation",
     "handlagda": null,
@@ -9614,6 +10032,7 @@
     }
   },
   {
+    "id": "vNucCyf2rAmQhy5XoN9aga",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot man 18 år eller äldre, närstående genom släktskap/familj",
     "handlagda": null,
@@ -9637,6 +10056,7 @@
     }
   },
   {
+    "id": "hHbRTAx2T5K6tZxnu8RhRN",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot man 18 år eller äldre, annan sorts relation eller bekantskap",
     "handlagda": null,
@@ -9660,6 +10080,7 @@
     }
   },
   {
+    "id": "pUw1QhHuMjAEXRoAZR1ehD",
     "kategori": "6 kap. 3 § BrB Oaktsamt sexuellt övergrepp ",
     "underkategori": "Mot man 18 år eller äldre, obekanta",
     "handlagda": null,
@@ -9683,6 +10104,7 @@
     }
   },
   {
+    "id": "9JWp1NZfn6pt7okNw97esM",
     "kategori": "6 kap. 5 § BrB Sexuellt utnyttjande av barn",
     "underkategori": "Sexuellt utnyttjande av barn, totalt",
     "handlagda": 209,
@@ -9706,6 +10128,7 @@
     }
   },
   {
+    "id": "oPJzQfyYGwLVXymbR2c5Jm",
     "kategori": "6 kap. 5 § BrB Sexuellt utnyttjande av barn",
     "underkategori": "Av flicka under 15 år",
     "handlagda": 174,
@@ -9729,6 +10152,7 @@
     }
   },
   {
+    "id": "khB3TsVYQbvG1ecAcJfTYX",
     "kategori": "6 kap. 5 § BrB Sexuellt utnyttjande av barn",
     "underkategori": "Av pojke under 15 år",
     "handlagda": 24,
@@ -9752,6 +10176,7 @@
     }
   },
   {
+    "id": "wRmXGPEMykdFvDXqA3bGHv",
     "kategori": "6 kap. 5 § BrB Sexuellt utnyttjande av barn",
     "underkategori": "Av flicka 15-17 år",
     "handlagda": 8,
@@ -9775,6 +10200,7 @@
     }
   },
   {
+    "id": "8DtaYQJkb2us78bADyRYTU",
     "kategori": "6 kap. 5 § BrB Sexuellt utnyttjande av barn",
     "underkategori": "Av pojke 15-17 år",
     "handlagda": 3,
@@ -9798,6 +10224,7 @@
     }
   },
   {
+    "id": "jEoMAVcQTDgTCPUXpJS6yB",
     "kategori": "6 kap. 6 § BrB Sexuellt övergrepp mot barn",
     "underkategori": "Sexuellt övergrepp mot barn, totalt",
     "handlagda": 828,
@@ -9821,6 +10248,7 @@
     }
   },
   {
+    "id": "3PG8qBqVg4YjK1jMAmm72i",
     "kategori": "6 kap. 6 § BrB Sexuellt övergrepp mot barn",
     "underkategori": "Mot flicka under 15 år",
     "handlagda": 592,
@@ -9844,6 +10272,7 @@
     }
   },
   {
+    "id": "dsTj1vHMC8LrUeSWoisSeU",
     "kategori": "6 kap. 6 § BrB Sexuellt övergrepp mot barn",
     "underkategori": "Mot pojke under 15 år",
     "handlagda": 205,
@@ -9867,6 +10296,7 @@
     }
   },
   {
+    "id": "pFC54ktSuEiAYhcMt7kXuW",
     "kategori": "6 kap. 6 § BrB Sexuellt övergrepp mot barn",
     "underkategori": "Mot flicka 15-17 år",
     "handlagda": 30,
@@ -9890,6 +10320,7 @@
     }
   },
   {
+    "id": "5b3UvsXeQegyYyx92Siwd9",
     "kategori": "6 kap. 6 § BrB Sexuellt övergrepp mot barn",
     "underkategori": "Mot pojke 15-17 år",
     "handlagda": 1,
@@ -9913,6 +10344,7 @@
     }
   },
   {
+    "id": "qcUUcsrNshVKYyTy4XwzLC",
     "kategori": "6 kap. 7 § BrB Samlag med avkomling eller syskon",
     "underkategori": "Samlag med avkomling eller syskon, totalt",
     "handlagda": 9,
@@ -9936,6 +10368,7 @@
     }
   },
   {
+    "id": "7ghCsPWtwKHXRtmrJUXTcj",
     "kategori": "6 kap. 7 § BrB Samlag med avkomling eller syskon",
     "underkategori": "Med flicka 15-17 år",
     "handlagda": 3,
@@ -9959,6 +10392,7 @@
     }
   },
   {
+    "id": "9UipHAYfvufawmYTQgXLLY",
     "kategori": "6 kap. 7 § BrB Samlag med avkomling eller syskon",
     "underkategori": "Med pojke 15-17 år",
     "handlagda": 1,
@@ -9982,6 +10416,7 @@
     }
   },
   {
+    "id": "ievHS6o1Mq4hXufMJspF2R",
     "kategori": "6 kap. 7 § BrB Samlag med avkomling eller syskon",
     "underkategori": "Med kvinna 18 år eller äldre",
     "handlagda": 2,
@@ -10005,6 +10440,7 @@
     }
   },
   {
+    "id": "cakAvnc8zv5sKg5GwHC4DS",
     "kategori": "6 kap. 7 § BrB Samlag med avkomling eller syskon",
     "underkategori": "Med man 18 år eller äldre",
     "handlagda": 3,
@@ -10028,6 +10464,7 @@
     }
   },
   {
+    "id": "bFfcCupLxsXrjaeXMYc2tT",
     "kategori": "6 kap. 8 § BrB Utnyttjande av barn under 18 år för sexuell posering, inkl grov ",
     "underkategori": "Utnyttjande av barn under 18 år för sexuell posering, totalt",
     "handlagda": 2148,
@@ -10051,6 +10488,7 @@
     }
   },
   {
+    "id": "b35znDpoT5mJYehetj9fAD",
     "kategori": "6 kap. 9 § BrB Utnyttjande av barn under 18 år genom köp av sexuell handling.",
     "underkategori": "Utnyttjande av barn under 18 år genom köp av sexuell handling.",
     "handlagda": 129,
@@ -10074,6 +10512,7 @@
     }
   },
   {
+    "id": "sUQguhLhbXKF9qtjddnJTU",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Sexuellt ofredande, totalt",
     "handlagda": 10945,
@@ -10097,6 +10536,7 @@
     }
   },
   {
+    "id": "vctr5YALVnzNrCEp7xSiXQ",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Exhibitionism. Totalt",
     "handlagda": 176,
@@ -10120,6 +10560,7 @@
     }
   },
   {
+    "id": "d22vLwhXZume3dJR4axHKs",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, totalt",
     "handlagda": 10769,
@@ -10143,6 +10584,7 @@
     }
   },
   {
+    "id": "hnrZ5q5g8WTX29ufpasBBJ",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot barn under 15 år",
     "handlagda": 3198,
@@ -10166,6 +10608,7 @@
     }
   },
   {
+    "id": "q2wEv1wEYCnz8nwXMve8E2",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot flicka under 15 år",
     "handlagda": 2689,
@@ -10189,6 +10632,7 @@
     }
   },
   {
+    "id": "9bonRNDG7CJAKWbE3rxNf6",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, pojke under 15 år",
     "handlagda": 507,
@@ -10212,6 +10656,7 @@
     }
   },
   {
+    "id": "wmfRsGgPCi2fbLzGXczQBC",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot barn 15-17 år",
     "handlagda": 1400,
@@ -10235,6 +10680,7 @@
     }
   },
   {
+    "id": "cEXrdydNo195nkA8XtuZEX",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot flicka 15-17 år",
     "handlagda": 1279,
@@ -10258,6 +10704,7 @@
     }
   },
   {
+    "id": "huTzBWB3XLPeRqzWQDSj5s",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot pojke 15-17 år",
     "handlagda": 121,
@@ -10281,6 +10728,7 @@
     }
   },
   {
+    "id": "e9bQSAbEGteyR1j1NGW3zE",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot person 18 år eller äldre",
     "handlagda": 6171,
@@ -10304,6 +10752,7 @@
     }
   },
   {
+    "id": "ivz3gwb5KBenuR6YCKUb9a",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot kvinna 18 år eller äldre",
     "handlagda": 5651,
@@ -10327,6 +10776,7 @@
     }
   },
   {
+    "id": "pwBr2vzdKdXeh9x4gZuaCX",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot kvinna 18 år eller äldre, närstående genom parrela",
     "handlagda": 341,
@@ -10350,6 +10800,7 @@
     }
   },
   {
+    "id": "psJQPMVK9rN3YoKb4wc5pb",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot kvinna 18 år eller äldre, närstående genom släktsk",
     "handlagda": 96,
@@ -10373,6 +10824,7 @@
     }
   },
   {
+    "id": "w12j8WWr2zCSvgyHZsrDNS",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande,  mot kvinna 18 år eller äldrea, annan sorts relation e",
     "handlagda": 1695,
@@ -10396,6 +10848,7 @@
     }
   },
   {
+    "id": "5zLhkdj14RGoN6MzDvSEzQ",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande,  mot kvinna 18 år eller äldre, obekanta",
     "handlagda": 3481,
@@ -10419,6 +10872,7 @@
     }
   },
   {
+    "id": "4nSg9REV4va6A1XhEAV3Xm",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot man 18 år eller äldre",
     "handlagda": 520,
@@ -10442,6 +10896,7 @@
     }
   },
   {
+    "id": "iC1eS8oCRWjub1ayvevW8a",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot man 18 år eller äldre, närstående genom parrelatio",
     "handlagda": 16,
@@ -10465,6 +10920,7 @@
     }
   },
   {
+    "id": "4z7fJYATA81MuoX67HTtkp",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot man 18 år eller äldre, närstående genom släktskap/",
     "handlagda": 16,
@@ -10488,6 +10944,7 @@
     }
   },
   {
+    "id": "pM8AkunTft235jHGyEVFpa",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot man 18 år eller äldre, annan sorts relation eller ",
     "handlagda": 166,
@@ -10511,6 +10968,7 @@
     }
   },
   {
+    "id": "w6HDawT86wDNbwYR54x8xL",
     "kategori": "6 kap. 10 § BrB Sexuellt ofredande",
     "underkategori": "Annat sexuellt ofredande, mot man 18 år eller äldre, obekanta",
     "handlagda": 322,
@@ -10534,6 +10992,7 @@
     }
   },
   {
+    "id": "9qHtUhfs298nn6EfjrNdjx",
     "kategori": "6 kap. 10 a § BrB Kontakt för att träffa ett barn i sexuellt syfte",
     "underkategori": "Kontakt för att träffa ett barn i sexuellt syfte, totalt",
     "handlagda": 223,
@@ -10557,6 +11016,7 @@
     }
   },
   {
+    "id": "7APRPjMnR9aUHZfRXHgtVq",
     "kategori": "6 kap. 10 a § BrB Kontakt för att träffa ett barn i sexuellt syfte",
     "underkategori": "Med flicka under 15 år",
     "handlagda": 189,
@@ -10580,6 +11040,7 @@
     }
   },
   {
+    "id": "g3ZgK24ztF47o1m3vvCYnC",
     "kategori": "6 kap. 10 a § BrB Kontakt för att träffa ett barn i sexuellt syfte",
     "underkategori": "Med pojke under 15 år",
     "handlagda": 34,
@@ -10603,6 +11064,7 @@
     }
   },
   {
+    "id": "xxgGeP4NAvRixWhyW7MjS7",
     "kategori": "6 kap. 11 § BrB Köp av sexuell tjänst",
     "underkategori": "Köp av sexuell tjänst, totalt",
     "handlagda": 1446,
@@ -10626,6 +11088,7 @@
     }
   },
   {
+    "id": "fUWpxGkzRzgNgHi8QiGjUq",
     "kategori": "6 kap. 12 § BrB Koppleri, grovt koppleri",
     "underkategori": "Koppleri, totalt",
     "handlagda": 200,
@@ -10649,6 +11112,7 @@
     }
   },
   {
+    "id": "qeJSi81Ycj2bNK1YksRFup",
     "kategori": "7 kap. Brott mot familj",
     "underkategori": "Brott mot familj, totalt",
     "handlagda": 1478,
@@ -10672,6 +11136,7 @@
     }
   },
   {
+    "id": "wYW1Z8ExDU13kcWMLMmBJs",
     "kategori": "7 kap. 4 § BrB Egenmäktighet med barn",
     "underkategori": "Egenmäktighet med barn",
     "handlagda": 1466,
@@ -10695,6 +11160,7 @@
     }
   },
   {
+    "id": "h6PsGuwdUEVTvZGmWN6AxB",
     "kategori": "7 kap. 1-3 § BrB Övriga brott mot familj",
     "underkategori": "Övriga brott",
     "handlagda": 12,
@@ -10718,6 +11184,7 @@
     }
   },
   {
+    "id": "faz8Hk1AELHLe4pUyypUqp",
     "kategori": "8-12 kap. Brott mot förmögenhet",
     "underkategori": "Brott mot förmögenhet, totalt",
     "handlagda": 826986,
@@ -10741,6 +11208,7 @@
     }
   },
   {
+    "id": "dFmtBzNU2bW9yX1X7aoXL7",
     "kategori": "8 kap. Stöld, rån m.m.",
     "underkategori": "Stöld, rån m.m. totalt",
     "handlagda": 394266,
@@ -10764,6 +11232,7 @@
     }
   },
   {
+    "id": "5uUt9shmrSgC293nV9sEK8",
     "kategori": "8 kap. 7 § BrB Tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Tillgrepp av motordrivet fortskaffningsmedel, totalt",
     "handlagda": 17343,
@@ -10787,6 +11256,7 @@
     }
   },
   {
+    "id": "ugKtQi7wUqW32wsSGnRP8u",
     "kategori": "8 kap. 7 § BrB Tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av bil",
     "handlagda": 8264,
@@ -10810,6 +11280,7 @@
     }
   },
   {
+    "id": "cY5hu6rG7MxhkN1pyZoqAg",
     "kategori": "8 kap. 7 § BrB Försök till tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av bil",
     "handlagda": 1005,
@@ -10833,6 +11304,7 @@
     }
   },
   {
+    "id": "vKmuXHY13fAwrrV5CtbQCN",
     "kategori": "8 kap. 7 § BrB Fullbordat tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av bil, totalt",
     "handlagda": 7259,
@@ -10856,6 +11328,7 @@
     }
   },
   {
+    "id": "mkiZLj511vX2idzu7DSLnW",
     "kategori": "8 kap. 7 § BrB Fullbordat tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av bil avsedd för yrkesmässig godsbefordran (Lastbil, släpfordon, järnvägsvagn e",
     "handlagda": 1028,
@@ -10879,6 +11352,7 @@
     }
   },
   {
+    "id": "ibF4RqYyR11tBeZDDUjLyR",
     "kategori": "8 kap. 7 § BrB Fullbordat tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av övriga bilar",
     "handlagda": 6231,
@@ -10902,6 +11376,7 @@
     }
   },
   {
+    "id": "56nse1ZfNSj5eKz1NPsJHf",
     "kategori": "8 kap. 7 § BrB Tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av motorcykel",
     "handlagda": 1915,
@@ -10925,6 +11400,7 @@
     }
   },
   {
+    "id": "giGjzRshBVkiB1omDTRCZL",
     "kategori": "8 kap. 7 § BrB Tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av  moped",
     "handlagda": 4503,
@@ -10948,6 +11424,7 @@
     }
   },
   {
+    "id": "eNnPcdaRQjyn5sT3gYd7EW",
     "kategori": "8 kap. 7 § BrB Tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av båt",
     "handlagda": 751,
@@ -10971,6 +11448,7 @@
     }
   },
   {
+    "id": "f51uYuJMbYkRoSB5Rcsnep",
     "kategori": "8 kap. 7 § BrB Tillgrepp av motordrivet fortskaffningsmedel",
     "underkategori": "Av annat fordon",
     "handlagda": 1910,
@@ -10994,6 +11472,7 @@
     }
   },
   {
+    "id": "4uwULL2ZVUFa4pjvJZMyb9",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Tillgrepp av icke motordrivet fortskaffningsmedel, totalt",
     "handlagda": 69884,
@@ -11017,6 +11496,7 @@
     }
   },
   {
+    "id": "vhijVFbb9GLxFLiBjz1BTo",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av cykel",
     "handlagda": 62834,
@@ -11040,6 +11520,7 @@
     }
   },
   {
+    "id": "fwn8EgjjcUXVh8ENksWYZY",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av elcykel",
     "handlagda": 14801,
@@ -11063,6 +11544,7 @@
     }
   },
   {
+    "id": "sJpiyoNsq1m1sFxdPR8bcz",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av annan cykel än elcykel",
     "handlagda": 47993,
@@ -11086,6 +11568,7 @@
     }
   },
   {
+    "id": "aJ7o7R1JmZQGxvvvg9qBGB",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av båt",
     "handlagda": 414,
@@ -11109,6 +11592,7 @@
     }
   },
   {
+    "id": "d3eWxQkhSWdJaTmmYyvoV1",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av annat icke motordrivet fordon",
     "handlagda": 6636,
@@ -11132,6 +11616,7 @@
     }
   },
   {
+    "id": "w3FQw8R4GcWvX5Yc56c9oX",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld, inte av skjutvapen, totalt",
     "handlagda": 69353,
@@ -11155,6 +11640,7 @@
     }
   },
   {
+    "id": "32w8k6M5K4Q4w7vom9fU9N",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i skola, kyrka, idrottsanläggning och lokal för kultur, totalt",
     "handlagda": 3752,
@@ -11178,6 +11664,7 @@
     }
   },
   {
+    "id": "cmgweH3z5zDDatHAmsQxgH",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i skola, bibliotek, fritidshem, m.m.",
     "handlagda": 2328,
@@ -11201,6 +11688,7 @@
     }
   },
   {
+    "id": "xmiwPymDaKTmhvYmDV9zhe",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld idrottsanläggning, kyrka, museum m.m.",
     "handlagda": 1424,
@@ -11224,6 +11712,7 @@
     }
   },
   {
+    "id": "qBXpvnbsxsYHx7VUS4UqEJ",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i hotell, kafé, restaurang, biograf, teater, nöjes-, samlings- och",
     "handlagda": 2562,
@@ -11247,6 +11736,7 @@
     }
   },
   {
+    "id": "wVWCBtDZvsB2M3BJFUdBWi",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i butik, apotek, kiosk m.m.,totalt",
     "handlagda": 2324,
@@ -11270,6 +11760,7 @@
     }
   },
   {
+    "id": "4n69erPtZ1J36JJC58Ua89",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i butik, varuhus o.d.",
     "handlagda": 1988,
@@ -11293,6 +11784,7 @@
     }
   },
   {
+    "id": "b8ehbv23VWDvvi7hBrr4ib",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i kiosk, automat och skyltskåp",
     "handlagda": 172,
@@ -11316,6 +11808,7 @@
     }
   },
   {
+    "id": "8GQKmiqVaHcUb1kWC5LP5j",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i apotek och läkemedelsförråd",
     "handlagda": 164,
@@ -11339,6 +11832,7 @@
     }
   },
   {
+    "id": "oCgiYBg2jacv225AkZoaty",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i industri, verkstad, byggplats, lager, garage, hamnområde, kontor",
     "handlagda": 14631,
@@ -11362,6 +11856,7 @@
     }
   },
   {
+    "id": "c7iLqMttYGUf2cLgjVhZqt",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i kontor",
     "handlagda": 1947,
@@ -11385,6 +11880,7 @@
     }
   },
   {
+    "id": "7QGpCy3JH7m7dV2m6uifqc",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i industri, verkstad, byggplats, lager, garage, hamnområde, ej i k",
     "handlagda": 12684,
@@ -11408,6 +11904,7 @@
     }
   },
   {
+    "id": "nCnRgMB1xb6L8Qhra9G9Ro",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i bostad, fritidshus m.m., totalt",
     "handlagda": 34351,
@@ -11431,6 +11928,7 @@
     }
   },
   {
+    "id": "jKuL8T86PBME2LoTndfCNH",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i bostad (lägenhet, villa)",
     "handlagda": 10960,
@@ -11454,6 +11952,7 @@
     }
   },
   {
+    "id": "x4xKtJYS7Prksx8c8RnSPM",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i villa, radhus o.d., totalt",
     "handlagda": 5840,
@@ -11477,6 +11976,7 @@
     }
   },
   {
+    "id": "6Tep11CzbxNeLKuBb33kDc",
     "kategori": "8 kap. 1, 2, 4 § BrB Fullbordad stöld inkl. grov",
     "underkategori": "Inbrottsstöld i villa, radhus o.d.",
     "handlagda": 4321,
@@ -11500,6 +12000,7 @@
     }
   },
   {
+    "id": "8XeseZqYBnzJfo3GvJwA6W",
     "kategori": "8 kap. 1, 2, 4 § BrB Försök till stöld inkl. grov",
     "underkategori": "Inbrottsstöld i villa, radhus o.d.",
     "handlagda": 1519,
@@ -11523,6 +12024,7 @@
     }
   },
   {
+    "id": "6R5m17ktVd12wa2ocWS41a",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i lägenhet, totalt",
     "handlagda": 5120,
@@ -11546,6 +12048,7 @@
     }
   },
   {
+    "id": "7DAvmXq1dUTxUa3K9vcJsK",
     "kategori": "8 kap. 1, 2, 4 § BrB Fullbordad stöld inkl. grov",
     "underkategori": "Inbrottsstöld i lägenhet",
     "handlagda": 3551,
@@ -11569,6 +12072,7 @@
     }
   },
   {
+    "id": "cND3cobahNy14tB38V9KNA",
     "kategori": "8 kap. 1, 2, 4 § BrB Försök till stöld inkl. grov",
     "underkategori": "Inbrottsstöld i lägenhet",
     "handlagda": 1569,
@@ -11592,6 +12096,7 @@
     }
   },
   {
+    "id": "3pa4TyRea2V2oyyPD29ydf",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i källare och på vind",
     "handlagda": 20415,
@@ -11615,6 +12120,7 @@
     }
   },
   {
+    "id": "7r9WHTS5EY3NimyM9P2Pyb",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i fritidshus",
     "handlagda": 2976,
@@ -11638,6 +12144,7 @@
     }
   },
   {
+    "id": "4ZdbaEzZxQyrgjApvhth2c",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Inbrottsstöld i övriga platser",
     "handlagda": 11733,
@@ -11661,6 +12168,7 @@
     }
   },
   {
+    "id": "qUEyeGckxYxm1gVS4p3hna",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Stöld (även inbrottsstöld) av skjutvapen ammunition och sprängämnen",
     "handlagda": 105,
@@ -11684,6 +12192,7 @@
     }
   },
   {
+    "id": "wJjZpCF47F9wNwJxCWzBqU",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Stöld (även inbrottsstöld) av skjutvapen ammunition och sprängämnen från militär",
     "handlagda": 2,
@@ -11707,6 +12216,7 @@
     }
   },
   {
+    "id": "fvtXyE9nR6dqJrRFDoYNn7",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Stöld (även inbrottsstöld) av skjutvapen ammunition och sprängämnen från skytteo",
     "handlagda": 3,
@@ -11730,6 +12240,7 @@
     }
   },
   {
+    "id": "kEfBM1cbJ2YKMjRvVoxcGu",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Stöld (även inbrottsstöld) av skjutvapen ammunition och sprängämnen från bostad ",
     "handlagda": 52,
@@ -11753,6 +12264,7 @@
     }
   },
   {
+    "id": "iWc41hX9fs9shytwjSQmxx",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Stöld (även inbrottsstöld) av skjutvapen ammunition och sprängämnen från övriga ",
     "handlagda": 48,
@@ -11776,6 +12288,7 @@
     }
   },
   {
+    "id": "nffswVqjUjKP7dLiVXtLWv",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Övrig stöld, totalt",
     "handlagda": 212810,
@@ -11799,6 +12312,7 @@
     }
   },
   {
+    "id": "knyX4Yqe2eWDCVyMSnWPPa",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Från fordon m.m.",
     "handlagda": 60658,
@@ -11822,6 +12336,7 @@
     }
   },
   {
+    "id": "uGMuu7muFoNkAciBqbLedN",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Ur och från motordrivet fordon, totalt",
     "handlagda": 50500,
@@ -11845,6 +12360,7 @@
     }
   },
   {
+    "id": "jGbHN3UUMz2RTiFcjfFMqd",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Ur och från motordrivet fordon, av fast interiör/exteriör",
     "handlagda": 26659,
@@ -11868,6 +12384,7 @@
     }
   },
   {
+    "id": "91zMoDRtgveCtATM9dBJZo",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Ur och från motordrivet fordon, av andra föremål än fast interiör/exteriör",
     "handlagda": 23835,
@@ -11891,6 +12408,7 @@
     }
   },
   {
+    "id": "aBQbhKBLngBioUtdQGAWDV",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Från cykel",
     "handlagda": 3848,
@@ -11914,6 +12432,7 @@
     }
   },
   {
+    "id": "c55mZtZNtJ1Px64E6orfrL",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Från båt (annat än båtmotor)",
     "handlagda": 1946,
@@ -11937,6 +12456,7 @@
     }
   },
   {
+    "id": "g66nm8QGtqpgwHw5kVKErV",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av båtmotor",
     "handlagda": 1260,
@@ -11960,6 +12480,7 @@
     }
   },
   {
+    "id": "fftZZHKHpJSa9LdMhMrsBW",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Under yrkesmässig transport, totalt",
     "handlagda": 3104,
@@ -11983,6 +12504,7 @@
     }
   },
   {
+    "id": "tedSCHArr1tpbPPe27AD3s",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Under yrkesmässig transport, avsedd för yrkesmässig godsbefordran (lastbil, släp",
     "handlagda": 1054,
@@ -12006,6 +12528,7 @@
     }
   },
   {
+    "id": "n9ixA7vqZjnxqtAegyNF7u",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Under yrkesmässig transport, avsedd för övrig yrkesmässig transport",
     "handlagda": 2050,
@@ -12029,6 +12552,7 @@
     }
   },
   {
+    "id": "6GNx5m7jVAq96m2kTKxq44",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av drivmedel, totalt",
     "handlagda": 9764,
@@ -12052,6 +12576,7 @@
     }
   },
   {
+    "id": "cLJ6git9pVyQj5Z1wUHhiH",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av diesel",
     "handlagda": 5039,
@@ -12075,6 +12600,7 @@
     }
   },
   {
+    "id": "fxV8JrhEx4y2GE14Edgzq2",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av diesel ur större fordonstank (även entreprenadmaskin m.m.)",
     "handlagda": 4631,
@@ -12098,6 +12624,7 @@
     }
   },
   {
+    "id": "hnVu3XbKuKq7NhfAgqEF3u",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Av diesel ur större tankar (ej kopplade till fordon)",
     "handlagda": 408,
@@ -12121,6 +12648,7 @@
     }
   },
   {
+    "id": "nLij14s8bNwuXMPv6tdywt",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Övrig stöld av drivmedel (även diesel), totalt",
     "handlagda": 4725,
@@ -12144,6 +12672,7 @@
     }
   },
   {
+    "id": "mWuLu5UEwXkrG4St311EBW",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Övrig stöld av drivmedel genom smitning (från bensinstation)",
     "handlagda": 1423,
@@ -12167,6 +12696,7 @@
     }
   },
   {
+    "id": "nhc8i3MM6n8KPdBQP9vuUf",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Övrig stöld av drivmedel, ej genom smitning",
     "handlagda": 3302,
@@ -12190,6 +12720,7 @@
     }
   },
   {
+    "id": "j9q9ab2sAUdA4VFSB4ikzJ",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I skola, kyrka, idrottsanläggning och lokal för kultur, totalt",
     "handlagda": 9749,
@@ -12213,6 +12744,7 @@
     }
   },
   {
+    "id": "f8dgqxuHkX1dopPFg98ndf",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I skola, bibliotek, fritidshem m.m.",
     "handlagda": 5188,
@@ -12236,6 +12768,7 @@
     }
   },
   {
+    "id": "5GmYxTVNNNTrbXNvfwC4D2",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I idrottsanläggning, kyrka, museum m.m.",
     "handlagda": 4561,
@@ -12259,6 +12792,7 @@
     }
   },
   {
+    "id": "pnNL2yj8Rv8KT16wDfME4f",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I hotell, kafé, restaurang, biograf, teater, nöjes-, samlings- och ungdomslokal ",
     "handlagda": 7599,
@@ -12282,6 +12816,7 @@
     }
   },
   {
+    "id": "qreFb85aAqUu8TwZMjHNva",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I butik, varuhus o.d.",
     "handlagda": 43216,
@@ -12305,6 +12840,7 @@
     }
   },
   {
+    "id": "eJWMP4nR3KEW4F3nLyda7h",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I industri, verkstad, byggplats, lager, hamnområde, kontor m.m., totalt",
     "handlagda": 3574,
@@ -12328,6 +12864,7 @@
     }
   },
   {
+    "id": "giCcuzmZFtmB2XTAnPxQLJ",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I kontor",
     "handlagda": 1167,
@@ -12351,6 +12888,7 @@
     }
   },
   {
+    "id": "com7ZkKBFz3hTWEDKKFSgr",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I industri, verkstad, byggplats, lager, hamnområde, ej i kontor",
     "handlagda": 2407,
@@ -12374,6 +12912,7 @@
     }
   },
   {
+    "id": "wBBVB8g8FaD6mo2DH4rdav",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I bostad m.m.",
     "handlagda": 12201,
@@ -12397,6 +12936,7 @@
     }
   },
   {
+    "id": "x2D2nmeNzUsEnGrgSrzbVa",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I bostad (lägenhet, villa), totalt",
     "handlagda": 10835,
@@ -12420,6 +12960,7 @@
     }
   },
   {
+    "id": "s1gkQKyTuggXSyg7G462By",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I bostad mot äldre eller funktionsnedsatt",
     "handlagda": 4708,
@@ -12443,6 +12984,7 @@
     }
   },
   {
+    "id": "3PUHWvH7bwBXjUQMviQDDv",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I bostad mot ej äldre eller funktionsnedsatt",
     "handlagda": 6127,
@@ -12466,6 +13008,7 @@
     }
   },
   {
+    "id": "aFEKfzavw5mTAsgxWjrTHs",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "I källare och på vind",
     "handlagda": 1366,
@@ -12489,6 +13032,7 @@
     }
   },
   {
+    "id": "b7F1CDFA5iBcdUfatXNnZH",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Väskryckning (inte rån), totalt",
     "handlagda": 791,
@@ -12512,6 +13056,7 @@
     }
   },
   {
+    "id": "avHLvwvsgxu5E43BrPdi4M",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Väskryckning mot äldre eller funktionsnedsatt",
     "handlagda": 150,
@@ -12535,6 +13080,7 @@
     }
   },
   {
+    "id": "nMcPL15bVbDs9UAw3845T6",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Väskryckning mot ej äldre eller funktionsnedsatt",
     "handlagda": 641,
@@ -12558,6 +13104,7 @@
     }
   },
   {
+    "id": "kikmEvKMM92ZsBNeZZqHaT",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Fickstöld, totalt",
     "handlagda": 22812,
@@ -12581,6 +13128,7 @@
     }
   },
   {
+    "id": "x24VvR7eCA1zAGYWtyxQmN",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Fickstöld mot äldre eller funktionsnedsatt",
     "handlagda": 2266,
@@ -12604,6 +13152,7 @@
     }
   },
   {
+    "id": "qfDJ9iytSRMCBReHcJJSxt",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Fickstöld mot ej äldre eller funktionsnedsatt",
     "handlagda": 20546,
@@ -12627,6 +13176,7 @@
     }
   },
   {
+    "id": "1egbPnVXzRf2cZDwB2GmUK",
     "kategori": "8 kap. 1, 2, 4 § BrB Stöld inkl. grov",
     "underkategori": "Övrig stöld",
     "handlagda": 42446,
@@ -12650,6 +13200,7 @@
     }
   },
   {
+    "id": "3gZUtrjRWDwT8hFMTr8xCW",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån, totalt",
     "handlagda": 6433,
@@ -12673,6 +13224,7 @@
     }
   },
   {
+    "id": "qaczbTVsxWqThmD9bkHVBo",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Bankrån, totalt",
     "handlagda": 2,
@@ -12696,6 +13248,7 @@
     }
   },
   {
+    "id": "mFJo8zWsBnvi6V79cCr9qJ",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Bankrån med användning av skjutvapen",
     "handlagda": 2,
@@ -12719,6 +13272,7 @@
     }
   },
   {
+    "id": "hA2HUfSsCVtBmrkPbbGrPR",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Bankrån utan användning av skjutvapen",
     "handlagda": null,
@@ -12742,6 +13296,7 @@
     }
   },
   {
+    "id": "7E9e9ZcdUXToDYmKrhKW9P",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Butiksrån, totalt",
     "handlagda": 362,
@@ -12765,6 +13320,7 @@
     }
   },
   {
+    "id": "uKoVpeg5FEDgVwPLo4wptL",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Butiksrån med användning av skjutvapen",
     "handlagda": 54,
@@ -12788,6 +13344,7 @@
     }
   },
   {
+    "id": "kXkphJAniKrQ4uwfkUWfHW",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Butiksrån utan användning av skjutvapen",
     "handlagda": 308,
@@ -12811,6 +13368,7 @@
     }
   },
   {
+    "id": "ixwSMAG1errzqgYN3uNdqi",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot värdebefordran, totalt",
     "handlagda": null,
@@ -12834,6 +13392,7 @@
     }
   },
   {
+    "id": "kdtvftSUMGxLteCNcg77rH",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot värdebefordran med användning av skjutvapen",
     "handlagda": null,
@@ -12857,6 +13416,7 @@
     }
   },
   {
+    "id": "2imvLWoRS9agx3eEFXDWWL",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot värdebefordran utan användning av skjutvapen",
     "handlagda": null,
@@ -12880,6 +13440,7 @@
     }
   },
   {
+    "id": "3wfSuLah7j86S1mJCTh6EF",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot värdetransport, totalt",
     "handlagda": 2,
@@ -12903,6 +13464,7 @@
     }
   },
   {
+    "id": "m3SuwqvC5YxvPpTPYc5rH1",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot värdetransport med användning av skjutvapen",
     "handlagda": null,
@@ -12926,6 +13488,7 @@
     }
   },
   {
+    "id": "wc4Q64sx2MJc3wgTCNu82B",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot värdetransport utan användning av skjutvapen",
     "handlagda": 2,
@@ -12949,6 +13512,7 @@
     }
   },
   {
+    "id": "tVkzcgyanNkNbZgB2Lv9u1",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Taxirån, totalt",
     "handlagda": 19,
@@ -12972,6 +13536,7 @@
     }
   },
   {
+    "id": "jCzWNM237wMcbCRhPGkChK",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Taxirån med användning av skjutvapen",
     "handlagda": 5,
@@ -12995,6 +13560,7 @@
     }
   },
   {
+    "id": "7vyvBwW9cBGPwCqtGg87Y3",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Taxirån utan användning av skjutvapen",
     "handlagda": 14,
@@ -13018,6 +13584,7 @@
     }
   },
   {
+    "id": "8TT2yyrSETAgbXPxwKbWkY",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson (äldre eller funktionsnedsatt), totalt",
     "handlagda": 482,
@@ -13041,6 +13608,7 @@
     }
   },
   {
+    "id": "sxtYSfwTNmA9kTgfSov72F",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson (äldre eller funktionsnedsatt) med användning av skjutvapen",
     "handlagda": 73,
@@ -13064,6 +13632,7 @@
     }
   },
   {
+    "id": "86DRZiKbXJBQgFeurbSu4K",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson (fäldre eller unktionsnedsatt) utan användning av skjutvape",
     "handlagda": 409,
@@ -13087,6 +13656,7 @@
     }
   },
   {
+    "id": "uit3gRUqCjfKZPJWTAvQ5T",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson (ej äldre eller funktionsnedsatt), totalt",
     "handlagda": 4962,
@@ -13110,6 +13680,7 @@
     }
   },
   {
+    "id": "1tiBLMCnXaqez8tzWd4jSx",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år, totalt",
     "handlagda": 1349,
@@ -13133,6 +13704,7 @@
     }
   },
   {
+    "id": "6JBqqfbPwYattkYwpgU4SK",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år utomhus, totalt",
     "handlagda": 1207,
@@ -13156,6 +13728,7 @@
     }
   },
   {
+    "id": "chybjqu6d9ugAgM8PCBKra",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år utomhus med användning av skjutvapen",
     "handlagda": 75,
@@ -13179,6 +13752,7 @@
     }
   },
   {
+    "id": "fXKcWzgr7WZXSkkRgCbeRK",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år utomhus utan användning av skjutvapen",
     "handlagda": 1132,
@@ -13202,6 +13776,7 @@
     }
   },
   {
+    "id": "8onfNdzSwtUuEfgyMyyDAT",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år inomhus, totalt",
     "handlagda": 142,
@@ -13225,6 +13800,7 @@
     }
   },
   {
+    "id": "bLGJ3iqfXBMGvFVZKzjxWP",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år inomhus med användning av skjutvapen",
     "handlagda": 12,
@@ -13248,6 +13824,7 @@
     }
   },
   {
+    "id": "wyAiAghJ8xWeJxNfqmBMgd",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson under 18 år inomhus utan användning av skjutvapen",
     "handlagda": 130,
@@ -13271,6 +13848,7 @@
     }
   },
   {
+    "id": "6JCb2ExjJoULaiiKKocCnL",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre, totalt",
     "handlagda": 3612,
@@ -13294,6 +13872,7 @@
     }
   },
   {
+    "id": "kcrysems2zzLTvxapLpREp",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre utomhus, totalt",
     "handlagda": 2934,
@@ -13317,6 +13896,7 @@
     }
   },
   {
+    "id": "o62qoqhxSvrSX7MBZU4Mow",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre utomhus med användning av skjutvapen",
     "handlagda": 311,
@@ -13340,6 +13920,7 @@
     }
   },
   {
+    "id": "jDhfwi6UMdLa2mdt9Gxffe",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre utomhus utan användning av skjutvapen",
     "handlagda": 2623,
@@ -13363,6 +13944,7 @@
     }
   },
   {
+    "id": "f8JfJzdritDawFrF8TDZX4",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre inomhus, totalt",
     "handlagda": 678,
@@ -13386,6 +13968,7 @@
     }
   },
   {
+    "id": "2wNNeqCrsiBJHai2jjCahD",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre inomhus med användning av skjutvapen",
     "handlagda": 116,
@@ -13409,6 +13992,7 @@
     }
   },
   {
+    "id": "5wAcLfruub9a61SwKWPDp4",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Rån mot privatperson 18 år eller äldre inomhus utan användning av skjutvapen",
     "handlagda": 562,
@@ -13432,6 +14016,7 @@
     }
   },
   {
+    "id": "dA2PnQHMym9oddzboNYwBj",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Övriga rån, totalt",
     "handlagda": 604,
@@ -13455,6 +14040,7 @@
     }
   },
   {
+    "id": "jbPMPSRyQz22yqKZrjzfCZ",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Övriga rån med användning av skjutvapen",
     "handlagda": 116,
@@ -13478,6 +14064,7 @@
     }
   },
   {
+    "id": "wiYsZFK3bzZnQwpWKZMe4h",
     "kategori": "8 kap. 5, 6 § BrB Rån inkl. grovt",
     "underkategori": "Övriga rån utan användning av skjutvapen",
     "handlagda": 488,
@@ -13501,6 +14088,7 @@
     }
   },
   {
+    "id": "6SvZP8TyokgSKomDVfaH14",
     "kategori": "8 kap. 8-10 § BrB Övriga brott mot 8 kap. ",
     "underkategori": "Övriga brott mot 8 kap.",
     "handlagda": 18338,
@@ -13524,6 +14112,7 @@
     }
   },
   {
+    "id": "e4y8H925QkSMYeTfeH7rqa",
     "kategori": "9 kap. BrB Bedrägeri och annan oredlighet",
     "underkategori": "Bedrägeri och annan oredlighet, totalt",
     "handlagda": 198829,
@@ -13547,6 +14136,7 @@
     }
   },
   {
+    "id": "fuiA5M7EiAy8G62rp3wdfJ",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Bedrägeri, bedrägligt beteende, totalt",
     "handlagda": 183422,
@@ -13570,6 +14160,7 @@
     }
   },
   {
+    "id": "snyQN6Wt6Md5hgf1swjNm5",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Genom social manipulation, totalt",
     "handlagda": 32450,
@@ -13593,6 +14184,7 @@
     }
   },
   {
+    "id": "9htSepKLWnQ8mW2DLboL3e",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Romansbedrägeri, totalt",
     "handlagda": 1151,
@@ -13616,6 +14208,7 @@
     }
   },
   {
+    "id": "mYVF7F6ad3HCWeiZSHhTzs",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Romansbedrägeri mot äldre eller funktionsnedsatt",
     "handlagda": 408,
@@ -13639,6 +14232,7 @@
     }
   },
   {
+    "id": "aRYHbJfZhXgDdzJHGFRBqK",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Romansbedrägeri ej mot äldre eller funktionsnedsatt",
     "handlagda": 743,
@@ -13662,6 +14256,7 @@
     }
   },
   {
+    "id": "fwQvLnGWCTCtbpZUTAScgX",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Investeringsbedrägeri, totalt",
     "handlagda": 2311,
@@ -13685,6 +14280,7 @@
     }
   },
   {
+    "id": "tByrfzmSb8rUgUoHPHLDt9",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Investeringsbedrägeri mot äldre/funktionsnedsatt",
     "handlagda": 655,
@@ -13708,6 +14304,7 @@
     }
   },
   {
+    "id": "5f1jgwUKe99CQogm16fukJ",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Investeringsbedrägeri ej mot äldre/funktionsnedsatt",
     "handlagda": 1656,
@@ -13731,6 +14328,7 @@
     }
   },
   {
+    "id": "vXbTeiikzGCCXT7pqMibvW",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Befogenhetsbedrägeri, totalt",
     "handlagda": 10070,
@@ -13754,6 +14352,7 @@
     }
   },
   {
+    "id": "3cJrz33KqornGZdn33YuhX",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Befogenhetsbedrägeri mot äldre/funktionsnedsatt",
     "handlagda": 7526,
@@ -13777,6 +14376,7 @@
     }
   },
   {
+    "id": "seiQbPVUrbxxxFwFy6Gi7D",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Befogenhetsbedrägeri ej mot äldre/funktionsnedsatt",
     "handlagda": 2544,
@@ -13800,6 +14400,7 @@
     }
   },
   {
+    "id": "cqdBhFmcc4GjuSRLXQYVrC",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Genom social manipulation av  annan typ, totalt",
     "handlagda": 18918,
@@ -13823,6 +14424,7 @@
     }
   },
   {
+    "id": "ncgbDS6cNPH8Rbm1M1Eniz",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Genom social manipulation av  annan typ mot äldre/funktionsnedsatt",
     "handlagda": 11263,
@@ -13846,6 +14448,7 @@
     }
   },
   {
+    "id": "dPBhRuhjBzJwh55MHhaR5N",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Genom social manipulation av  annan typ ej mot äldre/funktionsnedsatt",
     "handlagda": 7655,
@@ -13869,6 +14472,7 @@
     }
   },
   {
+    "id": "735q9MJpZSd3dbCCzhNE2S",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Identitetsbedrägeri, totalt",
     "handlagda": 15955,
@@ -13892,6 +14496,7 @@
     }
   },
   {
+    "id": "kQuCk6XhpHjzvYVzP94YhF",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Identitetsbedrägeri mot äldre/funktionsnedsatt",
     "handlagda": 2460,
@@ -13915,6 +14520,7 @@
     }
   },
   {
+    "id": "5fjZ9JSqcutSvKBbnkbiow",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Identitetsbedrägeri ej mot äldre/funktionsnedsatt",
     "handlagda": 13495,
@@ -13938,6 +14544,7 @@
     }
   },
   {
+    "id": "aqFx5DJyMMvGewZzxL3mSq",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Fakturabedrägeri, totalt",
     "handlagda": 7834,
@@ -13961,6 +14568,7 @@
     }
   },
   {
+    "id": "avRdnMcdhnVYe9B49a7eni",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Fakturabedrägeri mot äldre/funktionsnedsatt",
     "handlagda": 1972,
@@ -13984,6 +14592,7 @@
     }
   },
   {
+    "id": "eWMQy2h1s9w5j2du3kGvyw",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Fakturabedrägeri ej mot äldre/funktionsnedsatt",
     "handlagda": 5862,
@@ -14007,6 +14616,7 @@
     }
   },
   {
+    "id": "a5S4GxSGKyrBdPiE28QoT5",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Kortbedrägeri (bank, betal- och kreditkort), totalt",
     "handlagda": 72091,
@@ -14030,6 +14640,7 @@
     }
   },
   {
+    "id": "9aUrw7CJzMVhA1a4hgMUHs",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Kortbedrägeri med fysiskt kort, totalt",
     "handlagda": 14171,
@@ -14053,6 +14664,7 @@
     }
   },
   {
+    "id": "teJ2beSQ2Yf6z3nNGxrfF4",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Kortbedrägeri med fysiskt kort mot äldre/funktionsnedsatt",
     "handlagda": 2798,
@@ -14076,6 +14688,7 @@
     }
   },
   {
+    "id": "9rthCrwCT5KuyJLaTKQPYQ",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Kortbedrägeri med fysiskt kort ej mot äldre/funktionsnedsatt",
     "handlagda": 11373,
@@ -14099,6 +14712,7 @@
     }
   },
   {
+    "id": "g6dS6rGFVdvH26Edb3Z19B",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Kortbedrägeri utan fysiskt kort, totalt",
     "handlagda": 57920,
@@ -14122,6 +14736,7 @@
     }
   },
   {
+    "id": "aVv2eDpJPCo2ah4hJD1Xpk",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Annonsbedrägeri, totalt",
     "handlagda": 25525,
@@ -14145,6 +14760,7 @@
     }
   },
   {
+    "id": "g9ihtutzwqVAfYgKjKrHox",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Annonsbedrägeri mot äldre/funktionsnedsatt",
     "handlagda": 1147,
@@ -14168,6 +14784,7 @@
     }
   },
   {
+    "id": "w9wKQMxh7hA7CDJjgPXFN1",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Annonsbedrägeri, ej mot äldre/funktionsnedsatt",
     "handlagda": 24378,
@@ -14191,6 +14808,7 @@
     }
   },
   {
+    "id": "4msrciYbk3P8c6FP6BY52F",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Försäkringsbedrägeri",
     "handlagda": 661,
@@ -14214,6 +14832,7 @@
     }
   },
   {
+    "id": "8PsjChhUWkCfhQMhJetR5m",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Snyltningsbrott",
     "handlagda": 1092,
@@ -14237,6 +14856,7 @@
     }
   },
   {
+    "id": "jGDnAvgAFghrs8Ht54NLUj",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Grovt fordringsbedrägeri",
     "handlagda": 16,
@@ -14260,6 +14880,7 @@
     }
   },
   {
+    "id": "mDUQSiuLmoftsRmZJnQoLk",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Övrigt bedrägeri, totalt",
     "handlagda": 26822,
@@ -14283,6 +14904,7 @@
     }
   },
   {
+    "id": "cj978xAskRSQooDUqUZDDT",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Övrigt bedrägeri mot äldre/funktionsnedsatt",
     "handlagda": 6270,
@@ -14306,6 +14928,7 @@
     }
   },
   {
+    "id": "uKdye4n8AeCwiUzyAAbPWA",
     "kategori": "9 kap. 1-3 § BrB Bedrägeri inkl. grovt. bedrägligt beteende",
     "underkategori": "Övrigt bedrägeri ej mot äldre/funktionsnedsatt",
     "handlagda": 20552,
@@ -14329,6 +14952,7 @@
     }
   },
   {
+    "id": "6orqRrGg6qvekLGsb3KvQV",
     "kategori": "9 kap. 3 a § BrB Subventionsmissbruk ",
     "underkategori": "Subventionsmissbruk, totalt",
     "handlagda": 1,
@@ -14352,6 +14976,7 @@
     }
   },
   {
+    "id": "eKFJXkxzLDhcLbnN8T59nH",
     "kategori": "9 kap. 3 c § BrB Olovlig befattning med betalningsverktyg",
     "underkategori": "Olovlig befattning med betalningsverktyg, totalt",
     "handlagda": 77,
@@ -14375,6 +15000,7 @@
     }
   },
   {
+    "id": "htBz9s77e9WHhfAJhweisB",
     "kategori": "9 kap. 4 § BrB Utpressning ",
     "underkategori": "Utpressning, totalt",
     "handlagda": 7174,
@@ -14398,6 +15024,7 @@
     }
   },
   {
+    "id": "fS84CcLy7kD3iiUcpsoJbx",
     "kategori": "9 kap. 5 § BrB Ocker ",
     "underkategori": "Ocker, totalt",
     "handlagda": 138,
@@ -14421,6 +15048,7 @@
     }
   },
   {
+    "id": "6Q9QyS6VLfuARfGFmKuYHn",
     "kategori": "9 kap. 6, 7 § BrB Häleri, häleriförseelse ",
     "underkategori": "Häleri, häleriförseelse, totalt",
     "handlagda": 6951,
@@ -14444,6 +15072,7 @@
     }
   },
   {
+    "id": "62yyCkCVN6KU3sSCCswRfM",
     "kategori": "9 kap. 6 § BrB Häleri, häleriförseelse, inkl. grovt",
     "underkategori": "Häleri",
     "handlagda": 2289,
@@ -14467,6 +15096,7 @@
     }
   },
   {
+    "id": "mJhuAs5KFzVBKfQwshXpx3",
     "kategori": "9 kap. 7 § BrB Häleri, häleriförseelse ",
     "underkategori": "Häleriförseelse",
     "handlagda": 4662,
@@ -14490,6 +15120,7 @@
     }
   },
   {
+    "id": "dxW7FPKdaSsSxiBFBASX7b",
     "kategori": "9 kap. 8-10 § Oredligt förfarande, svindleri, ockerpantning ",
     "underkategori": "Oredligt förfarande, svindleri, ockerpantning, totalt",
     "handlagda": 1066,
@@ -14513,6 +15144,7 @@
     }
   },
   {
+    "id": "tuzX6eLGhy96eBQA1Ddm46",
     "kategori": "10 kap. BrB Förskingring och annan trolöshet",
     "underkategori": "Förskingring och annan trolöshet, totalt",
     "handlagda": 14364,
@@ -14536,6 +15168,7 @@
     }
   },
   {
+    "id": "g7FvUAwcJ2qJ3QCPBSD78v",
     "kategori": "10 kap. 1-3 § BrB Förskingring, grov förskingring, undandräkt",
     "underkategori": "Förskingring, undandräkt, totalt",
     "handlagda": 1076,
@@ -14559,6 +15192,7 @@
     }
   },
   {
+    "id": "rSDm9KctXw2w2Sv7sj74Z3",
     "kategori": "10 kap. 3 § BrB Olovligt förfogande",
     "underkategori": "Olovligt förfogande, totalt",
     "handlagda": 9659,
@@ -14582,6 +15216,7 @@
     }
   },
   {
+    "id": "nVHUo5xvfUronMVoKT8bVE",
     "kategori": "10 kap. 5 § BrB Trolöshet mot huvudman ",
     "underkategori": "Trolöshet mot huvudman, totalt",
     "handlagda": 1443,
@@ -14605,6 +15240,7 @@
     }
   },
   {
+    "id": "cXrDLBTinndLmPuTa8xhMY",
     "kategori": "10 kap. 5 a, 5 c § BrB Tagande av muta inkl. grov ",
     "underkategori": "Tagande av muta",
     "handlagda": 381,
@@ -14628,6 +15264,7 @@
     }
   },
   {
+    "id": "8FLks33SpAzRpSCRkSXBBA",
     "kategori": "10 kap. 5 b, 5 c § BrB Givande av muta inkl. grov",
     "underkategori": "Givande av muta",
     "handlagda": 153,
@@ -14651,6 +15288,7 @@
     }
   },
   {
+    "id": "8A927WQJKanaJBst31T6Ki",
     "kategori": "10 kap. 5 d, 5 e § BrB Handel med inflytande och/eller vårdslös finansiering av mutbrott ",
     "underkategori": "Handel med inflytande och/eller vårdslös finansiering av mutbrott ",
     "handlagda": 3,
@@ -14674,6 +15312,7 @@
     }
   },
   {
+    "id": "eBUrSERrd2xJzAC3BQbUKq",
     "kategori": "10 kap. 7 § BrB Olovligt brukande ",
     "underkategori": "Olovligt brukande, totalt",
     "handlagda": 1401,
@@ -14697,6 +15336,7 @@
     }
   },
   {
+    "id": "aYTiUXRoTTXkYxCr6jUkoa",
     "kategori": "10 kap. 8 § BrB Fyndförseelse",
     "underkategori": "Fyndförseelse, totalt",
     "handlagda": 179,
@@ -14720,6 +15360,7 @@
     }
   },
   {
+    "id": "wFhsDx1JEqEAsuBxeuxmVh",
     "kategori": "10 kap. 6 § BrB Behörighetsmissbruk",
     "underkategori": "Behörighetsmissbruk, totalt",
     "handlagda": 69,
@@ -14743,6 +15384,7 @@
     }
   },
   {
+    "id": "dfrBXW2RzfVeUPfjHTLf6i",
     "kategori": "11 kap. BrB Brott mot borgenärer m.m.",
     "underkategori": "Brott mot borgenärer m.m., totalt",
     "handlagda": 7816,
@@ -14766,6 +15408,7 @@
     }
   },
   {
+    "id": "m5jSa5vfQnfA2T12yEaRcH",
     "kategori": "11 kap. 1, 2  § BrB ",
     "underkategori": "Oredlighet mot borgenärer",
     "handlagda": 173,
@@ -14789,6 +15432,7 @@
     }
   },
   {
+    "id": "834uYCJEgAmJoC7t9syx3V",
     "kategori": "11 kap. 2 § BrB ",
     "underkategori": "Försvårande av konkurs eller exekutiv förrättning ",
     "handlagda": 10,
@@ -14812,6 +15456,7 @@
     }
   },
   {
+    "id": "ip7W15YpL9nQ8eQfuGjFA5",
     "kategori": "11 kap. 3  § BrB ",
     "underkategori": "Vårdslöshet mot borgenärer",
     "handlagda": 9,
@@ -14835,6 +15480,7 @@
     }
   },
   {
+    "id": "vMxiwjrfdefvfnJZfHZXBL",
     "kategori": "11 kap. 4 § BrB ",
     "underkategori": "Otillbörligt gynnande av borgenär",
     "handlagda": 31,
@@ -14858,6 +15504,7 @@
     }
   },
   {
+    "id": "kPqmbkKNJMhEda5M5SwbXg",
     "kategori": "11 kap. 5 § BrB ",
     "underkategori": "Bokföringsbrott ",
     "handlagda": 7593,
@@ -14881,6 +15528,7 @@
     }
   },
   {
+    "id": "d4fiBHju8pPvirDB13pqi9",
     "kategori": "12 kap. BrB Skadegörelsebrott",
     "underkategori": "Skadegörelsebrott, totalt",
     "handlagda": 211711,
@@ -14904,6 +15552,7 @@
     }
   },
   {
+    "id": "nM2ovQ8tUsX9Romz67zfTt",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Skadegörelse, åverkan, totalt",
     "handlagda": 211665,
@@ -14927,6 +15576,7 @@
     }
   },
   {
+    "id": "pJVUeukmagrf3xhWatzPJj",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Genom brand (även på motorfordon), totalt",
     "handlagda": 5215,
@@ -14950,6 +15600,7 @@
     }
   },
   {
+    "id": "9DyTmxWUkaT4zdctubdmHG",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Bilbrand eller brand på andra motorfordon",
     "handlagda": 2106,
@@ -14973,6 +15624,7 @@
     }
   },
   {
+    "id": "hELnqxaK5fAMWZMjhL3RdE",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Brand på annat än motorfordon",
     "handlagda": 3109,
@@ -14996,6 +15648,7 @@
     }
   },
   {
+    "id": "aDjQYZ11qe5EiSryZGNddW",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "På motorfordon (inte genom brand)",
     "handlagda": 30677,
@@ -15019,6 +15672,7 @@
     }
   },
   {
+    "id": "nLfkLduBJiZNEQogPJsCqU",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Klotter mot kollektivtrafik",
     "handlagda": 36984,
@@ -15042,6 +15696,7 @@
     }
   },
   {
+    "id": "sog68Hx1LVihGUEni229uQ",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Övrigt klotter, ej mot kollektivtrafik",
     "handlagda": 55446,
@@ -15065,6 +15720,7 @@
     }
   },
   {
+    "id": "4eU1o5JAsVdxM8tJhDaVq2",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Mot stat, kommun, landsting (ej klotter)",
     "handlagda": 42916,
@@ -15088,6 +15744,7 @@
     }
   },
   {
+    "id": "2pdqkWX2LRo4SRa69qPMNB",
     "kategori": "12 kap. 1-3 § BrB Skadegörelse, grov skadegörelse, åverkan ",
     "underkategori": "Annan skadegörelse (ej klotter)",
     "handlagda": 40427,
@@ -15111,6 +15768,7 @@
     }
   },
   {
+    "id": "fhiqbWxZxX5Ed1xgd79fZx",
     "kategori": "12 kap. 4 § BrB Tagande av olovlig väg",
     "underkategori": "Tagande av olovlig väg ",
     "handlagda": 46,
@@ -15134,6 +15792,7 @@
     }
   },
   {
+    "id": "9JqgKntTWSYmgEmkH5dpiA",
     "kategori": "13-15 kap. BrB Brott mot allmänheten",
     "underkategori": "Brott mot allmänheten, totalt",
     "handlagda": 17605,
@@ -15157,6 +15816,7 @@
     }
   },
   {
+    "id": "xxHGmURQt8gYAbnWrvnNvK",
     "kategori": "13 kap. BrB Allmänfarliga brott",
     "underkategori": "Allmänfarliga brott, totalt",
     "handlagda": 4816,
@@ -15180,6 +15840,7 @@
     }
   },
   {
+    "id": "oNRz12m8RipuynhYb3C9hK",
     "kategori": "13 kap 1, 2 § BrB Mordbrand inkl. grov",
     "underkategori": "Mordbrand",
     "handlagda": 1222,
@@ -15203,6 +15864,7 @@
     }
   },
   {
+    "id": "sUUFDS9zysbDvswE3i1wwm",
     "kategori": "13 kap 3 § BrB Allmänfarlig ödeläggelse",
     "underkategori": "Allmänfarlig ödeläggelse, totalt",
     "handlagda": 221,
@@ -15226,6 +15888,7 @@
     }
   },
   {
+    "id": "qPdqEEYVffFYw5wdwgaxo1",
     "kategori": "13 kap 3 § BrB Allmänfarlig ödeläggelse",
     "underkategori": "Genom sprängning",
     "handlagda": 191,
@@ -15249,6 +15912,7 @@
     }
   },
   {
+    "id": "rmBH4gUHjnM9xvf4X3W7EE",
     "kategori": "14 kap 3 § BrB Allmänfarlig ödeläggelse",
     "underkategori": "Genom sprängning, fullbordat brott",
     "handlagda": 80,
@@ -15272,6 +15936,7 @@
     }
   },
   {
+    "id": "673buUnKR5fVMMxRHAHGwr",
     "kategori": "15 kap 3 § BrB Allmänfarlig ödeläggelse",
     "underkategori": "Genom sprängning, försök med mera till brott",
     "handlagda": 100,
@@ -15295,6 +15960,7 @@
     }
   },
   {
+    "id": "15EmG51QWd5L9NdqC37HPk",
     "kategori": "13 kap 3 § BrB Allmänfarlig ödeläggelse",
     "underkategori": "Ej genom sprängning",
     "handlagda": 30,
@@ -15318,6 +15984,7 @@
     }
   },
   {
+    "id": "odgkEU91sQduYEMswtHY7C",
     "kategori": "13 kap 5 c § BrB Sabotage mot blåljusverksamhet inkl. grovt ",
     "underkategori": "Sabotage mot blåljusverksamhet, totalt",
     "handlagda": 495,
@@ -15341,6 +16008,7 @@
     }
   },
   {
+    "id": "kfkoa1KShnyt4AVhf97koS",
     "kategori": "13 kap. 6 § BrB Allmänfarlig vårdslöshet",
     "underkategori": "Allmänfarlig vårdslöshet, totalt",
     "handlagda": 2474,
@@ -15364,6 +16032,7 @@
     }
   },
   {
+    "id": "x2yJTsKrvTTsvfmEMFTuxw",
     "kategori": "13 kap. 6 § BrB Allmänfarlig vårdslöshet",
     "underkategori": "Vållande av brand",
     "handlagda": 2121,
@@ -15387,6 +16056,7 @@
     }
   },
   {
+    "id": "iXZYXHKCpeq6fPpZfdZ6EN",
     "kategori": "13 kap. 6 § BrB Allmänfarlig vårdslöshet",
     "underkategori": "Annan allmänfarlig vårdslöshet",
     "handlagda": 353,
@@ -15410,6 +16080,7 @@
     }
   },
   {
+    "id": "pvJcjpgMiiwyLp559gedEE",
     "kategori": "13 kap. 7-9 § BrB Spridande av gift eller smitta förgöring, vårdslöshet med gift eller smittämne ",
     "underkategori": "Spridande av gift eller smitta förgöring, vårdslöshet med gift eller smittämne, ",
     "handlagda": 120,
@@ -15433,6 +16104,7 @@
     }
   },
   {
+    "id": "2Z3nF1PnGWUQ8CnF1NGdYN",
     "kategori": "13 kap. 3-5 b, 10 Övriga brott mot 13 kap.",
     "underkategori": "Övriga brott mot 13 kap.",
     "handlagda": 282,
@@ -15456,6 +16128,7 @@
     }
   },
   {
+    "id": "owGm4kw7JZkE1euDfC5Nvg",
     "kategori": "14 kap. BrB Förfalskningsbrott",
     "underkategori": "Förfalskningsbrott, totalt",
     "handlagda": 8145,
@@ -15479,6 +16152,7 @@
     }
   },
   {
+    "id": "eVhqAebStqtRWgQ63efkAE",
     "kategori": "14 kap. 1-4, 10 § BrB Urkundsförfalskning m.m.",
     "underkategori": "Urkundsförfalskning m.m., totalt",
     "handlagda": 4737,
@@ -15502,6 +16176,7 @@
     }
   },
   {
+    "id": "bw2JbEXZFdfPNUyazUDfJu",
     "kategori": "14 kap. 1-4, 10 § BrB Urkundsförfalskning m.m.",
     "underkategori": "Check",
     "handlagda": 6,
@@ -15525,6 +16200,7 @@
     }
   },
   {
+    "id": "g5fiw9h747P6zTCo57yyhY",
     "kategori": "14 kap. 1-4, 10 § BrB Urkundsförfalskning m.m.",
     "underkategori": "Legitimationshandling",
     "handlagda": 1014,
@@ -15548,6 +16224,7 @@
     }
   },
   {
+    "id": "3uqPPDybVWS5JDNxfB9BZE",
     "kategori": "14 kap. 1-4, 10 § BrB Urkundsförfalskning m.m.",
     "underkategori": "Handling som  använts för illegal invandring (pass, resedokument, uppehållstills",
     "handlagda": 328,
@@ -15571,6 +16248,7 @@
     }
   },
   {
+    "id": "iURNae38jWRF6L7uAsXjzv",
     "kategori": "14 kap. 1-4, 10 § BrB Urkundsförfalskning m.m.",
     "underkategori": "Övrig legitimationshandling",
     "handlagda": 686,
@@ -15594,6 +16272,7 @@
     }
   },
   {
+    "id": "qFAupcsySF39u63Hq767ak",
     "kategori": "14 kap. 1-4, 10 § BrB Urkundsförfalskning m.m.",
     "underkategori": "Övrig urkundsförfalskning",
     "handlagda": 3717,
@@ -15617,6 +16296,7 @@
     }
   },
   {
+    "id": "kFs7Mqxer9TBsTzmBg1smG",
     "kategori": "14 kap. 5, 10 § BrB Signaturförfalskning",
     "underkategori": "Signaturförfalskning, totalt",
     "handlagda": 37,
@@ -15640,6 +16320,7 @@
     }
   },
   {
+    "id": "hVXC3MZk3S2ffKn5eyarYr",
     "kategori": "14 kap. 6, 7, 10, 11 § BrB Penningförfalskning m.m. ",
     "underkategori": "Penningförfalskning m.m., totalt",
     "handlagda": 2240,
@@ -15663,6 +16344,7 @@
     }
   },
   {
+    "id": "xvtcn82W46eciAiQCLDd4d",
     "kategori": "14 kap. 8-11 § BrB Övriga brott",
     "underkategori": "Övriga brott mot 14 kap.",
     "handlagda": 1131,
@@ -15686,6 +16368,7 @@
     }
   },
   {
+    "id": "x7oKrPGt6KuCTFq4tLTSV6",
     "kategori": "15 kap. Mened, falskt åtal m.m.",
     "underkategori": "15 kap. Mened, falskt åtal m.m. totalt",
     "handlagda": 4644,
@@ -15709,6 +16392,7 @@
     }
   },
   {
+    "id": "8gt8F6mk8s6B31JgUfKSrf",
     "kategori": "15 kap. 1-3 § BrB Mened, osann partsutsaga m.m.",
     "underkategori": "Mened, osann partsutsaga m.m., totalt",
     "handlagda": 279,
@@ -15732,6 +16416,7 @@
     }
   },
   {
+    "id": "3q93ceSUHxqMnimUjmUREo",
     "kategori": "15 kap. 7 § BrB Falsk tillvitelse, vårdslös tillvitelse",
     "underkategori": "Falsk tillvitelse, vårdslös tillvitelse, totalt",
     "handlagda": 2364,
@@ -15755,6 +16440,7 @@
     }
   },
   {
+    "id": "s7vrTyAPN5si4kLwhpDiXY",
     "kategori": "15 kap. 11, 12 § BrB Osant intygande, brukande av osann urkund",
     "underkategori": "Missbruk av urkund avs. pass och övr. resedokument samt utfärdat pass på falska ",
     "handlagda": 740,
@@ -15778,6 +16464,7 @@
     }
   },
   {
+    "id": "p353VvpUrk2af4vVrE7mq6",
     "kategori": "15 kap. 4 a, 4 b, 5, 6, 8-13 § BrB Övriga brott",
     "underkategori": "Övriga brott mot 15 kap.",
     "handlagda": 1261,
@@ -15801,6 +16488,7 @@
     }
   },
   {
+    "id": "uFibYJQm1Ug9A5qEbrY8AD",
     "kategori": "16-20 kap. BrB Brott mot staten",
     "underkategori": "Brott mot staten, totalt",
     "handlagda": 40184,
@@ -15824,6 +16512,7 @@
     }
   },
   {
+    "id": "31gSWaF1DwPhbmTMaXqT3A",
     "kategori": "16 kap. BrB Brott mot allmän ordning",
     "underkategori": "Brott mot allmän ordning, totalt",
     "handlagda": 6859,
@@ -15847,6 +16536,7 @@
     }
   },
   {
+    "id": "qpfVsALhsjKsNt5399m1hs",
     "kategori": "16 kap. 15 § 1, 2 st. BrB Falskt larm",
     "underkategori": "Falskt larm, totalt",
     "handlagda": 763,
@@ -15870,6 +16560,7 @@
     }
   },
   {
+    "id": "39DvL15cQFAfhFK4kfwNiF",
     "kategori": "16 kap. 15 § 3 st. BrB Missbruk av larmanordning",
     "underkategori": "Missbruk av larmanordning, totalt",
     "handlagda": 204,
@@ -15893,6 +16584,7 @@
     }
   },
   {
+    "id": "oByvbbpxvpZzm8oCZaum8y",
     "kategori": "16 kap. 8 § BrB Hets mot folkgrupp",
     "underkategori": "Hets mot folkgrupp, totalt",
     "handlagda": 1000,
@@ -15916,6 +16608,7 @@
     }
   },
   {
+    "id": "cGiAPtYHdyJVYhb47Me3qo",
     "kategori": "16 kap. 9 § BrB Olaga diskriminering",
     "underkategori": "Olaga diskriminering, totalt",
     "handlagda": 90,
@@ -15939,6 +16632,7 @@
     }
   },
   {
+    "id": "5CKNsbgnv3CmkL37xvdQgr",
     "kategori": "16 kap. 10 a § BrB Barnpornografibrott ",
     "underkategori": "Barnpornografibrott, totalt",
     "handlagda": 2816,
@@ -15962,6 +16656,7 @@
     }
   },
   {
+    "id": "5TPbhBDP6R9WmE2y7obNPf",
     "kategori": "16 kap. 10 a § BrB Barnpornografibrott ",
     "underkategori": "Internetrelaterat barnpornografibrott",
     "handlagda": 2144,
@@ -15985,6 +16680,7 @@
     }
   },
   {
+    "id": "iHCFvYQZoeK5NNq5jcpLJx",
     "kategori": "16 kap. 10 a § BrB Barnpornografibrott ",
     "underkategori": "Övriga barnpornografibrott",
     "handlagda": 672,
@@ -16008,6 +16704,7 @@
     }
   },
   {
+    "id": "kXm3YKgyhTS9Q9CKG9sUzX",
     "kategori": "16 kap. 13 § BrB Djurplågeri ",
     "underkategori": "Djurplågeri, totalt",
     "handlagda": 1484,
@@ -16031,6 +16728,7 @@
     }
   },
   {
+    "id": "uhmVqMf8mfx84jjkAVGZet",
     "kategori": "16 kap. 1-6, 10-14 § BrB Övriga brott ",
     "underkategori": "Övriga brott mot 16 kap. ",
     "handlagda": 502,
@@ -16054,6 +16752,7 @@
     }
   },
   {
+    "id": "nQGQ5HHQZWq4dBua6rWRmz",
     "kategori": "17 kap. BrB Brott mot allmän verksamhet",
     "underkategori": "Brott mot allmän verksamhet, totalt",
     "handlagda": 24803,
@@ -16077,6 +16776,7 @@
     }
   },
   {
+    "id": "qenwioGB9CwFY1uVZxVEJT",
     "kategori": "17 kap. 1, 5 § BrB Våld mot tjänsteman o.d.",
     "underkategori": "Våld mot tjänsteman, totalt",
     "handlagda": 3706,
@@ -16100,6 +16800,7 @@
     }
   },
   {
+    "id": "1BEm1zvMh4s7cen8VNxA7v",
     "kategori": "17 kap. 1 § BrB Våld mot tjänsteman",
     "underkategori": "Mot polis",
     "handlagda": 1285,
@@ -16123,6 +16824,7 @@
     }
   },
   {
+    "id": "tUKEyyzh4hSCUtRvoESjHo",
     "kategori": "17 kap. 1 § BrB Våld mot tjänsteman",
     "underkategori": "Mot ordningsvakt ",
     "handlagda": 1124,
@@ -16146,6 +16848,7 @@
     }
   },
   {
+    "id": "wUz2KAVf8RDBkQ2j6d8mYr",
     "kategori": "17 kap. 1, 5 § BrB Våld mot tjänsteman o.d.",
     "underkategori": "Mot annan person",
     "handlagda": 1297,
@@ -16169,6 +16872,7 @@
     }
   },
   {
+    "id": "mErhh26akxpgJy6GJjG3vV",
     "kategori": "17 kap. 1, 5 § BrB Hot m.m. mot tjänsteman o.d.",
     "underkategori": "Hot m.m. mot tjänsteman o.d.",
     "handlagda": 6150,
@@ -16192,6 +16896,7 @@
     }
   },
   {
+    "id": "7aKRmrfSDz7nc4JpQvwN2a",
     "kategori": "17 kap. 4, 5 § BrB Våldsamt motstånd",
     "underkategori": "Våldsamt motstånd, totalt",
     "handlagda": 4852,
@@ -16215,6 +16920,7 @@
     }
   },
   {
+    "id": "1k1x9hJvqNfoPqari17RyG",
     "kategori": "17 kap. 10 § BrB Övergrepp i rättssak",
     "underkategori": "Övergrepp i rättssak, totalt",
     "handlagda": 4767,
@@ -16238,6 +16944,7 @@
     }
   },
   {
+    "id": "4cjzHqdMY36wyDgZch8YcM",
     "kategori": "17 kap. BrB 8, 9, 11-13, 15 § Övriga brott",
     "underkategori": "Övriga brott mot 17 kap.",
     "handlagda": 5328,
@@ -16261,6 +16968,7 @@
     }
   },
   {
+    "id": "iRGphtFhQ6jDH2ZZHQkM1w",
     "kategori": "18 kap. BrB Högmålsbrott",
     "underkategori": "Högmålsbrott, totalt",
     "handlagda": 7,
@@ -16284,6 +16992,7 @@
     }
   },
   {
+    "id": "d46zM63ouwVqLfy1vS1zXu",
     "kategori": "19 kap. BrB Brott mot rikets säkerhet",
     "underkategori": "Brott mot rikets säkerhet, totalt",
     "handlagda": 13,
@@ -16307,6 +17016,7 @@
     }
   },
   {
+    "id": "e8LZKxUwYjyGktcmmeHQVF",
     "kategori": "20 kap. BrB Tjänstefel m.m.",
     "underkategori": "Tjänstefel m.m. totalt",
     "handlagda": 8502,
@@ -16330,6 +17040,7 @@
     }
   },
   {
+    "id": "bfsMP1HiFMp5jegHGy4nKv",
     "kategori": "20 kap. 1 § BrB Tjänstefel inkl.grovt ",
     "underkategori": "Tjänstefel",
     "handlagda": 8172,
@@ -16353,6 +17064,7 @@
     }
   },
   {
+    "id": "aRqJo1AvYNE4AZXz8BFCUf",
     "kategori": "20 kap. 3 § BrB Brott mot tystnadsplikt",
     "underkategori": "Brott mot tystnadsplikt",
     "handlagda": 330,
@@ -16376,6 +17088,7 @@
     }
   },
   {
+    "id": "sVUYpgkidn1TxuKWQS94sf",
     "kategori": "22 kap. BrB Om landsförräderi m.m.",
     "underkategori": "Om landsförräderi m.m. totalt",
     "handlagda": 35,
@@ -16399,6 +17112,7 @@
     }
   },
   {
+    "id": "mPmvf3TAszLt8pCfJpMrXd",
     "kategori": "Brott mot specialstraffrättsliga författningar",
     "underkategori": "Brott mot specialstraffrättsliga författningar, totalt",
     "handlagda": 282160,
@@ -16422,6 +17136,7 @@
     }
   },
   {
+    "id": "qMdxCCRVM85QNFXYasz56N",
     "kategori": "Lag (1951:649) om straff för vissa trafikbrott",
     "underkategori": "Trafikbrottslagen, totalt",
     "handlagda": 70594,
@@ -16445,6 +17160,7 @@
     }
   },
   {
+    "id": "c6L6oJoJFKaf6AGPmXCdyt",
     "kategori": "1 § 2 st. TBL Grov vårdslöshet i trafik ",
     "underkategori": "Grov vårdslöshet i trafik, totalt",
     "handlagda": 882,
@@ -16468,6 +17184,7 @@
     }
   },
   {
+    "id": "tggB9giZC2eHc8aicAc81N",
     "kategori": "3 § 1 st. TBL Olovlig  körning, grov olovlig körning ",
     "underkategori": "Olovlig  körning, totalt",
     "handlagda": 23207,
@@ -16491,6 +17208,7 @@
     }
   },
   {
+    "id": "wc36TjW59ca1ue9DAQ9TXv",
     "kategori": "4, 4 a § TBL Rattfylleri, grovt rattfylleri",
     "underkategori": "Rattfylleri, totalt",
     "handlagda": 10279,
@@ -16514,6 +17232,7 @@
     }
   },
   {
+    "id": "6Fggft1ZbeSfFs3cdB7JDr",
     "kategori": "4 § 2 st. TBL Rattfylleri under påverkan av narkotika",
     "underkategori": "Rattfylleri under påverkan av narkotika, totalt",
     "handlagda": 13227,
@@ -16537,6 +17256,7 @@
     }
   },
   {
+    "id": "cp2vHk41e6vF21VmncNhSH",
     "kategori": "5 § TBL Smitning, trafikolycka",
     "underkategori": "Smitning, trafikolycka, totalt",
     "handlagda": 21683,
@@ -16560,6 +17280,7 @@
     }
   },
   {
+    "id": "ku6yrH9kgnMkK7AFJ7dSJ1",
     "kategori": "5 § TBL Smitning, trafikolycka",
     "underkategori": "Med betydande materialskador, personskador eller dödligt utfall",
     "handlagda": 1567,
@@ -16583,6 +17304,7 @@
     }
   },
   {
+    "id": "hVkpFPNLWoJJ8fc4ZPg2Es",
     "kategori": "5 § TBL Smitning, trafikolycka",
     "underkategori": "Med inga eller lindriga material- och personskador",
     "handlagda": 20109,
@@ -16606,6 +17328,7 @@
     }
   },
   {
+    "id": "7JrUcvx1i6tMQdFqrSFcqo",
     "kategori": "3 § 2 och 3 st. TBL Övriga brott ",
     "underkategori": "Övriga brott mot trafikbrottslagen",
     "handlagda": 1316,
@@ -16629,6 +17352,7 @@
     }
   },
   {
+    "id": "jVKWLAj4r9qevNkwEsXLmd",
     "kategori": "Narkotikastrafflag (1968:64)",
     "underkategori": "Narkotikastrafflagen, totalt",
     "handlagda": 115280,
@@ -16652,6 +17376,7 @@
     }
   },
   {
+    "id": "4oFtkcpsZioUoxyG1sfhKL",
     "kategori": "1-3 a § NSL Narkotikabrott inkl. grovt, vårdslöshet med narkotika",
     "underkategori": "Överlåtelse m.m. ",
     "handlagda": 8094,
@@ -16675,6 +17400,7 @@
     }
   },
   {
+    "id": "kNKU2cVvUrRgpTM7Rganqi",
     "kategori": "1-3 § NSL Narkotikabrott inkl. grovt",
     "underkategori": "Innehav ",
     "handlagda": 58254,
@@ -16698,6 +17424,7 @@
     }
   },
   {
+    "id": "x5C2vfQeSgzV4yKdJuUW5e",
     "kategori": "1-3 § NSL Narkotikabrott inkl. grovt",
     "underkategori": "Eget bruk",
     "handlagda": 48435,
@@ -16721,6 +17448,7 @@
     }
   },
   {
+    "id": "7wJcSiqqNbvtYHv9dELdYv",
     "kategori": "1-3 § NSL Narkotikabrott inkl. grovt",
     "underkategori": "Framställning",
     "handlagda": 497,
@@ -16744,6 +17472,7 @@
     }
   },
   {
+    "id": "jub1FwbBtEZkGH7N3gF4yy",
     "kategori": "Miljöbalken (1998:808)",
     "underkategori": "Miljöbalken, totalt",
     "handlagda": 4626,
@@ -16767,6 +17496,7 @@
     }
   },
   {
+    "id": "k9M22vDyX1NXqkQpj9gCmr",
     "kategori": "29 kap. 1 § MB Miljöbrott inkl. grovt",
     "underkategori": "Miljöbrott",
     "handlagda": 963,
@@ -16790,6 +17520,7 @@
     }
   },
   {
+    "id": "sSYsD1sphAMSze5sWCG49g",
     "kategori": "29 kap. 2, 2 a § MB Brott eller förseelse mot områdesskydd ",
     "underkategori": "Brott eller förseelse mot områdesskydd",
     "handlagda": 528,
@@ -16813,6 +17544,7 @@
     }
   },
   {
+    "id": "bAhejbsdV4iShmHh6f1muA",
     "kategori": "29 kap. 2 b § MB Artskydd inkl grovt ",
     "underkategori": "Artskydd",
     "handlagda": 298,
@@ -16836,6 +17568,7 @@
     }
   },
   {
+    "id": "46DgiA4A6MRy9wfW3GcTNW",
     "kategori": "29 kap. 2 c § MB Otillåten hantering av invasiv främmande art",
     "underkategori": "Otillåten hantering av invasiv främmande art ",
     "handlagda": 4,
@@ -16859,6 +17592,7 @@
     }
   },
   {
+    "id": "dSTfhX2XnTeRFaqaCJrjXq",
     "kategori": "29 kap. 3, 3 a § MB Miljöfarlig eller olovlig kemikaliehantering ",
     "underkategori": "Miljöfarlig eller olovlig kemikaliehantering ",
     "handlagda": 108,
@@ -16882,6 +17616,7 @@
     }
   },
   {
+    "id": "prP7tcVFkhKV5qaMP42Qqm",
     "kategori": "29 kap. 1 § MB Otillåten miljöverksamhet",
     "underkategori": "Otillåten miljöverksamhet ",
     "handlagda": 734,
@@ -16905,6 +17640,7 @@
     }
   },
   {
+    "id": "i5yKJzoTKX45pnrteRvois",
     "kategori": "29 kap. 4 a § 1–15 p MB Otillåten avfallstransport",
     "underkategori": "Otillåten avfallstransport ",
     "handlagda": 74,
@@ -16928,6 +17664,7 @@
     }
   },
   {
+    "id": "nRgnhL71na7fyqRRTN46Tj",
     "kategori": "29 kap. 5 § MB Försvårande av miljökontroll",
     "underkategori": "Försvårande av miljökontroll ",
     "handlagda": 92,
@@ -16951,6 +17688,7 @@
     }
   },
   {
+    "id": "vRqWgR6AM1Sab6oVFyDBjj",
     "kategori": "29 kap. 6 § MB Bristfällig miljöinformation",
     "underkategori": "Bristfällig miljöinformation",
     "handlagda": 26,
@@ -16974,6 +17712,7 @@
     }
   },
   {
+    "id": "wmeiE2FevuuDFPfz8L1cnH",
     "kategori": "29 kap. 7 § MB Nedskräpning",
     "underkategori": "Nedskräpning",
     "handlagda": 1730,
@@ -16997,6 +17736,7 @@
     }
   },
   {
+    "id": "vLSKMUdqJGCUcgqDmcc252",
     "kategori": "29 kap. 8 § MB Övriga brott mot miljöbalken",
     "underkategori": "Övriga brott mot miljöbalken ",
     "handlagda": 69,
@@ -17020,6 +17760,7 @@
     }
   },
   {
+    "id": "qRuKxD9ttgU5o8tDdxASVJ",
     "kategori": "Skattebrottslag (1971:69) 2-10 §",
     "underkategori": "Skattebrottslagen ",
     "handlagda": 5792,
@@ -17043,6 +17784,7 @@
     }
   },
   {
+    "id": "rELwUGsx2HSGjndcQbY2kE",
     "kategori": "4 § SBL Grovt skattebrott",
     "underkategori": "Grovt skattebrott, totalt",
     "handlagda": 1529,
@@ -17066,6 +17808,7 @@
     }
   },
   {
+    "id": "7dRZtqdmgnnbxN4ce7cd6U",
     "kategori": "SBL 2-4 § Skattebrott, skatteförseelse, grovt skattebrott",
     "underkategori": "Avseende mervärdesskattelagen ",
     "handlagda": 1013,
@@ -17089,6 +17832,7 @@
     }
   },
   {
+    "id": "wAtYkugJA8VCUjgCPjJh2N",
     "kategori": "SBL 2-4 § Skattebrott, skatteförseelse, grovt skattebrott",
     "underkategori": "Avseende övrig skattelagstiftninig ",
     "handlagda": 2071,
@@ -17112,6 +17856,7 @@
     }
   },
   {
+    "id": "aAyaoH7wzaugzrw1fdYGUV",
     "kategori": "SBL 5 § Vårdslös skatteuppgift ",
     "underkategori": "Vårdslös skatteuppgift",
     "handlagda": 15,
@@ -17135,6 +17880,7 @@
     }
   },
   {
+    "id": "cSsSjmx1eYFmwN1WJzeNed",
     "kategori": "SBL 6 § Skatteavdragsbrott ",
     "underkategori": "Skatteavdragsbrott",
     "handlagda": 33,
@@ -17158,6 +17904,7 @@
     }
   },
   {
+    "id": "h7MFVMJudmyKyfY6jCgnXB",
     "kategori": "SBL 7, 8 § Skatteredovisningsbrott, vårdslös skatteredovisning ",
     "underkategori": "Skatteredovisningsbrott, vårdslös skatteredovisning ",
     "handlagda": 78,
@@ -17181,6 +17928,7 @@
     }
   },
   {
+    "id": "4MtHHfBv9LqGB7zkz1gbMq",
     "kategori": "SBL 10 § Försvårande av skattekontroll",
     "underkategori": "Försvårande av skattekontroll ",
     "handlagda": 1053,
@@ -17204,6 +17952,7 @@
     }
   },
   {
+    "id": "qgdeeoYra1DP6KqKY2EsKQ",
     "kategori": "Lag (1986:436) om näringsförbud, 47 §",
     "underkategori": "Överträdelse av lagen om näringsförbud",
     "handlagda": 51,
@@ -17227,6 +17976,7 @@
     }
   },
   {
+    "id": "pqjwa2bpajSMTm4eyNU3Ne",
     "kategori": "Aktiebolagslag (2005:551)",
     "underkategori": "Aktiebolagslagen, totalt",
     "handlagda": 269,
@@ -17250,6 +18000,7 @@
     }
   },
   {
+    "id": "jmza34e3uzjeznTtndyHMy",
     "kategori": "ABL 30 kap. 1 § 2 st. 2 p. Underlåtenhet att föra/hålla aktiebok tillgänglig ",
     "underkategori": "Underlåtenhet att föra/hålla aktiebok tillgänglig",
     "handlagda": 6,
@@ -17273,6 +18024,7 @@
     }
   },
   {
+    "id": "9z2KMtmQRAsef62HZHUybp",
     "kategori": "ABL 30 kap. 1 § 1 st. 4 p. Brott mot låneförbud m.m. ",
     "underkategori": "Brott mot låneförbud m.m. ",
     "handlagda": 119,
@@ -17296,6 +18048,7 @@
     }
   },
   {
+    "id": "g65FsaFhLPbqQsAerxecWV",
     "kategori": "ABL 30 kap. 1 § 3 st. Brott mot bulvan/målvaktsbestämmelser ",
     "underkategori": "Brott mot bulvan/målvaktsbestämmelser ",
     "handlagda": 131,
@@ -17319,6 +18072,7 @@
     }
   },
   {
+    "id": "pRkMsydb1NW8izTSZDniHU",
     "kategori": "ABL 30 kap. 1 § 1 st. 1 p., 3 p. och 2 § Övriga brott ",
     "underkategori": "Övriga brott mot aktiebolagslagen ",
     "handlagda": 13,
@@ -17342,6 +18096,7 @@
     }
   },
   {
+    "id": "pGbiZNLrgJhAQA67bgFGpP",
     "kategori": "Lag (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden",
     "underkategori": "Lag om straff för marknadsmissbruk m.m, totalt",
     "handlagda": 108,
@@ -17365,6 +18120,7 @@
     }
   },
   {
+    "id": "1T6295VeFqbAvUKcuAavST",
     "kategori": "Lag 2016:1307 2 kap. 2-4, 7 § Insiderbrott m.m.",
     "underkategori": "Insiderbrott m.m.",
     "handlagda": 76,
@@ -17388,6 +18144,7 @@
     }
   },
   {
+    "id": "49L2J61YXD1q7GFeKPHqaU",
     "kategori": "Lag 2016:1307 2 kap.3 § Obehörigt röjande av insiderinformation ",
     "underkategori": "Obehörigt röjande av insiderinformation",
     "handlagda": 8,
@@ -17411,6 +18168,7 @@
     }
   },
   {
+    "id": "eQCZuzox22HVnCdH8U3N7m",
     "kategori": "Lag 2016:1307 2 kap.4, 7 § Marknadsmanipulation, inkl. grov",
     "underkategori": "Marknadsmanipulation",
     "handlagda": 24,
@@ -17434,6 +18192,7 @@
     }
   },
   {
+    "id": "vpEGCQqhwD4FBwyWKW3FPi",
     "kategori": "Lag om straff för finansiering av särskilt allvarlig brottslighet i vissa fall, m.m.",
     "underkategori": "Lag om straff för finansiering av särskilt allvarlig brottslighet i vissa fall, ",
     "handlagda": 1,
@@ -17457,6 +18216,7 @@
     }
   },
   {
+    "id": "j6AhF92hyinJknUfXsFXGp",
     "kategori": "Lag (2014:307) om straff för penningtvättsbrott",
     "underkategori": "Penningtvättsbrott, totalt",
     "handlagda": 14474,
@@ -17480,6 +18240,7 @@
     }
   },
   {
+    "id": "7e6X6GiDtfxEjRD9e8DLgg",
     "kategori": "Lag 2014:307, 3-4 § Penningtvättsbrott ",
     "underkategori": "Penningtvättsbrott ",
     "handlagda": 11935,
@@ -17503,6 +18264,7 @@
     }
   },
   {
+    "id": "uprXcrhqCXyeRMQrtHdKgN",
     "kategori": "Lag 2014:307, 5 § Penningtvättsbrott, grovt brott",
     "underkategori": "Penningtvättsbrott",
     "handlagda": 1291,
@@ -17526,6 +18288,7 @@
     }
   },
   {
+    "id": "vVtL9a1H67S6528P6weBAV",
     "kategori": "Lag 2014:307, 6 § Penningtvättsförseelse ",
     "underkategori": "Penningtvättsförseelse",
     "handlagda": 504,
@@ -17549,6 +18312,7 @@
     }
   },
   {
+    "id": "wraujBc2YhvaPjZMUzZmWG",
     "kategori": "Lag 2014:307, 7 § 1-3 st Näringspenningtvätt",
     "underkategori": "Näringspenningtvätt ",
     "handlagda": 744,
@@ -17572,6 +18336,7 @@
     }
   },
   {
+    "id": "4bmimdnGQgDpc5pSNMFEQs",
     "kategori": "Bidragsbrottslag (2007:612)",
     "underkategori": "Bidragsbrottslagen, totalt",
     "handlagda": 27489,
@@ -17595,6 +18360,7 @@
     }
   },
   {
+    "id": "dV6Lz7M37nU5SH7r1NxU2r",
     "kategori": "Lag 2007:612, 2-4 § Bidragsbrottslag",
     "underkategori": "Mot Försäkringskassan",
     "handlagda": 20370,
@@ -17618,6 +18384,7 @@
     }
   },
   {
+    "id": "3uwiKePtvqd1QP4CyzNSyr",
     "kategori": "Lag 2007:612, 2-4 § Bidragsbrottslag",
     "underkategori": "Mot kommunerna",
     "handlagda": 2089,
@@ -17641,6 +18408,7 @@
     }
   },
   {
+    "id": "b7esS68NZxrCJ8MPFdesvg",
     "kategori": "Lag 2007:612, 2-4 § Bidragsbrottslag",
     "underkategori": "Mot a-kassorna och Arbetsförmedlingen",
     "handlagda": 3846,
@@ -17664,6 +18432,7 @@
     }
   },
   {
+    "id": "d919muiLNKcaNYTWwSfMS2",
     "kategori": "Lag 2007:612, 2-4 § Bidragsbrottslag",
     "underkategori": "Mot PPM, CSN och Migrationsverket",
     "handlagda": 1184,
@@ -17687,6 +18456,7 @@
     }
   },
   {
+    "id": "mC6cx6N7QEebcZPi7RUVnB",
     "kategori": "Lag (2000:1225) om straff för smuggling",
     "underkategori": "Smugglingslagen, totalt",
     "handlagda": 2894,
@@ -17710,6 +18480,7 @@
     }
   },
   {
+    "id": "uPLXWoFMeZN8nnakfcXi2G",
     "kategori": "Lag (2000:1225) 3-5, 7, 14 § Smugglingsbrott och olovlig in- och utförsel",
     "underkategori": "Smugglingsbrott och olovlig in- och utförsel, ej narkotika",
     "handlagda": 1216,
@@ -17733,6 +18504,7 @@
     }
   },
   {
+    "id": "sqspwf8fY7QF7PcDR3Ckqx",
     "kategori": "Lag (2000:1225) 6, 7, 14 § Narkotikasmuggling och olovlig in- och utförsel av narkotika ",
     "underkategori": "Narkotikasmuggling och olovlig in- och utförsel av narkotika ",
     "handlagda": 1257,
@@ -17756,6 +18528,7 @@
     }
   },
   {
+    "id": "oC77LCCP7722fTcBsD9kQk",
     "kategori": "Lag (2000:1225)6 a, 7 , 14 § Vapensmuggling, olovlig in- och utförsel",
     "underkategori": "Vapensmuggling, olovlig in- och utförsel",
     "handlagda": 100,
@@ -17779,6 +18552,7 @@
     }
   },
   {
+    "id": "a8pUbww7vUV7zFuALYb4sZ",
     "kategori": "Lag (2000:1225) 6 b, 7, 14 § Smuggling av explosiv vara, olovlig in- och utförsel",
     "underkategori": "Smuggling av explosiv vara, olovlig in- och utförsel",
     "handlagda": 44,
@@ -17802,6 +18576,7 @@
     }
   },
   {
+    "id": "bLfF2iT69QyUWByi3VRT1v",
     "kategori": "Lag (2000:1225) 8-11, 14 § Tullbrott och vårdslös tullredovisning ",
     "underkategori": "Tullbrott och vårdslös tullredovisning",
     "handlagda": 116,
@@ -17825,6 +18600,7 @@
     }
   },
   {
+    "id": "1eDw1bHkrF6DcvtnJ9STNP",
     "kategori": "Lag (2000:1225) 12-14 § Olovlig befattning med smuggelgods ",
     "underkategori": "Olovlig befattning med smuggelgods ",
     "handlagda": 161,
@@ -17848,6 +18624,7 @@
     }
   },
   {
+    "id": "jYHZy4HNMKteQM2VVPZvb2",
     "kategori": "Lag (1998:506) om punktskattekontroll av transporter m.m. av alkoholvaror, tobaksvaror och energiprodukter 5 kap. 1, 1 a-c §",
     "underkategori": "Lagen om punktskattekontroll ",
     "handlagda": 177,
@@ -17871,6 +18648,7 @@
     }
   },
   {
+    "id": "3nMgXSMSDABtXoXSM8BHGS",
     "kategori": "Lag (1992:860) om kontroll av narkotika",
     "underkategori": "Lagen om kontroll av narkotika (13 §)",
     "handlagda": 3,
@@ -17894,6 +18672,7 @@
     }
   },
   {
+    "id": "rwBhH3nwVLbPjhnB2DChEM",
     "kategori": "Alkohollag (2010:1622) 11 kap.",
     "underkategori": "Alkohollagen, totalt",
     "handlagda": 870,
@@ -17917,6 +18696,7 @@
     }
   },
   {
+    "id": "3VXkwq2FkryCp5Xg8N5qkk",
     "kategori": "Lag (2010:1622) 11 kap. (1 § 1 p., 2 , 4 §) Olovlig befattning med sprit genom tillverkning, inkl. grov ",
     "underkategori": "Olovlig befattning med sprit genom tillverkning",
     "handlagda": 43,
@@ -17940,6 +18720,7 @@
     }
   },
   {
+    "id": "ws4ChTzeCQEmw9x883eEKp",
     "kategori": "Lag (2010:1622) 11 kap.  (1 § 2 p., 4 §) Olovlig befattning med olovligt tillverkad sprit genom förvärv, innehav m.m.",
     "underkategori": "Olovlig befattning med olovligt tillverkad sprit genom förvärv, innehav m.m.",
     "handlagda": 83,
@@ -17963,6 +18744,7 @@
     }
   },
   {
+    "id": "dzgnBn4titzQmZCgsEFVQk",
     "kategori": "Lag (2010:1622) 11 kap.(3, 4, 6 §) Olovlig försäljning av alkohol inkl. grov, olovligt innehav av alkohol ",
     "underkategori": "Olovlig försäljning av alkohol, olovligt innehav av alkohol ",
     "handlagda": 286,
@@ -17986,6 +18768,7 @@
     }
   },
   {
+    "id": "tUMD4CmgDoRq4HLsVxJMb2",
     "kategori": "Lag (2010:1622) 11 kap. (5 §) Olovlig vin- och öltillverkning m.m.",
     "underkategori": "Olovlig vin- och öltillverkning m.m. ",
     "handlagda": 5,
@@ -18009,6 +18792,7 @@
     }
   },
   {
+    "id": "2Mj7QCEPnckLNEjJmsS8B7",
     "kategori": "Lag (2010:1622) 11 kap.  (7, 9 §)Olovligt anskaffande av alkohol, olovlig hantering av alkohol",
     "underkategori": "Olovligt anskaffande av alkohol, olovlig hantering av alkohol ",
     "handlagda": 444,
@@ -18032,6 +18816,7 @@
     }
   },
   {
+    "id": "v9gw9EX5ntNBcLAqQiUuTF",
     "kategori": "Lag (2010:1622) 11 kap.(8 §) Olovlig försäljning av teknisk sprit m.m. ",
     "underkategori": "Olovlig försäljning av teknisk sprit m.m. ",
     "handlagda": 9,
@@ -18055,6 +18840,7 @@
     }
   },
   {
+    "id": "52HdtL8k6watbPnZLG32kY",
     "kategori": "Lag (2018:2088) om tobak och liknande produkter",
     "underkategori": "Tobakslagen",
     "handlagda": 318,
@@ -18078,6 +18864,7 @@
     }
   },
   {
+    "id": "1eaDBaryjUquAfCK5QhUmb",
     "kategori": "Lag om förbud mot vissa hälsofarliga varor (3 § 1 st. och 4 §)",
     "underkategori": "Lag om förbud mot vissa hälsofarliga varor",
     "handlagda": 61,
@@ -18101,6 +18888,7 @@
     }
   },
   {
+    "id": "iGrs9hJ6BdsbatrjULWEtq",
     "kategori": "Lag om brandfarliga och explosiva varor (6 §, 16 § 1 st, 28 § 1 st, 29 § 2 st, 29a §)",
     "underkategori": "Lag om brandfarliga och explosiva varor",
     "handlagda": 471,
@@ -18124,6 +18912,7 @@
     }
   },
   {
+    "id": "weu9dHB7dKqqynUN1bjTMS",
     "kategori": "Läkemedelslag (2015:315) 16 kap. 1 §",
     "underkategori": "Läkemedelslag",
     "handlagda": 57,
@@ -18147,6 +18936,7 @@
     }
   },
   {
+    "id": "cvtEcr8MXWacER268hhA6s",
     "kategori": "Lag (2009:366) om handel med läkemedel (9 kap. 1, 1 a §)",
     "underkategori": "Lag om handel med läkemedel ",
     "handlagda": 27,
@@ -18170,6 +18960,7 @@
     }
   },
   {
+    "id": "iTtFZDV6P8oh5skGMt6Xms",
     "kategori": "Lag (2009:730) om handel med vissa receptfria läkemedel 24 §",
     "underkategori": "Lag om handel med vissa receptfria läkemedel",
     "handlagda": 5,
@@ -18193,6 +18984,7 @@
     }
   },
   {
+    "id": "nCGQgAKQtFRHwWhnRiHVSf",
     "kategori": "Vapenlag (1996:67) 9 kap. 1-3 §",
     "underkategori": "Vapenlagen, totalt",
     "handlagda": 9002,
@@ -18216,6 +19008,7 @@
     }
   },
   {
+    "id": "vBYKccqXTSZaExsiPy7A1v",
     "kategori": "Vapenlag (1996:67) 1, 1 a § Vapenbrott inkl. grovt, synnerligen grovt",
     "underkategori": "Vapenbrott; innehav, totalt",
     "handlagda": 7259,
@@ -18239,6 +19032,7 @@
     }
   },
   {
+    "id": "gCxDVsc5ASFvLBV57ANCcg",
     "kategori": "Vapenlag (1996:67) 1, 1 a § Vapenbrott inkl. grovt, synnerligen grovt",
     "underkategori": "Av pistol, revolver, kpist, totalt",
     "handlagda": 3714,
@@ -18262,6 +19056,7 @@
     }
   },
   {
+    "id": "fj1Za5nTZQWJWLNXmVPwhn",
     "kategori": "Vapenlag (1996:67) 1 § Vapenbrott, ej grovt brott",
     "underkategori": "Av pistol, revolver, kpist",
     "handlagda": 1461,
@@ -18285,6 +19080,7 @@
     }
   },
   {
+    "id": "dnKJG9uf84V9AFKMZozyPQ",
     "kategori": "Vapenlag (1996:67) 1 a § Grovt vapenbrott, synnerligen grovt vapenbrott",
     "underkategori": "Av pistol, revolver, kpist",
     "handlagda": 2252,
@@ -18308,6 +19104,7 @@
     }
   },
   {
+    "id": "cfvKgxQ8uJNTHjcDTQFA45",
     "kategori": "Vapenlag (1996:67) 1, 1 a § Vapenbrott inkl. grovt, synnerligen grovt",
     "underkategori": "Av jaktvapen, totalt",
     "handlagda": 730,
@@ -18331,6 +19128,7 @@
     }
   },
   {
+    "id": "dpmNJYMkzhDqLtfVCeM4N7",
     "kategori": "Vapenlag (1996:67) 1 § Vapenbrott, ej grovt brott",
     "underkategori": "Av jaktvapen",
     "handlagda": 616,
@@ -18354,6 +19152,7 @@
     }
   },
   {
+    "id": "ru4FCdZAP5yxphC6MXajwH",
     "kategori": "Vapenlag (1996:67) 1 a § Grovt vapenbrott, synnerligen grovt vapenbrott",
     "underkategori": "Av jaktvapen",
     "handlagda": 114,
@@ -18377,6 +19176,7 @@
     }
   },
   {
+    "id": "dEifDfDNNqt6KakM5yjk6o",
     "kategori": "Vapenlag (1996:67) 1, 1 a § Vapenbrott inkl. grovt, synnerligen grovt",
     "underkategori": "Av annat vapen, totalt",
     "handlagda": 2815,
@@ -18400,6 +19200,7 @@
     }
   },
   {
+    "id": "4k6jXGau47gbvFT89HcAoF",
     "kategori": "Vapenlag (1996:67) 1 § Vapenbrott, ej grovt brott",
     "underkategori": "Av annat vapen",
     "handlagda": 2265,
@@ -18423,6 +19224,7 @@
     }
   },
   {
+    "id": "oxEZAfrFwcddYMA6N6vN1T",
     "kategori": "Vapenlag (1996:67) 1 a § Grovt vapenbrott, synnerligen grovt vapenbrott",
     "underkategori": "Av annat vapen",
     "handlagda": 550,
@@ -18446,6 +19248,7 @@
     }
   },
   {
+    "id": "13Hb85TMNaA7fdSQLKPsHp",
     "kategori": "Vapenlag (1996:67) 1, 1 a § Vapenbrott inkl. grovt, synnerligen grovt",
     "underkategori": "Vapenbrott; överlåtelse, utlåning av skjutvapen, totalt",
     "handlagda": 75,
@@ -18469,6 +19272,7 @@
     }
   },
   {
+    "id": "t5TLSWeqPQiv667Esx1Kii",
     "kategori": "Vapenlag (1996:67) 1 § Vapenbrott, ej grovt brott",
     "underkategori": "Vapenbrott; överlåtelse, utlåning av skjutvapen",
     "handlagda": 50,
@@ -18492,6 +19296,7 @@
     }
   },
   {
+    "id": "mb98SmXhVZP8VHGzDc6F2g",
     "kategori": "Vapenlag (1996:67) 1 a § Grovt vapenbrott, synnerligen grovt vapenbrott",
     "underkategori": "Vapenbrott; överlåtelse, utlåning av skjutvapen",
     "handlagda": 25,
@@ -18515,6 +19320,7 @@
     }
   },
   {
+    "id": "nuuSnMwHGTM7iVjMt6BESq",
     "kategori": "Vapenlag (1996:67) 1 b, 2 § Annat brott",
     "underkategori": "Annat brott mot Vapenlagen",
     "handlagda": 1667,
@@ -18538,6 +19344,7 @@
     }
   },
   {
+    "id": "sXj7didszsRvsQALQtciEe",
     "kategori": "Lag (1988:254)  1, 2, 4 § om förbud beträffande knivar och andra farliga föremål",
     "underkategori": "Lagen om förbud betr. knivar m.m. ",
     "handlagda": 11097,
@@ -18561,6 +19368,7 @@
     }
   },
   {
+    "id": "2p7UP926QbCzsCtr97sCc1",
     "kategori": "Jaktlag (1987:259) 43, 44, 46 §",
     "underkategori": "Jaktlagen, totalt",
     "handlagda": 397,
@@ -18584,6 +19392,7 @@
     }
   },
   {
+    "id": "aroHE1PFmaAHgfo3a4TDhW",
     "kategori": "Jaktlag (1987:259) 43, 44, 46 §",
     "underkategori": "Illegal rovdjursjakt (varg, björn, järv, lodjur och kungsörn)",
     "handlagda": 54,
@@ -18607,6 +19416,7 @@
     }
   },
   {
+    "id": "6oAmA8vGPgHMPjiUP29bxb",
     "kategori": "Jaktlag (1987:259) 43, 44, 46 §",
     "underkategori": "Övriga brott mot jaktlagen",
     "handlagda": 343,
@@ -18630,6 +19440,7 @@
     }
   },
   {
+    "id": "3EH3XKqHLHsXG5jTH8K6CY",
     "kategori": "Fiskelag (1993:787) 37, 38, 40 §",
     "underkategori": "Fiskelagen",
     "handlagda": 291,
@@ -18653,6 +19464,7 @@
     }
   },
   {
+    "id": "hMv6V35KZB6WnYvkeavpRK",
     "kategori": "Lag (1980:424) om åtgärder mot förorening från fartyg",
     "underkategori": "Lagen om åtgärder mot förorening från fartyg",
     "handlagda": 73,
@@ -18676,6 +19488,7 @@
     }
   },
   {
+    "id": "v2pfW9Aco58ATxSWHdkaVw",
     "kategori": "Arbetsmiljölag (1977:1160) 8 kap. 1,  2 §",
     "underkategori": "Arbetsmiljölagen ",
     "handlagda": 126,
@@ -18699,6 +19512,7 @@
     }
   },
   {
+    "id": "jT1wkju9HB2xHuQPp5mWzb",
     "kategori": "Utlänningslag (2005:716),  20 kap.",
     "underkategori": "Utlänningslagen, totalt",
     "handlagda": 1111,
@@ -18722,6 +19536,7 @@
     }
   },
   {
+    "id": "9ANoVKokRFFSm5MqhJu5yG",
     "kategori": "UtlL 20 kap. 2 § Uppsåtligen uppehåller sig i Sverige trots beslut om utvisning ",
     "underkategori": "Uppsåtligen uppehåller sig i Sverige trots beslut om utvisning ",
     "handlagda": 71,
@@ -18745,6 +19560,7 @@
     }
   },
   {
+    "id": "fpyKqb7Wiaxtsmpms1qkiN",
     "kategori": "UtlL 20 kap. 5 § Har utlänning anställd som inte har rätt att vistas i Sverige, eller saknar arbetstillstånd ",
     "underkategori": "Har utlänning anställd som inte har rätt att vistas i Sverige, eller saknar arbe",
     "handlagda": 706,
@@ -18768,6 +19584,7 @@
     }
   },
   {
+    "id": "2pcpYqhQRH3NfeKKSKnRnU",
     "kategori": "UtlL 20 kap. 7 § Hjälp till utlänning att olovligen uppehålla sig i Sverige, annan EU-stat eller Schengenområdet",
     "underkategori": "Hjälp till utlänning att olovligen uppehålla sig i Sverige, annan EU-stat eller ",
     "handlagda": 15,
@@ -18791,6 +19608,7 @@
     }
   },
   {
+    "id": "tHMhK9Acd6Mfbnx8Zpq7Ee",
     "kategori": "UtlL 20 kap. 8 § Människosmuggling",
     "underkategori": "Människosmuggling",
     "handlagda": 153,
@@ -18814,6 +19632,7 @@
     }
   },
   {
+    "id": "bstSmJcQNRPunaL52uLDGM",
     "kategori": "UtlL 20 kap. 9 § Organiserande av människosmuggling",
     "underkategori": "Organiserande av människosmuggling",
     "handlagda": 7,
@@ -18837,6 +19656,7 @@
     }
   },
   {
+    "id": "oqEw4e9jEBKAB1P4tk34GV",
     "kategori": "UtlL 20 kap. 4-7 § Övriga brott",
     "underkategori": "Övriga brott mot utlänningslagen",
     "handlagda": 159,
@@ -18860,6 +19680,7 @@
     }
   },
   {
+    "id": "6M6J8UNk4hy5zyD4eGYBBi",
     "kategori": "Lag (1988:688) om kontaktförbud",
     "underkategori": "Lagen om kontaktförbud, totalt",
     "handlagda": 4386,
@@ -18883,6 +19704,7 @@
     }
   },
   {
+    "id": "ecDVd81Wne1U8pCTfd7qBe",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Med elektronisk övervakning",
     "handlagda": 27,
@@ -18906,6 +19728,7 @@
     }
   },
   {
+    "id": "v1HLgZwu2iZaAQuU7KyDyo",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Utan elektronisk övervakning",
     "handlagda": 3858,
@@ -18929,6 +19752,7 @@
     }
   },
   {
+    "id": "rc6ugDWGBsgi3ayeUCUtKL",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Mot barn under 18 år, totalt",
     "handlagda": 116,
@@ -18952,6 +19776,7 @@
     }
   },
   {
+    "id": "89v4GRX18V8Vs2AWpFNLye",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Mot flicka under 18 år",
     "handlagda": 74,
@@ -18975,6 +19800,7 @@
     }
   },
   {
+    "id": "tXytLtZBngtxaSmxFmoeSv",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Mot pojke under 18 år",
     "handlagda": 42,
@@ -18998,6 +19824,7 @@
     }
   },
   {
+    "id": "rF71tKnVr8g5A5nJ1zDXAM",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Mot kvinna 18 år eller äldre, totalt",
     "handlagda": 3166,
@@ -19021,6 +19848,7 @@
     }
   },
   {
+    "id": "aF3kwRrWwXxFwE9mtga7wb",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Närstående genom parrelation",
     "handlagda": 2245,
@@ -19044,6 +19872,7 @@
     }
   },
   {
+    "id": "nVKdRdbhH81wystW2ecNCo",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Närstående genom släktskap/familj",
     "handlagda": 150,
@@ -19067,6 +19896,7 @@
     }
   },
   {
+    "id": "jm7u2hFuAkmsY7FXWpXFr3",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Annan sorts relation eller bekantskap",
     "handlagda": 438,
@@ -19090,6 +19920,7 @@
     }
   },
   {
+    "id": "tmRkx2YA7zp9pSV8eJRg3e",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Obekanta",
     "handlagda": 333,
@@ -19113,6 +19944,7 @@
     }
   },
   {
+    "id": "3DGZMMFffVybsNQ6UXjx8W",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Mot man 18 år eller äldre, totalt",
     "handlagda": 575,
@@ -19136,6 +19968,7 @@
     }
   },
   {
+    "id": "t2UrN3ZMg7Nc2xMPrMkrPi",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Närstående genom parrelation",
     "handlagda": 185,
@@ -19159,6 +19992,7 @@
     }
   },
   {
+    "id": "wtD2xrfMg7GNe4VyD8mKxf",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Närstående genom släktskap/familj",
     "handlagda": 79,
@@ -19182,6 +20016,7 @@
     }
   },
   {
+    "id": "i4QUB7zPiLbcDyzqyk1bEN",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Annan sorts relation eller bekantskap",
     "handlagda": 185,
@@ -19205,6 +20040,7 @@
     }
   },
   {
+    "id": "oHDD9yz6yQx2PYdaqMn4hn",
     "kategori": "Lag (1988:688) 24 § Överträdelse av kontaktförbud",
     "underkategori": "Obekanta",
     "handlagda": 126,
@@ -19228,6 +20064,7 @@
     }
   },
   {
+    "id": "aigMo6VDV1AtwKt6d2s4np",
     "kategori": "Lag (1988:688) 25 § Hindrande av elektronisk övervakning ",
     "underkategori": "Hindrande av elektronisk övervakning",
     "handlagda": 501,
@@ -19251,6 +20088,7 @@
     }
   },
   {
+    "id": "rAu6n6djvMYwNiJbvPHP6L",
     "kategori": "Lag (2005:321) om tillträdesförbud vid idrottsarrangemang",
     "underkategori": "Lagen om tillträdesförbud vid idrottsarrangemang",
     "handlagda": 34,
@@ -19274,6 +20112,7 @@
     }
   },
   {
+    "id": "bzEBmdqBnZTxdMC6J3Qzmt",
     "kategori": "Kulturmiljölag (1988:950) 2 kap. 21, 21 a §",
     "underkategori": "Kulturmiljölagen",
     "handlagda": 108,
@@ -19297,6 +20136,7 @@
     }
   },
   {
+    "id": "327iza6sZtVtAUQp7uCLpk",
     "kategori": "Spellag (2018:1138) ",
     "underkategori": "Spellagen, totalt",
     "handlagda": 27,
@@ -19320,6 +20160,7 @@
     }
   },
   {
+    "id": "t9sBRQa86UidJTWzUWaCo6",
     "kategori": "Spellag (2018:1138), 19 kap. 1, 3 §, inkl. grovt",
     "underkategori": "Olovlig spelverksamhet",
     "handlagda": 18,
@@ -19343,6 +20184,7 @@
     }
   },
   {
+    "id": "jWyTc86eeTUwB85YGPk7cC",
     "kategori": "Spellag (2018:1138), 19 kap. 2, 3 §, inkl. grovt",
     "underkategori": "Främjande av olovligt spel",
     "handlagda": 2,
@@ -19366,6 +20208,7 @@
     }
   },
   {
+    "id": "2okW1iUUaLsoHrHDGbvVeJ",
     "kategori": "Spellag (2018:1138), 19 kap. 4,5 §, inkl. grovt",
     "underkategori": "Spelfusk",
     "handlagda": 7,
@@ -19389,6 +20232,7 @@
     }
   },
   {
+    "id": "kfERefkECGcACuYJXyRFTb",
     "kategori": "Lag (1991:1969) om förbud mot vissa dopningsmedel",
     "underkategori": "Lagen om förbud mot vissa dopningmedel",
     "handlagda": 2454,
@@ -19412,6 +20256,7 @@
     }
   },
   {
+    "id": "wx2PhqggyAGjfv1r4sv88r",
     "kategori": "Lag (1991:1969) om förbud mot vissa dopningsmedel, 2 § 4, 5 p., 3, 3 a §, inkl. grovt",
     "underkategori": "Överlåtelse",
     "handlagda": 179,
@@ -19435,6 +20280,7 @@
     }
   },
   {
+    "id": "szctamrNK11eCVVr7A3oid",
     "kategori": "Lag (1991:1969) om förbud mot vissa dopningsmedel,  2 § 6 p., 3, 3 a §, inkl. grovt",
     "underkategori": "Innehav",
     "handlagda": 1555,
@@ -19458,6 +20304,7 @@
     }
   },
   {
+    "id": "vCWnDES1xVGjgyXQwJTmpC",
     "kategori": "Lag (1991:1969) om förbud mot vissa dopningsmedel, 2 § 7 p., 3, 3 a §, inkl. grovt",
     "underkategori": "Eget bruk",
     "handlagda": 719,
@@ -19481,6 +20328,7 @@
     }
   },
   {
+    "id": "xfT9Nk6NMivFaNdKCgD8di",
     "kategori": "Lag (1991:1969) om förbud mot vissa dopningsmedel, 2 § 3 p., 3, 3 a §, inkl. grovt",
     "underkategori": "Framställning",
     "handlagda": 1,
@@ -19504,6 +20352,7 @@
     }
   },
   {
+    "id": "5LgWbjJFpGArMXdJHdXrRy",
     "kategori": "Folkbokföringslag (1991:481) 42 §",
     "underkategori": "Folkbokföringslagen",
     "handlagda": 3909,
@@ -19527,6 +20376,7 @@
     }
   },
   {
+    "id": "wvMnQsfN8i3WabVnkhScTh",
     "kategori": "Övriga trafikbrott (ej TBL) med fängelse i straffskalan",
     "underkategori": "Övriga trafikbrott (ej TBL) med fängelse i straffskalan",
     "handlagda": 187,
@@ -19550,6 +20400,7 @@
     }
   },
   {
+    "id": "aKTpXTp9b6KgwpF4PQr3NQ",
     "kategori": "Sjölag (1994:1009) 20 kap.",
     "underkategori": "Sjölagen, totalt",
     "handlagda": 242,
@@ -19573,6 +20424,7 @@
     }
   },
   {
+    "id": "tVTYhupCfAMezijcdxHqf5",
     "kategori": "Lag (1994:1009) 20 kap. 4, 5 § Sjöfylleri ",
     "underkategori": "Sjöfylleri",
     "handlagda": 146,
@@ -19596,6 +20448,7 @@
     }
   },
   {
+    "id": "sDgQ8xM1Jjxk7SBDBwfkyY",
     "kategori": "Lag (1994:1009) 20 kap. 1, 2, 6-9 § Övriga brott",
     "underkategori": "Övriga brott mot sjölagen ",
     "handlagda": 96,
@@ -19619,6 +20472,7 @@
     }
   },
   {
+    "id": "kXek8B2XQ7T7jCz6LYo9cd",
     "kategori": "Lag (2014:406) om straff för folkmord, brott mot mänskligheten och krigsförbrytelser",
     "underkategori": "Lagen om straff för folkmord, brott mot mänskligheten och krigsförbrytelser, tot",
     "handlagda": 97,
@@ -19642,6 +20496,7 @@
     }
   },
   {
+    "id": "9n4bPJAyq8irv9LQ4tdavU",
     "kategori": "Lag (2014:406) om straff för folkmord, brott mot mänskligheten och krigsförbrytelser, 1 §",
     "underkategori": "Folkmord",
     "handlagda": 12,
@@ -19665,6 +20520,7 @@
     }
   },
   {
+    "id": "hbJMkQsMbKBF3ufMNpaCwk",
     "kategori": "Lag (2014:406) om straff för folkmord, brott mot mänskligheten och krigsförbrytelser,  2 §",
     "underkategori": "Brott mot mänskligheten",
     "handlagda": 24,
@@ -19688,6 +20544,7 @@
     }
   },
   {
+    "id": "bJag2TVCquXKT55igg6arv",
     "kategori": "Lag (2014:406) om straff för folkmord, brott mot mänskligheten och krigsförbrytelser,  4-11 §",
     "underkategori": "Krigsförbrytelse",
     "handlagda": 49,
@@ -19711,6 +20568,7 @@
     }
   },
   {
+    "id": "8Gqe4vPtcbbgjR6erkhe6Z",
     "kategori": "Lag (2014:406) om straff för folkmord, brott mot mänskligheten och krigsförbrytelser, 14-15 §",
     "underkategori": "Övriga brott",
     "handlagda": 8,
@@ -19734,6 +20592,7 @@
     }
   },
   {
+    "id": "hrtxp6cEskW3Xj7q44pubB",
     "kategori": "Lag (1982:316) med förbud mot könsstympning av kvinnor",
     "underkategori": "Lagen med förbud mot könsstympning av kvinnor",
     "handlagda": 42,
@@ -19757,6 +20616,7 @@
     }
   },
   {
+    "id": "jjpjQwCkSzfPfH4LFH3LF5",
     "kategori": "Lag (2003:148) om straff för terroristbrott 2 §",
     "underkategori": "Lag om straff för terroristbrott ",
     "handlagda": 10,
@@ -19780,6 +20640,7 @@
     }
   },
   {
+    "id": "7XZ4BPsfCvGxkdh7VK8bia",
     "kategori": "Lag (2010:299) om straff för offentlig uppmaning, rekrytering och utbildning avseende terroristbrott och annan särskild allvarlig brottslighet (5 §)",
     "underkategori": "Lag om straff för offentlig uppmaning, rekrytering och utbildning avseende terro",
     "handlagda": 2,
@@ -19803,6 +20664,7 @@
     }
   },
   {
+    "id": "qmG4D2SFwykCnFX2P9rchQ",
     "kategori": "Skyddslag (2010:305) 30-31 §",
     "underkategori": "Skyddslag, totalt",
     "handlagda": 455,
@@ -19826,6 +20688,7 @@
     }
   },
   {
+    "id": "5L7UWaVZWctrm8RUwLKT54",
     "kategori": "Lag (1996:95) om vissa internationella sanktioner, 8, 15 §",
     "underkategori": "Lag om vissa internationella sanktioner ",
     "handlagda": 11,
@@ -19849,6 +20712,7 @@
     }
   },
   {
+    "id": "nd32vRzLc6QpEyMNmNUUmN",
     "kategori": "Ordningslagen (1993:1617) 2 kap. 29 §, 5 kap. 3-5 §§",
     "underkategori": "Ordningslagen",
     "handlagda": 1780,
@@ -19872,6 +20736,7 @@
     }
   },
   {
+    "id": "jtNxhiNwcD5otfggF7iGuG",
     "kategori": "Lag (1960:729) om upphovsrätt till litterära och konstnärliga verk, lag(2000:171) om förbud beträffande viss avkodningsutrustning ",
     "underkategori": "Brott mot upphovsrätten",
     "handlagda": 166,
@@ -19895,6 +20760,7 @@
     }
   },
   {
+    "id": "eAuZ4FQAuf3vxwGQiYAn3U",
     "kategori": "Lag (1992:1685) om skydd för kretsmönster för halvledarprodukter, lag (2018:1653) om företagsnamn, patentlagen (1967:837), mönsterskyddslagen (1970:485), växtförädlarrättslagen (1997:306), varumärkeslagen (2010:1877)",
     "underkategori": "Brott mot det industriella rättsskyddet",
     "handlagda": 71,
@@ -19918,6 +20784,7 @@
     }
   },
   {
+    "id": "qsJcANrjffiBuD4Md1xUDA",
     "kategori": "Övriga författningar",
     "underkategori": "Övriga författningar",
     "handlagda": 2515,
