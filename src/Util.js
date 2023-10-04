@@ -1,4 +1,5 @@
 const fs = require('fs');
+const short = require('short-uuid')
 
 function dataToJson(data) {
     // Split the data by line
@@ -19,6 +20,7 @@ function dataToJson(data) {
         
         // Return an object structure
         return {
+            id: short.generate(),
             kategori,
             underkategori,
             handlagda: Number(handlagda.replace(/\s+/g, '')),

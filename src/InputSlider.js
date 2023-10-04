@@ -1,7 +1,6 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Slider from "@mui/material/Slider";
-import { Typography } from "@mui/material";
 
 export default function InputSlider({ max, onChange, isPercentage }) {
   const [value, setValue] = React.useState(0);
@@ -42,8 +41,7 @@ export default function InputSlider({ max, onChange, isPercentage }) {
   };
   
   return (
-    <Box sx={{ pl:1, width: 200 }}>
-    
+    <Box sx={{ p:1 }}>
       <Slider
         valueLabelDisplay="auto"
         valueLabelFormat={isPercentage ? value + '%' : value.toLocaleString("sv")}

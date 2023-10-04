@@ -1,16 +1,13 @@
 import React, { useState } from "react";
 import {
-    Box,
-  Grid,
-  Card,
-  CardContent,
-  Accordion,
-  AccordionSummary,
+  Box,
   Typography,
-  AccordionDetails,
+  Stack,
+  Button
 } from "@mui/material";
 import InputSlider from "./InputSlider";
 import PreviousGuessInfo from "./PreviousGuessInfo";
+import PsychologyAltIcon from '@mui/icons-material/PsychologyAlt';
 
 function UserInput({
   selectedQuestion,
@@ -88,9 +85,9 @@ function UserInput({
 
   const mapHeaderNames = (columnName) => {
     const nameMapping = {
-      utredda: "Utredda brott",
-      lagforingsprocent: "Lagförda brott",
-      personuppklaringsprocent: "Personuppklarade brott",
+      utredda: "Utredning",
+      lagforingsprocent: "Lagföring",
+      personuppklaringsprocent: "Personuppklaring",
     };
     return nameMapping[columnName] || columnName;
   };
@@ -104,45 +101,38 @@ function UserInput({
   };
 
   return (
-    <Box sx={{ mb: 2,  }}>
-      <Box sx={{ p:0,  }}>
+    <Box sx={{ mb: 2, }}>
+      <Box>
         {labels.map((label, index) => {
           if (index === enabledInputIndex) {
             // Active Input
             return (
               <div key={label}>
-                
-                <Accordion expanded={true} sx={{pt:0}}>
-                  <AccordionSummary
-                    aria-controls="panel1a-content"
-                    id="panel1a-header"
-                    sx={{ bgcolor: bgColor(label) }}
-                  >
-                    <Typography variant="h4">
+                <Box sx={{ bgcolor: bgColor(label), p: 1, minHeight: { xs: 32, md: 32, lg: 32 } }}>
+                  <Stack direction="row" alignItems="center">
+                    <PsychologyAltIcon sx={{ fontSize: 22 }} />
+                    <Typography variant="h6" sx={{ mt: 0.4, pl: 0.5 }}>
                       {mapHeaderNames(label)}
                     </Typography>
-                  </AccordionSummary>
-                  <AccordionDetails>
-                    <Grid container spacing={2} sx={{pt:2}} alignItems="center">
-                      <Grid item>
-                        <Typography variant="body">
-                          {mapColumnNames(label)}
-                        </Typography>
-                        <InputSlider
-                          value="0"
-                          max={getSliderMax(label)}
-                          isPercentage={isPercentage(label)}
-                          onChange={(e) => setCurrentGuess({ [label]: e })}
-                        />
-                      </Grid>
-                      <Grid item>
-                        <button onClick={() => onSubmit(label, index)}>
-                          Gissa
-                        </button>
-                      </Grid>
-                    </Grid>
-                  </AccordionDetails>
-                </Accordion>
+                  </Stack>
+
+                </Box>
+                <Box sx={{ p: 2 }}>
+
+                  <Typography variant="body" sx={{fontSize:14}}>
+                    {mapColumnNames(label)}
+                  </Typography>
+                  <InputSlider
+                    value="0"
+                    max={getSliderMax(label)}
+                    isPercentage={isPercentage(label)}
+                    onChange={(e) => setCurrentGuess({ [label]: e })}
+                  />
+
+                  <Button variant="outlined" disabled={!currentGuess[label] > 0} sx={{ width: "100%" }} onClick={() => onSubmit(label, index)}>
+                    Gissa
+                  </Button>
+                </Box>
                 <PreviousGuessInfo
                   previousGuess={previousGuess}
                   actualData={
@@ -158,8 +148,8 @@ function UserInput({
             return "";
           }
         })}
-      </Box>
-    </Box>
+      </Box >
+    </Box >
   );
 }
 

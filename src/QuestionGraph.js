@@ -1,6 +1,5 @@
 import React from "react";
 import { Bar } from "react-chartjs-2";
-import { Card, CardContent, CardHeader } from "@mui/material";
 
 import {
   Chart as ChartJS,
@@ -154,15 +153,15 @@ function QuestionGraph({ selectedQuestion, userGuesses }) {
   };
 
   return (
-    <Card sx={{ minWidth: 275, mb:2 }}>
-      <CardHeader
-        title={selectedQuestion.kategori}
-        subheader={selectedQuestion.underkategori}
-      />
-      <CardContent >
-        <Bar data={data} options={options} />
-      </CardContent>
-    </Card>
+    <Bar data={data} options={options} />
+    // <Card sx={{ minWidth: 275, mb:2 }}>
+    //   {/* <CardHeader
+    //     title={selectedQuestion.kategori}
+    //     subheader={selectedQuestion.underkategori}
+    //   /> */}
+    //   <CardContent >
+    //   </CardContent>
+    // </Card>
   );
 }
 

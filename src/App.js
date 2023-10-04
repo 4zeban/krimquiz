@@ -1,9 +1,15 @@
 import "./App.css";
 import React, { useEffect, useState } from "react";
-import QuestionGraph from "./QuestionGraph";
 import UserInput from "./UserInput";
 import UserGuessesDisplay from "./UserGuessesDisplay"; // Importing the new component
-import { Container, Typography, Button } from "@mui/material";
+import { Container, Typography, Button, Box } from "@mui/material";
+import queryString from 'query-string';
+import ResponsiveAppBar from "./AppBar";
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
 
 function App() {
   const [error, setError] = useState(null);
@@ -26,6 +32,13 @@ function App() {
       })
       .then((data) => {
         setQuestions(data);
+        const parsed = queryString.parse(window.location.search);
+        if (parsed.id) {
+          const foundQuestion = data.find((q) => q.id === parsed.id);
+          if (foundQuestion) {
+            setSelectedQuestion(foundQuestion);
+          }
+        }
       })
       .catch((error) => {
         console.error("Fetch error: ", error);
@@ -55,72 +68,75 @@ function App() {
     setIsDone(true);
   };
 
-  return (
-    <Container>
-      <div className="App">
-        <Typography variant="h2" gutterBottom>
-          Krimquiz
-        </Typography>
-        {selectedQuestion ? (
-          <div>
-            
-            {isDone ? (
-              <div>
-                <UserGuessesDisplay userGuesses={userGuesses} actualData={selectedQuestion} />
-                <QuestionGraph
-                  selectedQuestion={selectedQuestion}
-                  userGuesses={userGuesses}
-                />
-              </div>
-            ) : (
-              <div className="header">
-              <p>
-                År 2022 blev{" "}
-                <b>{selectedQuestion.handlagda.toLocaleString("sv")} brott</b> i
-                kategorin{" "}
-                <b>
-                  {selectedQuestion.kategori} ({selectedQuestion.underkategori})
-                </b>{" "}
-                handlagda.
-                <br />
-                <br />
-                Kan du gissa hur det gick sen?
-              </p>
-                <UserInput
-                  selectedQuestion={selectedQuestion}
-                  enabledInputIndex={enabledInputIndex}
-                  setEnabledInputIndex={setEnabledInputIndex}
-                  setSelectedQuestion={setSelectedQuestion}
-                  onUserGuessChange={handleUserGuessChange}
-                  userGuesses={userGuesses}
-                  onDone={onDone}
-                  previousGuess={previousGuess}
-                  previousLabel={previousLabel}
-                />
+  const theme = createTheme({
+    palette: {
+      mode: 'light',
+      primary: {
+        main: '#1862a8',
+      },
+      secondary: {
+        main: '#ffcc33',
+      },
+    },
+  });
 
-                <QuestionGraph
-                  selectedQuestion={selectedQuestion}
-                  userGuesses={userGuesses}
-                />
-              </div>
-            )}
-          </div>
-        ) : (
+  return (
+    <ThemeProvider theme={theme}>
+      <Container maxWidth="sm" sx={{ pl: 0, pr: 0 }}>
+        <ResponsiveAppBar />
+
+        <Container >
+          {selectedQuestion ? (
+            <div>
+              <Box sx={{ pt: 2 }}>
+                <Typography variant="h5" sx={{ fontSize: 18, fontWeight: 400 }} color="primary">{selectedQuestion.kategori}</Typography>
+                <Typography variant="h6" sx={{ fontSize: 14, fontWeight: 300 }} color="primary">{selectedQuestion.underkategori}</Typography>
+
+                {isDone ? (
+                  <div>
+                    <UserGuessesDisplay selectedQuestion={selectedQuestion} userGuesses={userGuesses} actualData={selectedQuestion} />
+                  </div>
+                ) : (
+                  <div>
+                  <Box sx={{pt:1}}>
+                    <Typography variant="body" sx={{ fontSize:14, pb:4}}>
+                      2022 handlades <b>{selectedQuestion.handlagda.toLocaleString("sv")} brott</b>.
+                    </Typography>
+                  </Box>
+                    <Box sx={{pt:2}}>
+                    <UserInput
+                      selectedQuestion={selectedQuestion}
+                      enabledInputIndex={enabledInputIndex}
+                      setEnabledInputIndex={setEnabledInputIndex}
+                      setSelectedQuestion={setSelectedQuestion}
+                      onUserGuessChange={handleUserGuessChange}
+                      userGuesses={userGuesses}
+                      onDone={onDone}
+                      previousGuess={previousGuess}
+                      previousLabel={previousLabel}
+                    />
+                  </Box>
+                  </div>
+                )}
+              </Box>
+            </div>
+          ) : (
             <div>
               <p>
                 Hur bra fungerar brottsbekämpningen i Sverige?
               </p>
               <p>Hur bra koll har *du*?</p>
               <p>
-              När du klickar på knappen så slumpas en brottskategori fram och det är din uppgift att gissa hur många av brotten som utreddes, lagfördes och personuppklarades.<br/><br/>Lycka till - det är svårare än vad det låter!
+                När du klickar på knappen så slumpas en brottskategori fram och det är din uppgift att gissa hur många av brotten som utreddes, lagfördes och personuppklarades.<br /><br />Lycka till - det är svårare än vad det låter!
               </p>
-          <Button variant="contained" color="primary" onClick={startGame}>
-            Slumpa brott!
-          </Button>
-          </div>
-        )}
-      </div>
-    </Container>
+              <Button variant="contained" sx={{ width:"100%"}} color="primary" onClick={startGame}>
+                Slumpa brott!
+              </Button>
+            </div>
+          )}
+        </Container>
+      </Container>
+    </ThemeProvider>
   );
 }
 

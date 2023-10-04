@@ -1,0 +1,13 @@
+.app-header {
+    background-color: #1862a8;
+    color: white; /* setting text color to white for better contrast against the blue background */
+    padding: 5px;
+    
+    text-align: left;
+    border-bottom: 5px solid #ffcc33;
+  }
+
+  h2 {
+    color: white; /* main color */
+  }
+  
