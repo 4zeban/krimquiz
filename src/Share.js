@@ -5,7 +5,7 @@ import Grid from '@mui/material/Grid';
 const Share = ({ questionId, newGame }) => {
     const [isCopied, setIsCopied] = useState(false);
     const baseUrl = window.location.origin;
-    const shareUrl = `${baseUrl}?id=${questionId}`;
+    const shareUrl = `${baseUrl}/krimquiz?id=${questionId}`;
 
     const handleCopyClick = () => {
         navigator.clipboard.writeText(shareUrl).then(() => {
