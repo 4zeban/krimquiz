@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "krimquiz App",
+  "name": "krimquiz",
   "icons": [
     {
       "src": "favicon.ico",
