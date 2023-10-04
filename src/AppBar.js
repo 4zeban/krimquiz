@@ -16,11 +16,15 @@ function ResponsiveAppBar() {
         <Toolbar disableGutters sx={{ minHeight: { xs: 42, md: 42, lg: 42 }}}>
           <BarChartIcon sx={{ mr: 0.65 }} />
           <Typography
+            component="a"
+            href="/krimquiz"
             variant="h5"
             noWrap
             sx={{
               mr: 2,
               fontWeight: 400,
+              color: 'inherit',
+              textDecoration: 'none',
             }}
           >
             krimquiz

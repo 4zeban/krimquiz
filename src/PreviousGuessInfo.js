@@ -20,7 +20,7 @@ function PreviousGuessInfo({ previousGuess, actualData, label }) {
       direktavskrivna:
         "2022 utreddes " + Number(actualData).toLocaleString("sv")  + " brott. Resten direktavskrevs.",
       lagforingsprocent:
-        "2022 lagfördes " + Number(actualData).toLocaleString("sv") + "% av alla handlagda brott.",
+        "2022 personuppklarades " + Number(actualData).toLocaleString("sv") + "% av alla utredda brott.",
       personuppklaringsprocent:
         "2022 personuppklarades " + Number(actualData).toLocaleString("sv")  + "% av alla handlagda brott.",
     };

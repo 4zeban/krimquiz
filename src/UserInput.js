@@ -77,17 +77,17 @@ function UserInput({
   const mapColumnNames = (columnName) => {
     const nameMapping = {
       utredda: "Hur många tror du utreddes?",
-      lagforingsprocent: "Hur många procent tror du lagfördes?",
-      personuppklaringsprocent: "Hur många procent tror du personuppklarades?",
+      lagforingsprocent: "Lagföringsprocenten är andelen personuppklarade brott av alla *utredda* brott. Hur många procent tror du?",
+      personuppklaringsprocent: "Personuppklaringsprocenten är andelen personuppklarade brott av alla *handlagda* brott. Hur många procent tror du?",
     };
     return nameMapping[columnName] || columnName;
   };
 
   const mapHeaderNames = (columnName) => {
     const nameMapping = {
-      utredda: "Utredning",
-      lagforingsprocent: "Lagföring",
-      personuppklaringsprocent: "Personuppklaring",
+      utredda: "Utredda",
+      lagforingsprocent: "Lagföringsprocent",
+      personuppklaringsprocent: "Personuppklaringsprocent",
     };
     return nameMapping[columnName] || columnName;
   };

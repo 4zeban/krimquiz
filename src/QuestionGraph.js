@@ -34,30 +34,32 @@ function mapColumnNames(columnName) {
 }
 
 function QuestionGraph({ selectedQuestion, userGuesses }) {
-  const labels = ["handlagda", ...Object.keys(selectedQuestion.properties)];
+  const labels = ["handlagda", "utredda", "direktavskrivna", "personuppklaringsprocent"];
   const trueData = [];
   const userData = [];
-  const mappedLabels = labels.map((label) => mapColumnNames(label));
+
+  const mappedLabels = labels.map((label) => { 
+    if (label === "lagforingsprocent") {
+      return null;
+    }
+    return mapColumnNames(label); 
+  });
 
   labels.forEach((label) => {
+    
     const isHandlagda = label === "handlagda";
 
-    // Calculate the true value for each label, 'handlagda' has a different calculation logic.
-    const trueValue = isHandlagda
-      ? selectedQuestion.handlagda
-      : label === "lagforingsprocent" || label === "personuppklaringsprocent"
-      ? parseInt(
-          (selectedQuestion.properties[label].value / 100) *
-            selectedQuestion.handlagda
-        )
-      : selectedQuestion.properties[label].value;
-
+    let trueValue = selectedQuestion.handlagda;
+    
+   if (label === "personuppklaringsprocent") {
+      trueValue = parseInt((selectedQuestion.properties[label].value / 100) * selectedQuestion.handlagda)
+    }
+    else if (label === "utredda") {
+      trueValue = selectedQuestion.properties[label].value
+    }
+    
     // Push the true value to trueData array if it's 'handlagda' or it is visible and has been guessed by the user.
-    if (
-      isHandlagda ||
-      (selectedQuestion.properties[label]?.visible &&
-        userGuesses[label] !== undefined)
-    ) {
+    if (isHandlagda || (selectedQuestion.properties[label]?.visible && userGuesses[label] !== undefined)) {
       trueData.push(trueValue);
     } else {
       trueData.push(null); // Push null if the true value should not be visible.
@@ -69,12 +71,11 @@ function QuestionGraph({ selectedQuestion, userGuesses }) {
     } else {
       userData.push(
         userGuesses[label] !== undefined
-          ? label === "lagforingsprocent" ||
-            label === "personuppklaringsprocent"
-            ? parseInt((userGuesses[label] / 100) * selectedQuestion.handlagda)
-            : userGuesses[label]
+          ? (label === "personuppklaringsprocent" 
+            ? (parseInt((userGuesses[label] / 100) * selectedQuestion.handlagda)) : userGuesses[label])
           : null // Push null if the user hasn't guessed yet.
       );
+      console.log(label, userData, userGuesses, userGuesses["personuppklaringsprocent"]);
     }
   });
 

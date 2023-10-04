@@ -28,12 +28,12 @@ function UserGuessesDisplay({ selectedQuestion, actualData, userGuesses }) {
     return [
       createData("Utredda", data["utredda"].value, userGuesses.utredda, false),
       createData(
-        "Lagförda %",
+        "Lagföringsprocent",
         data["lagforingsprocent"].value,
         userGuesses.lagforingsprocent, true
       ),
       createData(
-        "Personuppklarade %",
+        "Personuppklaringsprocent",
         data["personuppklaringsprocent"].value,
         userGuesses.personuppklaringsprocent, true
       ),
