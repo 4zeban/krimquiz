@@ -18,20 +18,20 @@ import Paper from "@mui/material/Paper";
 function createData(name, actual, guess, isPercentage) {
   const percentageDiff = isPercentage ? (guess - actual) : parseInt((Math.abs((guess - actual) / actual)) * 100);
   const points = Math.abs(percentageDiff) * 10;
-  return { name, actual, guess, diff: (guess - actual), points };
+  return { name, actual, guess, isPercentage, diff: (guess - actual), points };
 }
 
-function UserGuessesDisplay({ selectedQuestion, actualData, userGuesses }) {
+function UserGuessesDisplay({ selectedQuestion, actualData, userGuesses, hideUserGuesses }) {
 
   const rows = () => {
     const data = actualData.properties;
     return [
       createData("Utredda", data["utredda"].value, userGuesses.utredda, false),
-      createData(
-        "Lagföringsprocent",
-        data["lagforingsprocent"].value,
-        userGuesses.lagforingsprocent, true
-      ),
+      // createData(
+      //   "Lagföringsprocent",
+      //   data["lagforingsprocent"].value,
+      //   userGuesses.lagforingsprocent, true
+      // ),
       createData(
         "Personuppklaringsprocent",
         data["personuppklaringsprocent"].value,
@@ -49,56 +49,99 @@ function UserGuessesDisplay({ selectedQuestion, actualData, userGuesses }) {
             Resultat
           </Typography>
         </Stack>
-        
+
       </Box>
 
-      <TableContainer component={Paper}>
-        <Table aria-label="simple table">
-          <TableHead>
-            <TableRow>
-              <TableCell align="right" colSpan="2">
-                <b>Utfall (din gissning)</b>
-              </TableCell>
-              {/* <TableCell align="right">
-                    <b>Din gissning</b>
-                  </TableCell>
-                  <TableCell align="right">
-                    <b>Skillnad</b>
-                  </TableCell>
-                  <TableCell align="right">
-                    <b>Poäng</b>
-                  </TableCell> */}
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {rows().map((row) => (
-              <TableRow
-                key={row.name}
-                sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
-              >
-                <TableCell component="th" scope="row" >
-                  <b>{row.name}</b>
-                </TableCell>
-                <TableCell align="right">
-                  {row.actual} ({row.guess})
+      {!hideUserGuesses ? (
+        <TableContainer component={Paper}>
+          <Table aria-label="simple table">
+            <TableHead>
+              <TableRow>
+                <TableCell align="right" colSpan="2">
+                  <b>Utfall (din gissning)</b>
                 </TableCell>
                 {/* <TableCell align="right">
-                      {row.guess}
+                      <b>Din gissning</b>
                     </TableCell>
-                    <TableCell align="right">{row.diff}</TableCell>
-                    <TableCell align="right">{row.points}</TableCell> */}
+                    <TableCell align="right">
+                      <b>Skillnad</b>
+                    </TableCell>
+                    <TableCell align="right">
+                      <b>Poäng</b>
+                    </TableCell> */}
               </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-      </TableContainer>
-      <Box sx={{pt:3}}>
-      <QuestionGraph
+            </TableHead>
+            <TableBody>
+              {rows().map((row) => (
+                <TableRow
+                  key={row.name}
+                  sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
+                >
+                  <TableCell component="th" scope="row" >
+                    <b>{row.name}</b>
+                  </TableCell>
+                  <TableCell align="right">{Number(row.actual).toLocaleString("sv")}{row.isPercentage ? '%' : ''}{!hideUserGuesses && row.guess !== undefined ? ` (${Number(row.guess).toLocaleString("sv")}${row.isPercentage ? '%' : ''})` : ''} 
+                  </TableCell>
+                  {/* <TableCell align="right">
+                        {row.guess}
+                      </TableCell>
+                      <TableCell align="right">{row.diff}</TableCell>
+                      <TableCell align="right">{row.points}</TableCell> */}
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </TableContainer>
+      ) :
+        <TableContainer component={Paper}>
+          <Table aria-label="simple table">
+            <TableHead>
+              <TableRow>
+                <TableCell align="right" colSpan="2">
+                  <b>Utfall</b>
+                </TableCell>
+                {/* <TableCell align="right">
+                  <b>Din gissning</b>
+                </TableCell>
+                <TableCell align="right">
+                  <b>Skillnad</b>
+                </TableCell>
+                <TableCell align="right">
+                  <b>Poäng</b>
+                </TableCell> */}
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {rows().map((row) => (
+                <TableRow
+                  key={row.name}
+                  sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
+                >
+                  <TableCell component="th" scope="row" >
+                    <b>{row.name}</b>
+                  </TableCell>
+                  <TableCell align="right">{Number(row.actual).toLocaleString("sv")}{row.isPercentage ? '%' : ''}
+                  </TableCell>
+                  {/* <TableCell align="right">
+                    {row.guess}
+                  </TableCell>
+                  <TableCell align="right">{row.diff}</TableCell>
+                  <TableCell align="right">{row.points}</TableCell> */}
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </TableContainer>
+      }
+      <Box sx={{ pt: 3 }}>
+        <QuestionGraph
           selectedQuestion={selectedQuestion}
-          userGuesses={userGuesses}
+          userGuesses={hideUserGuesses ? {} : userGuesses}
         />
-        </Box>
-      <Alert sx={{ mt: 2 }}>Dina totala poäng var <b>{rows().reduce((total, item) => total + item.actual, 0).toLocaleString("sv")}</b>! (Lägre är bättre)</Alert>
+      </Box>
+      {!hideUserGuesses && (
+        <Alert sx={{ mt: 2 }}>Dina totala poäng var <b>{rows().reduce((total, item) => total + item.actual, 0).toLocaleString("sv")}</b>! (Lägre är bättre)</Alert>
+      )}
     </Box>
   );
 }

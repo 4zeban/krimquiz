@@ -54,8 +54,8 @@ function UserInput({
       }));
     }
 
-    const nextIndex = label === "utredda" ? index + 2 : index + 1; // Skip 'direktavskrivna' input if the current label is 'utredda'
-
+    const nextIndex = label === "utredda" ? index + 3 : index + 1; // Skip 'direktavskrivna' input if the current label is 'utredda'
+    
     if (nextIndex < labels.length) {
       setSelectedQuestion((prev) => ({
         ...prev,

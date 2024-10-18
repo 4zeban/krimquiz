@@ -1,5 +1,6 @@
 import React from "react";
 import { Bar } from "react-chartjs-2";
+import { Checkbox, FormControlLabel } from "@mui/material";
 
 import {
   Chart as ChartJS,
@@ -33,37 +34,33 @@ function mapColumnNames(columnName) {
   return nameMapping[columnName] || columnName; // Return the original columnName if it's not found in the mapping
 }
 
-function QuestionGraph({ selectedQuestion, userGuesses }) {
+function QuestionGraph({ selectedQuestion, userGuesses, hideUserGuesses }) {
   const labels = ["handlagda", "utredda", "direktavskrivna", "personuppklaringsprocent"];
   const trueData = [];
   const userData = [];
 
-  const mappedLabels = labels.map((label) => { 
+  const mappedLabels = labels.map((label) => {
     if (label === "lagforingsprocent") {
       return null;
     }
-    return mapColumnNames(label); 
+    return mapColumnNames(label);
   });
 
   labels.forEach((label) => {
-    
     const isHandlagda = label === "handlagda";
 
     let trueValue = selectedQuestion.handlagda;
-    
-   if (label === "personuppklaringsprocent") {
-      trueValue = parseInt((selectedQuestion.properties[label].value / 100) * selectedQuestion.handlagda)
+
+    if (label === "personuppklaringsprocent") {
+      trueValue = parseInt((selectedQuestion.properties[label].value / 100) * selectedQuestion.handlagda);
+    } else if (label === "direktavskrivna") {
+      trueValue = selectedQuestion.properties["direktavskrivna"].value;
+    } else if (label === "utredda") {
+      trueValue = selectedQuestion.properties[label].value;
     }
-    else if (label === "utredda") {
-      trueValue = selectedQuestion.properties[label].value
-    }
-    
-    // Push the true value to trueData array if it's 'handlagda' or it is visible and has been guessed by the user.
-    if (isHandlagda || (selectedQuestion.properties[label]?.visible && userGuesses[label] !== undefined)) {
-      trueData.push(trueValue);
-    } else {
-      trueData.push(null); // Push null if the true value should not be visible.
-    }
+
+    // Push the true value to trueData array regardless of user guess visibility.
+    trueData.push(trueValue);
 
     // Don’t display user guess for the 'handlagda' bar, push the user guess value or null for other bars.
     if (isHandlagda) {
@@ -71,20 +68,16 @@ function QuestionGraph({ selectedQuestion, userGuesses }) {
     } else {
       userData.push(
         userGuesses[label] !== undefined
-          ? (label === "personuppklaringsprocent" 
-            ? (parseInt((userGuesses[label] / 100) * selectedQuestion.handlagda)) : userGuesses[label])
+          ? label === "personuppklaringsprocent"
+            ? parseInt((userGuesses[label] / 100) * selectedQuestion.handlagda)
+            : userGuesses[label]
           : null // Push null if the user hasn't guessed yet.
       );
-      console.log(label, userData, userGuesses, userGuesses["personuppklaringsprocent"]);
     }
   });
 
   const data = {
-    labels: mappedLabels.filter(
-      (_, index) =>
-        labels[index] === "handlagda" ||
-        userGuesses[labels[index]] !== undefined
-    ),
+    labels: mappedLabels.filter((_, index) => labels[index] !== "lagforingsprocent"),
     datasets: [
       {
         label: "2022",
@@ -98,12 +91,12 @@ function QuestionGraph({ selectedQuestion, userGuesses }) {
         ],
         skipNull: true,
       },
-      {
+      !hideUserGuesses && {
         label: "Din gissning",
         data: userData,
         backgroundColor: "#efefef",
       },
-    ].filter((dataset) => dataset.data.some((value) => value !== null)), // filter out datasets with all null values
+    ].filter((dataset) => dataset && dataset.data.some((value) => value !== null)), // filter out datasets with all null values
   };
 
   const options = {
@@ -154,7 +147,9 @@ function QuestionGraph({ selectedQuestion, userGuesses }) {
   };
 
   return (
-    <Bar data={data} options={options} />
+    <div>
+      <Bar data={data} options={options} />
+    </div>
     // <Card sx={{ minWidth: 275, mb:2 }}>
     //   {/* <CardHeader
     //     title={selectedQuestion.kategori}

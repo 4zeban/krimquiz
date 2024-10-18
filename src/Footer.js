@@ -7,23 +7,22 @@ const Footer = () => {
     const Copyright = () => {
         return (
             <Grid container spacing={1}>
-                <Grid item xs>
-                    <Typography variant="body2" sx={{ pt: 1, fontSize: 14 }} color="text.secondary">
-                        <Link color="inherit" href="https://x.com/4zeban">
-                            Azeban
-                        </Link>{' © '}
-                        {new Date().getFullYear()}
-                        {'.'}
-                    </Typography>
-                </Grid>
-                <Grid item xs textAlign="right">
-                    <Typography variant="body2" sx={{ pt: 1, fontSize: 14 }} color="text.secondary">
-                        <Link color="inherit" href="https://github.com/4zeban/krimquiz">
-                            <GitHubIcon sx={{fontSize:"inherit"}}/>
-                        </Link>
-                    </Typography>
-                </Grid>
+            <Grid item xs={10}>
+                <Typography variant="body2" sx={{ pt: 1, fontSize: 14 }} color="text.secondary">
+                    <Link color="inherit" href="https://x.com/4zeban">
+                        Azeban
+                    </Link>{' (https://4zeban.github.io/krimquiz) ©'}{new Date().getFullYear()}
+                    {'.'}
+                </Typography>
             </Grid>
+            <Grid item xs={2} textAlign="right">
+                <Typography variant="body2" sx={{ pt: 1, fontSize: 14  }} color="text.secondary">
+                    <Link color="inherit" href="https://github.com/4zeban/krimquiz">
+                        <GitHubIcon sx={{ fontSize: "inherit" }} />
+                    </Link>
+                </Typography>
+            </Grid>
+        </Grid>
         );
     };
 
@@ -44,14 +43,18 @@ const Footer = () => {
                     py: 1,
 
                     mt: 'auto',
+                    pb: 2,
                     borderTop: "1px solid",
-                    borderTopColor: "#e7e7e7"
+                    borderTopColor: "#e7e7e7",
+                    borderBottom: "1px solid",
+                    borderBottomColor: "#e7e7e7"
                 }}
             >
                 <Container maxWidth="sm">
                     <Copyright />
                 </Container>
             </Box>
+            
         </Box>
 
     );
